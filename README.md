@@ -7,7 +7,7 @@ Servarr Wiki
 Trash Guides
 Ascii ART
 Download and unzip Files from GitHub:
-https://github.com/automation-avenue/youtube-39-arr-apps-1-click
+git@github.com:sabinsthnp/rrr-stack.git
 cd /home/marek/Downloads
 unzip youtube-39-arr-apps-1-click
 
