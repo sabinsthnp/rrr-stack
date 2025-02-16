@@ -1,0 +1,53 @@
+title: "Home Page"
+theme: dark
+color: slate
+
+header: 
+  - logo: "https://raw.githubusercontent.com/gethomepage/homepage/main/public/img/logo.png"
+  - search:
+      provider: duckduckgo
+
+services:
+  - title: "Media Management"
+    icon: "mdi:server-network"
+    items:
+      - name: Prowlarr
+        icon: "mdi:magnify"
+        url: http://prowlarr:9696
+        api_key: YOUR_API_KEY
+      - name: Sonarr
+        icon: "mdi:television-classic"
+        url: http://sonarr:8989
+        api_key: YOUR_API_KEY
+      - name: Radarr
+        icon: "mdi:movie"
+        url: http://radarr:7878
+        api_key: YOUR_API_KEY
+      - name: Lidarr
+        icon: "mdi:music"
+        url: http://lidarr:8686
+        api_key: YOUR_API_KEY
+      - name: Readarr
+        icon: "mdi:book-open-page-variant"
+        url: http://readarr:8787
+        api_key: YOUR_API_KEY
+
+  - title: "Media Streaming"
+    icon: "mdi:play-circle"
+    items:
+      - name: Jellyfin
+        icon: "mdi:filmstrip"
+        url: http://jellyfin:8096
+      - name: qBittorrent
+        icon: "mdi:download"
+        url: http://qbittorrent:8080
+
+  - title: "System"
+    icon: "mdi:server"
+    items:
+      - name: Portainer
+        icon: "mdi:docker"
+        url: http://localhost:9000
+      - name: Homepage
+        icon: "mdi:view-dashboard"
+        url: http://localhost:7575
