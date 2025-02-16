@@ -5,3 +5,82 @@
 [2025-02-16T01:29:21.209Z] info: custom.css was copied to the config folder
 [2025-02-16T01:29:21.210Z] info: custom.js was copied to the config folder
 [2025-02-16T01:29:21.394Z] info: kubernetes.yaml was copied to the config folder
+[2025-02-16T01:58:04.088Z] error: Failed to load settings.yaml, please check for errors
+[2025-02-16T01:58:04.089Z] error: YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...
+[2025-02-16T01:58:04.092Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-02-16T01:58:04.092Z] error: YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...
+[2025-02-16T01:58:04.117Z] error: Failed to load settings.yaml, please check for errors
+[2025-02-16T01:58:04.117Z] error: YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...
+[2025-02-16T01:58:04.124Z] error: <index> YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at getSettings (/app/.next/server/chunks/1227.js:109:75)
+    at getStaticProps (/app/.next/server/pages/index.js:3255:101)
+[2025-02-16T01:58:04.201Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-02-16T01:58:04.201Z] error: YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...
+[2025-02-16T01:58:04.208Z] error: Failed to load settings.yaml, please check for errors
+[2025-02-16T01:58:04.208Z] error: YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...
+[2025-02-16T01:58:04.213Z] error: Failed to load settings.yaml, please check for errors
+[2025-02-16T01:58:04.213Z] error: YAMLException: duplicated mapping key (7:1)
+
+ 4 | background: https://images.unspl ...
+ 5 | theme: dark # <----- add this line
+ 6 | color: slate # <----- add this line
+ 7 | background:
+-----^
+ 8 |   image: https://images.unsplash ...
+ 9 |   blur: sm # sm, "", md, xl... s ...

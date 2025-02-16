@@ -409,3 +409,1328 @@
 2025-02-16 01:09:56.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2025-02-16 01:09:56.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
 2025-02-16 01:09:56.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-16 01:39:55.5|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.6|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.6|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.6|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.7|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.7|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.7|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.7|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.7|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:55.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:55.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:55.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:55.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:55.9|Debug|Api|[GET] /api/v1/customFilter: 200.OK (37 ms)
+2025-02-16 01:39:55.9|Debug|Api|[GET] /api/v1/tag: 200.OK (37 ms)
+2025-02-16 01:39:55.9|Debug|Api|[GET] /api/v1/appprofile: 200.OK (37 ms)
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (13 ms)
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Api|[GET] /api/v1/indexer/categories: 200.OK (16 ms)
+2025-02-16 01:39:56.0|Debug|Api|[GET] /api/v1/indexer: 200.OK (59 ms)
+2025-02-16 01:39:56.0|Debug|Api|[GET] /api/v1/config/ui: 200.OK (18 ms)
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.0|Debug|Api|[GET] /api/v1/localization: 200.OK (16 ms)
+2025-02-16 01:39:56.1|Debug|Api|[GET] /api/v1/system/status: 200.OK (72 ms)
+2025-02-16 01:39:56.1|Debug|Api|[GET] /api/v1/config/host: 200.OK (91 ms)
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.1|Debug|Api|[GET] /api/v1/indexer: 200.OK (8 ms)
+2025-02-16 01:39:56.1|Debug|Api|[GET] /api/v1/config/host: 200.OK (11 ms)
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.1|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (3 ms)
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:39:56.1|Debug|Api|[GET] /api/v1/health: 200.OK (22 ms)
+2025-02-16 01:39:56.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 01:40:09.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:40:10.0|Debug|Api|[PUT] /api/v1/config/host: 202.Accepted (275 ms)
+2025-02-16 01:40:10.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:40:10.4|Debug|Api|[GET] /api/v1/system/status: 200.OK (7 ms)
+2025-02-16 01:40:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:40:15.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 01:45:23.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:45:23.4|Debug|Api|[GET] /api/v1/command: 200.OK (67 ms)
+2025-02-16 01:50:53.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:50:53.3|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:56:23.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:56:23.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:01:53.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:01:53.4|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 02:07:23.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:07:23.4|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 02:08:17.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-02-16 02:08:21.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-02-16 02:08:22.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.0|Debug|Api|[GET] /api/v1/tag: 200.OK (4 ms)
+2025-02-16 02:08:22.0|Debug|Api|[GET] /api/v1/customFilter: 200.OK (5 ms)
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/appprofile: 200.OK (6 ms)
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/indexer/categories: 200.OK (5 ms)
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (6 ms)
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/indexer: 200.OK (6 ms)
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/config/ui: 200.OK (3 ms)
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/config/host: 200.OK (3 ms)
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/system/status: 200.OK (2 ms)
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/localization: 200.OK (8 ms)
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/indexer: 200.OK (2 ms)
+2025-02-16 02:08:22.1|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (2 ms)
+2025-02-16 02:08:22.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:12:33.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:12:33.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 02:12:33.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/indexer: 200.OK (4 ms)
+2025-02-16 02:12:33.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 02:12:53.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:53.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:13:40.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:13:40.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:13:40.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.4|Debug|Api|[GET] /api/v1/health: 200.OK (4 ms)
+2025-02-16 02:13:40.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:13:40.4|Debug|Api|[GET] /api/v1/indexer: 200.OK (37 ms)
+2025-02-16 02:38:30.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 02:38:30.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/indexer: 200.OK (7 ms)
+2025-02-16 02:59:05.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/health: 200.OK (3 ms)
+2025-02-16 02:59:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (41 ms)
+2025-02-16 03:04:15.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:09:25.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:09:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (3 ms)
+2025-02-16 03:14:35.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:19:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/health: 200.OK (5 ms)
+2025-02-16 03:19:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (38 ms)
+2025-02-16 03:24:55.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:30:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:30:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (40 ms)
+2025-02-16 03:35:24.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:24.3|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:40:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:40:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/command: 200.OK (5 ms)
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (6 ms)
+2025-02-16 03:45:35.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 03:50:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:50:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (10 ms)
+2025-02-16 03:55:55.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/indexer/categories: 200.OK (2 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/tag: 200.OK (9 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/customFilter: 200.OK (11 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/appprofile: 200.OK (9 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/indexer: 200.OK (7 ms)
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (11 ms)
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/config/ui: 200.OK (2 ms)
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/config/host: 200.OK (4 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/system/status: 200.OK (4 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/localization: 200.OK (5 ms)
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/indexer: 200.OK (2 ms)
+2025-02-16 03:57:06.8|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (3 ms)
+2025-02-16 03:57:06.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:57:15.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:15.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:15.6|Debug|Api|[GET] /api/v1/appprofile: 200.OK (6 ms)
+2025-02-16 03:57:15.6|Debug|Api|[GET] /api/v1/applications: 200.OK (22 ms)
+2025-02-16 03:57:16.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:16.4|Debug|Api|[GET] /api/v1/applications/schema: 200.OK (88 ms)
+2025-02-16 03:57:24.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:57:24.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:58:29.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:58:29.6|Warn|Sonarr|Unable to complete application test
+
+[v1.30.2.4939] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-02-16 03:58:29.8|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-02-16 03:58:29.8|Debug|Api|[POST] /api/v1/applications: 400.BadRequest (225 ms)
+2025-02-16 03:58:30.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:58:30.5|Warn|Sonarr|Unable to complete application test
+
+[v1.30.2.4939] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-02-16 03:58:30.6|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-02-16 03:58:30.6|Debug|Api|[POST] /api/v1/applications/test: 400.BadRequest (117 ms)
+2025-02-16 03:58:54.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:58:54.0|Warn|Sonarr|Unable to complete application test
+
+[v1.30.2.4939] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-02-16 03:58:54.1|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-02-16 03:58:54.1|Debug|Api|[POST] /api/v1/applications/test?forceTest=true: 400.BadRequest (114 ms)
+2025-02-16 03:59:26.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:27.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8989/api/v3/indexer/test: 400.BadRequest (249 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).",
+    "severity": "error"
+  }
+]
+2025-02-16 03:59:27.1|Warn|Sonarr|Prowlarr URL is invalid
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer/test]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Post(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 423
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.TestConnection(SonarrIndexer indexer, SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 131
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 03:59:27.1|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- ProwlarrUrl: Prowlarr URL is invalid, Sonarr cannot connect to Prowlarr
+2025-02-16 03:59:27.1|Debug|Api|[POST] /api/v1/applications/test: 400.BadRequest (673 ms)
+2025-02-16 03:59:35.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:35.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:35.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:35.2|Debug|Api|[POST] /api/v1/applications/test: 200.OK (226 ms)
+2025-02-16 03:59:35.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:37.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:37.3|Debug|Api|[POST] /api/v1/applications: 201.Created (1328 ms)
+2025-02-16 03:59:39.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:39.0|Debug|Api|[GET] /api/v1/applications/schema: 200.OK (2 ms)
+2025-02-16 04:00:12.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:12.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:12.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:12.8|Debug|Api|[POST] /api/v1/applications/test: 200.OK (425 ms)
+2025-02-16 04:00:14.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:14.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:14.8|Debug|Api|[POST] /api/v1/applications: 201.Created (558 ms)
+2025-02-16 04:00:17.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:17.2|Debug|Api|[GET] /api/v1/applications/schema: 200.OK (9 ms)
+2025-02-16 04:01:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:01:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/health: 200.OK (4 ms)
+2025-02-16 04:01:05.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/indexer: 200.OK (7 ms)
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/command: 200.OK (6 ms)
+2025-02-16 04:01:15.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:15.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:15.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:15.7|Debug|Api|[POST] /api/v1/applications/test: 200.OK (530 ms)
+2025-02-16 04:01:16.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:17.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:17.7|Debug|Api|[POST] /api/v1/applications: 201.Created (1496 ms)
+2025-02-16 04:01:47.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:47.9|Debug|Api|[GET] /api/v1/applications/schema: 200.OK (4 ms)
+2025-02-16 04:02:03.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:03.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:03.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:03.5|Debug|Api|[POST] /api/v1/applications/test: 200.OK (447 ms)
+2025-02-16 04:02:03.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:05.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:05.5|Debug|Api|[POST] /api/v1/applications: 201.Created (1564 ms)
+2025-02-16 04:02:17.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:17.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:17.3|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (2 ms)
+2025-02-16 04:02:17.3|Debug|Api|[GET] /api/v1/indexer: 200.OK (3 ms)
+2025-02-16 04:02:18.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:19.7|Debug|Api|[GET] /api/v1/indexer/schema: 200.OK (960 ms)
+2025-02-16 04:02:35.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:35.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:35.0|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (19 ms)
+2025-02-16 04:02:35.3|Debug|Api|[POST] /api/v1/indexer/action/getUrls: 200.OK (256 ms)
+2025-02-16 04:02:37.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:37.4|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:37.4|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:37.7|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (416 ms)
+2025-02-16 04:02:38.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:38.6|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:38.6|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:39.6|Debug|Api|[POST] /api/v1/indexer: 201.Created (1077 ms)
+2025-02-16 04:02:39.6|Debug|ApplicationService|No tags set to application Sonarr.
+2025-02-16 04:02:39.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:39.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:39.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:02:39.7|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:39.7|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:41.6|Debug|ReleaseSearchService|Total of 18 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-02-16 04:02:41.8|Debug|ApplicationService|No tags set to application Lidarr.
+2025-02-16 04:02:41.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:41.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:41.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [3000, 3030, 3040, 3050]
+2025-02-16 04:02:41.8|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:41.8|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:43.6|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [3000, 3030, 3040, 3050] from 1 indexer(s)
+2025-02-16 04:02:43.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8686/api/v1/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:02:43.7|Warn|LidarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:02:43.7|Debug|LidarrV1Proxy|Retrying to add indexer forcefully
+2025-02-16 04:02:43.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:43.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [3000, 3030, 3040, 3050]
+2025-02-16 04:02:43.8|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:43.8|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:44.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:44.7|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:02:45.6|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [3000, 3030, 3040, 3050] from 1 indexer(s)
+2025-02-16 04:02:45.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8686/api/v1/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:02:45.6|Warn|LidarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:02:45.7|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.AddIndexer(LidarrIndexer indexer, LidarrSettings settings) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 99
+   at NzbDrone.Core.Applications.Lidarr.Lidarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Lidarr/Lidarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:02:45.7|Debug|ApplicationService|No tags set to application Radarr.
+2025-02-16 04:02:45.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:45.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:45.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-16 04:02:45.8|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:45.8|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:47.6|Debug|ReleaseSearchService|Total of 13 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045] from 1 indexer(s)
+2025-02-16 04:02:47.7|Debug|ApplicationService|No tags set to application Readarr.
+2025-02-16 04:02:47.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:47.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:47.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050]
+2025-02-16 04:02:47.7|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:47.7|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:02:49.6|Debug|ReleaseSearchService|Total of 5 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050] from 1 indexer(s)
+2025-02-16 04:02:50.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:50.8|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:02:51.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:51.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:51.8|Debug|Api|[POST] /api/v1/indexer/action/getUrls: 200.OK (21 ms)
+2025-02-16 04:02:51.8|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (41 ms)
+2025-02-16 04:02:53.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:53.3|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/time/desc/1/
+2025-02-16 04:02:53.3|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/time/desc/1/
+2025-02-16 04:02:53.3|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to access 1337x.to, blocked by CloudFlare Protection.
+2025-02-16 04:02:53.3|Debug|Api|[POST] /api/v1/indexer/test: 400.BadRequest (66 ms)
+2025-02-16 04:02:54.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:54.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:03:37.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:37.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:37.2|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (5 ms)
+2025-02-16 04:03:37.2|Debug|Api|[POST] /api/v1/indexer/action/getUrls: 200.OK (11 ms)
+2025-02-16 04:03:38.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:38.5|Debug|Cardigann|Adding request for YTS: https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:03:38.5|Debug|Cardigann|Downloading Feed https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:03:39.7|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (1214 ms)
+2025-02-16 04:03:40.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:40.3|Debug|Cardigann|Adding request for YTS: https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:03:40.3|Debug|Cardigann|Downloading Feed https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:03:41.6|Debug|Api|[POST] /api/v1/indexer: 201.Created (1289 ms)
+2025-02-16 04:03:41.6|Debug|ApplicationService|No tags set to application Sonarr.
+2025-02-16 04:03:41.6|Debug|ApplicationService|No tags set to application Lidarr.
+2025-02-16 04:03:41.6|Debug|ApplicationService|No tags set to application Radarr.
+2025-02-16 04:03:41.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:41.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:41.6|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2025-02-16 04:03:41.6|Debug|Cardigann|Adding request for YTS: https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:03:41.6|Debug|Cardigann|Downloading Feed https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:03:44.1|Debug|ReleaseSearchService|Total of 100 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060] from 1 indexer(s)
+2025-02-16 04:03:44.2|Debug|ApplicationService|No tags set to application Readarr.
+2025-02-16 04:03:46.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:46.6|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:03:56.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:57.1|Debug|Api|[GET] /api/v1/indexer/schema: 200.OK (284 ms)
+2025-02-16 04:04:01.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:01.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:01.1|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (4 ms)
+2025-02-16 04:04:01.1|Debug|Api|[POST] /api/v1/indexer/action/getUrls: 200.OK (14 ms)
+2025-02-16 04:04:02.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:02.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:04:02.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:04:02.6|Warn|Cardigann|Unable to connect to indexer
+
+[v1.30.2.4939] System.FormatException: The format of value '' is invalid.
+   at System.Net.Http.Headers.HttpHeaderParser.ParseValue(String value, Object storeValue, Int32& index)
+   at System.Net.Http.Headers.HttpHeaders.ParseAndAddValue(HeaderDescriptor descriptor, HeaderStoreItemInfo info, String value)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.AddRequestHeaders(HttpRequestMessage webRequest, HttpHeader headers) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 218
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 109
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./Prowlarr.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 661
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 660
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 583
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 760
+
+
+2025-02-16 04:04:02.6|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. The format of value '' is invalid.
+2025-02-16 04:04:02.6|Debug|Api|[POST] /api/v1/indexer/test: 400.BadRequest (60 ms)
+2025-02-16 04:05:45.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:05:45.0|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:05:45.0|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:05:52.4|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (7394 ms)
+2025-02-16 04:05:53.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:05:54.0|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:05:54.0|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:06:02.1|Debug|Api|[POST] /api/v1/indexer: 201.Created (8198 ms)
+2025-02-16 04:06:02.1|Debug|ApplicationService|No tags set to application Sonarr.
+2025-02-16 04:06:02.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:02.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:02.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-16 04:06:02.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:06:02.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:06:07.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:07.2|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:06:14.7|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:06:14.7|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:06:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:06:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:06:19.7|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:06:19.7|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:06:25.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:25.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:25.0|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (2 ms)
+2025-02-16 04:06:25.0|Debug|Api|[POST] /api/v1/indexer/action/getUrls: 200.OK (10 ms)
+2025-02-16 04:06:25.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:06:25.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:06:26.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:26.5|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search
+2025-02-16 04:06:26.5|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search
+2025-02-16 04:06:27.2|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (697 ms)
+2025-02-16 04:06:27.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:27.7|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search
+2025-02-16 04:06:27.7|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search
+2025-02-16 04:06:28.9|Debug|Api|[POST] /api/v1/indexer: 201.Created (1197 ms)
+2025-02-16 04:06:28.9|Debug|ApplicationService|No tags set to application Sonarr.
+2025-02-16 04:06:28.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:28.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:28.9|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:06:28.9|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search
+2025-02-16 04:06:28.9|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search
+2025-02-16 04:06:30.3|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:06:30.3|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:06:34.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:34.0|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:06:35.2|Debug|ReleaseSearchService|Total of 15 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-02-16 04:06:35.3|Debug|ApplicationService|No tags set to application Lidarr.
+2025-02-16 04:06:35.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:35.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:35.3|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [3000]
+2025-02-16 04:06:35.3|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:06:35.3|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:06:36.0|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2025-02-16 04:06:36.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8989/api/v3/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:36.0|Warn|SonarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:36.0|Debug|SonarrV3Proxy|Retrying to add indexer forcefully
+2025-02-16 04:06:36.0|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:36.0|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:06:36.0|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search
+2025-02-16 04:06:36.0|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search
+2025-02-16 04:06:36.5|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2025-02-16 04:06:36.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8989/api/v3/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:36.5|Warn|SonarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:36.5|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 150
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.AddIndexer(SonarrIndexer indexer, SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 140
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:36.6|Debug|ApplicationService|No tags set to application Lidarr.
+2025-02-16 04:06:36.6|Debug|ApplicationService|No tags set to application Radarr.
+2025-02-16 04:06:36.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:36.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:36.6|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-02-16 04:06:36.6|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search
+2025-02-16 04:06:36.6|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search
+2025-02-16 04:06:38.4|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000] from 1 indexer(s)
+2025-02-16 04:06:38.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:7878/api/v3/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:38.5|Warn|RadarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 228
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 163
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:38.5|Debug|RadarrV3Proxy|Retrying to add indexer forcefully
+2025-02-16 04:06:38.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:38.6|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-02-16 04:06:38.6|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search
+2025-02-16 04:06:38.6|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search
+2025-02-16 04:06:40.4|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000] from 1 indexer(s)
+2025-02-16 04:06:40.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:7878/api/v3/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:40.5|Warn|RadarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 228
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 163
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:40.5|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 228
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 163
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.AddIndexer(RadarrIndexer indexer, RadarrSettings settings) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 100
+   at NzbDrone.Core.Applications.Radarr.Radarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Radarr/Radarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:40.5|Debug|ApplicationService|No tags set to application Readarr.
+2025-02-16 04:06:41.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:41.6|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:06:43.8|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:06:43.8|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:06:50.3|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:06:50.3|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:06:58.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:06:58.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:07:04.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:07:04.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:07:29.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:29.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050]
+2025-02-16 04:07:29.7|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:07:29.7|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:07:29.9|Debug|ReleaseSearchService|Total of 5 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050] from 1 indexer(s)
+2025-02-16 04:07:59.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-16 04:07:59.6|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2025-02-16 04:07:59.6|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:07:59.6|Debug|Cardigann|Adding request for YTS: https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:07:59.6|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:07:59.6|Debug|Cardigann|Downloading Feed https://yts.mx/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:07:59.6|Debug|ReleaseSearchService|Total of 13 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045] from 1 indexer(s)
+2025-02-16 04:08:00.8|Debug|ReleaseSearchService|Total of 100 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060] from 1 indexer(s)
+2025-02-16 04:08:02.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:02.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:02.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:08:02.6|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:08:02.6|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:08:02.6|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-16 04:08:02.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:08:02.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:08:02.6|Debug|ReleaseSearchService|Total of 18 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-02-16 04:08:07.5|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:08:07.5|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:08:14.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:08:14.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:08:15.3|Error|LidarrV1Proxy|Unable to add or update indexer
+
+[v1.30.2.4939] System.Net.WebException: Http request timed out
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+
+
+2025-02-16 04:08:15.4|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService server is currently unavailable. Http request timed out
+
+[v1.30.2.4939] System.Net.WebException: Http request timed out
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.AddIndexer(LidarrIndexer indexer, LidarrSettings settings) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 91
+   at NzbDrone.Core.Applications.Lidarr.Lidarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Lidarr/Lidarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+
+
+2025-02-16 04:08:15.5|Debug|ApplicationService|No tags set to application Radarr.
+2025-02-16 04:08:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:15.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:15.5|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-02-16 04:08:15.5|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:08:15.5|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:08:17.2|Warn|Cardigann|Request for kickasstorrents.to failed with status BadGateway. Retrying in 2.0006284s.
+2025-02-16 04:08:19.5|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:08:19.5|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:08:20.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:20.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:08:22.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:08:22.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:08:24.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:24.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:08:26.2|Debug|ReleaseSearchService|Total of 82 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [3000] from 1 indexer(s)
+2025-02-16 04:08:26.8|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:08:26.8|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:08:28.8|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:08:28.8|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:08:33.4|Debug|ReleaseSearchService|Total of 15 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-02-16 04:08:35.0|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:08:35.0|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:08:44.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:08:44.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:08:52.1|Debug|ReleaseSearchService|Total of 2 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000] from 1 indexer(s)
+2025-02-16 04:08:52.1|Debug|ApplicationService|No tags set to application Readarr.
+2025-02-16 04:08:52.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:52.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:52.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [7000]
+2025-02-16 04:08:52.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:08:52.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:08:57.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:57.2|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:09:07.0|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:09:07.0|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:09:12.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:09:12.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:09:17.7|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:09:17.7|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:09:23.5|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:09:23.5|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:09:30.1|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [7000] from 1 indexer(s)
+2025-02-16 04:09:30.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8787/api/v1/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:09:30.2|Warn|ReadarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 202
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 137
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:09:30.2|Debug|ReadarrV1Proxy|Retrying to add indexer forcefully
+2025-02-16 04:09:30.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:30.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [7000]
+2025-02-16 04:09:30.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:09:30.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:09:36.3|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:09:36.3|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:09:42.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:09:42.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:09:47.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:48.0|Debug|Api|[GET] /api/v1/indexerProxy: 200.OK (18 ms)
+2025-02-16 04:09:48.1|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:09:48.1|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:09:48.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:48.7|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (2 ms)
+2025-02-16 04:09:50.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:50.7|Debug|Api|[GET] /api/v1/config/host: 200.OK (4 ms)
+2025-02-16 04:09:51.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:51.4|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (2 ms)
+2025-02-16 04:09:51.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:51.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:51.8|Debug|Api|[GET] /api/v1/appprofile: 200.OK (6 ms)
+2025-02-16 04:09:51.8|Debug|Api|[GET] /api/v1/applications: 200.OK (11 ms)
+2025-02-16 04:09:53.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:09:53.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:09:59.6|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [7000] from 1 indexer(s)
+2025-02-16 04:09:59.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8787/api/v1/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:09:59.6|Warn|ReadarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 202
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 137
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:09:59.6|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 202
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.AddIndexer(ReadarrIndexer indexer, ReadarrSettings settings) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 96
+   at NzbDrone.Core.Applications.Readarr.Readarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Readarr/Readarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:10:04.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:04.7|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:11:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:11:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:11:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:11:25.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:11:25.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:11:25.6|Debug|Api|[GET] /api/v1/indexer: 200.OK (12 ms)
+2025-02-16 04:13:54.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:54.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:14:32.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:32.3|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (2 ms)
+2025-02-16 04:14:34.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:34.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:34.9|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (4 ms)
+2025-02-16 04:14:34.9|Debug|Api|[GET] /api/v1/indexer: 200.OK (11 ms)
+2025-02-16 04:14:41.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:41.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:41.5|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (2 ms)
+2025-02-16 04:14:41.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay, YTS, kickasstorrents.to, Torrentz2nz] for Term: [kung fu panda], Offset: 0, Limit: 100, Categories: []
+2025-02-16 04:14:41.6|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/q.php?q=kung.fu.panda&cat=
+2025-02-16 04:14:41.6|Debug|Cardigann|Downloading Feed https://apibay.org/q.php?q=kung.fu.panda&cat=
+2025-02-16 04:14:41.6|Debug|Cardigann|Adding request for YTS: https://yts.mx/api/v2/list_movies.json?query_term=kung+fu+panda&limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:14:41.6|Debug|Cardigann|Downloading Feed https://yts.mx/api/v2/list_movies.json?query_term=kung+fu+panda&limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:14:41.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/?sortby=time&sort=desc
+2025-02-16 04:14:41.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/?sortby=time&sort=desc
+2025-02-16 04:14:41.6|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search?q=kung+fu+panda
+2025-02-16 04:14:41.6|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search?q=kung+fu+panda
+2025-02-16 04:14:53.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/2/?sortby=time&sort=desc
+2025-02-16 04:14:53.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/2/?sortby=time&sort=desc
+2025-02-16 04:15:05.1|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/3/?sortby=time&sort=desc
+2025-02-16 04:15:05.1|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/3/?sortby=time&sort=desc
+2025-02-16 04:15:16.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/4/?sortby=time&sort=desc
+2025-02-16 04:15:16.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/4/?sortby=time&sort=desc
+2025-02-16 04:15:30.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/5/?sortby=time&sort=desc
+2025-02-16 04:15:30.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/5/?sortby=time&sort=desc
+2025-02-16 04:15:42.6|Warn|Cardigann|Request for Torrentz2nz failed with status GatewayTimeout. Retrying in 2.6118985s.
+2025-02-16 04:16:24.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:24.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:24.9|Debug|Api|[GET] /api/v1/health: 200.OK (7 ms)
+2025-02-16 04:16:24.9|Debug|Api|[GET] /api/v1/system/status: 200.OK (3 ms)
+2025-02-16 04:16:28.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:28.2|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:28.2|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (4 ms)
+2025-02-16 04:16:28.2|Debug|Api|[GET] /api/v1/indexer: 200.OK (10 ms)
+2025-02-16 04:16:35.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (5 ms)
+2025-02-16 04:16:45.6|Warn|Cardigann|Request for Torrentz2nz failed with status GatewayTimeout. Retrying in 1.6111846s.
+2025-02-16 04:17:21.8|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:21.8|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (1 ms)
+2025-02-16 04:17:28.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:28.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay, YTS, kickasstorrents.to, Torrentz2nz] for Term: [kung fu panda], Offset: 0, Limit: 100, Categories: []
+2025-02-16 04:17:28.2|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/q.php?q=kung.fu.panda&cat=
+2025-02-16 04:17:28.2|Debug|Cardigann|Downloading Feed https://apibay.org/q.php?q=kung.fu.panda&cat=
+2025-02-16 04:17:28.2|Debug|Cardigann|Adding request for YTS: https://yts.mx/api/v2/list_movies.json?query_term=kung+fu+panda&limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:17:28.2|Debug|Cardigann|Downloading Feed https://yts.mx/api/v2/list_movies.json?query_term=kung+fu+panda&limit=50&sort_by=date_added&order_by=desc
+2025-02-16 04:17:28.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/?sortby=time&sort=desc
+2025-02-16 04:17:28.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/?sortby=time&sort=desc
+2025-02-16 04:17:28.2|Debug|Cardigann|Adding request for Torrentz2nz: https://torrentz2.nz/search?q=kung+fu+panda
+2025-02-16 04:17:28.2|Debug|Cardigann|Downloading Feed https://torrentz2.nz/search?q=kung+fu+panda
+2025-02-16 04:17:28.8|Warn|Cardigann|Request for Torrentz2nz failed with status BadGateway. Retrying in 1.1854949s.
+2025-02-16 04:17:30.5|Warn|Cardigann|Request for Torrentz2nz failed with status BadGateway. Retrying in 3.1376987s.
+2025-02-16 04:17:34.3|Warn|Cardigann|HTTP Error - Res: HTTP/2.0 [GET] https://torrentz2.nz/search?q=kung+fu+panda: 502.BadGateway (15 bytes)
+error code: 502
+2025-02-16 04:17:34.3|Warn|Cardigann|Unable to connect to Torrentz2nz at [https://torrentz2.nz/search?q=kung+fu+panda]. Indexer's server is unavailable. Try again later. HTTP request failed: [502:BadGateway] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [502:BadGateway] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 697
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 606
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 424
+error code: 502
+
+
+2025-02-16 04:17:34.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:34.3|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (8 ms)
+2025-02-16 04:17:34.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/2/?sortby=time&sort=desc
+2025-02-16 04:17:34.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/2/?sortby=time&sort=desc
+2025-02-16 04:17:39.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:39.4|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:17:40.5|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/3/?sortby=time&sort=desc
+2025-02-16 04:17:40.5|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/3/?sortby=time&sort=desc
+2025-02-16 04:17:47.5|Warn|Cardigann|HTTP Error - Res: HTTP/2.0 [GET] https://torrentz2.nz/search?q=kung+fu+panda: 504.GatewayTimeout (15 bytes)
+error code: 504
+2025-02-16 04:17:47.5|Warn|Cardigann|Unable to connect to Torrentz2nz at [https://torrentz2.nz/search?q=kung+fu+panda]. Indexer's server is unavailable. Try again later. HTTP request failed: [504:GatewayTimeout] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [504:GatewayTimeout] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 697
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 606
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 424
+error code: 504
+
+
+2025-02-16 04:17:47.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:47.5|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (3 ms)
+2025-02-16 04:17:47.5|Debug|ReleaseSearchService|Total of 220 reports were found for Term: [kung fu panda], Offset: 0, Limit: 100, Categories: [] from 4 indexer(s)
+2025-02-16 04:17:47.6|Debug|Api|[GET] /api/v1/search?query=kung%20fu%20panda&type=search&limit=100&offset=0: 200.OK (186085 ms)
+2025-02-16 04:17:50.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/4/?sortby=time&sort=desc
+2025-02-16 04:17:50.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/4/?sortby=time&sort=desc
+2025-02-16 04:17:52.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:52.6|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:17:56.3|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/kung%20fu%20panda/5/?sortby=time&sort=desc
+2025-02-16 04:17:56.3|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/kung%20fu%20panda/5/?sortby=time&sort=desc
+2025-02-16 04:18:02.9|Debug|ReleaseSearchService|Total of 220 reports were found for Term: [kung fu panda], Offset: 0, Limit: 100, Categories: [] from 4 indexer(s)
+2025-02-16 04:18:02.9|Debug|Api|[GET] /api/v1/search?query=kung%20fu%20panda&type=search&limit=100&offset=0: 200.OK (34808 ms)
+2025-02-16 04:19:24.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:19:24.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:20:19.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:19.4|Fatal|ProwlarrErrorPipeline|Request Failed. POST /api/v1/search
+
+[v1.30.2.4939] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Torrent Download client isn't configured yet
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, IDownloadClient downloadClient) in ./Prowlarr.Core/Download/DownloadService.cs:line 61
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, Nullable`1 downloadClientId) in ./Prowlarr.Core/Download/DownloadService.cs:line 52
+   at Prowlarr.Api.V1.Search.SearchController.GrabRelease(ReleaseResource release) in ./Prowlarr.Api.V1/Search/SearchController.cs:line 77
+   at lambda_method472(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:20:19.5|Debug|Api|[POST] /api/v1/search: 500.InternalServerError (157 ms)
+2025-02-16 04:20:21.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:21.4|Fatal|ProwlarrErrorPipeline|Request Failed. POST /api/v1/search
+
+[v1.30.2.4939] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Torrent Download client isn't configured yet
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, IDownloadClient downloadClient) in ./Prowlarr.Core/Download/DownloadService.cs:line 61
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, Nullable`1 downloadClientId) in ./Prowlarr.Core/Download/DownloadService.cs:line 52
+   at Prowlarr.Api.V1.Search.SearchController.GrabRelease(ReleaseResource release) in ./Prowlarr.Api.V1/Search/SearchController.cs:line 77
+   at lambda_method472(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:20:21.5|Debug|Api|[POST] /api/v1/search: 500.InternalServerError (116 ms)
+2025-02-16 04:21:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:21:45.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/indexer: 200.OK (17 ms)
+2025-02-16 04:22:38.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:38.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:38.4|Debug|IndexerFactory|Temporarily ignoring indexer Torrentz2nz till 02/16/2025 04:22:47 due to recent failures.
+2025-02-16 04:22:38.4|Debug|IndexerFactory|Temporarily ignoring indexer Torrentz2nz till 02/16/2025 04:22:47 due to recent failures.
+2025-02-16 04:22:38.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [Separacion] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:22:38.4|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [Separacion] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:22:38.4|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/q.php?q=separacion.s01%7C%22season.01%22&cat=205%2C206%2C208%2C212
+2025-02-16 04:22:38.4|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/Separacion%20S01/?sortby=time&sort=desc
+2025-02-16 04:22:38.4|Debug|Cardigann|Downloading Feed https://apibay.org/q.php?q=separacion.s01%7C%22season.01%22&cat=205%2C206%2C208%2C212
+2025-02-16 04:22:38.4|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/Separacion%20S01/?sortby=time&sort=desc
+2025-02-16 04:22:38.8|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [Separacion] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-02-16 04:22:40.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:40.4|Debug|IndexerFactory|Temporarily ignoring indexer Torrentz2nz till 02/16/2025 04:22:47 due to recent failures.
+2025-02-16 04:22:40.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [Scissione] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:22:40.4|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/q.php?q=scissione.s01%7C%22season.01%22&cat=205%2C206%2C208%2C212
+2025-02-16 04:22:40.4|Debug|Cardigann|Downloading Feed https://apibay.org/q.php?q=scissione.s01%7C%22season.01%22&cat=205%2C206%2C208%2C212
+2025-02-16 04:22:40.7|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [Scissione] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-02-16 04:22:42.4|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:42.4|Debug|IndexerFactory|Temporarily ignoring indexer Torrentz2nz till 02/16/2025 04:22:47 due to recent failures.
+2025-02-16 04:22:42.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [Severance] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:22:42.4|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/q.php?q=severance.s01%7C%22season.01%22&cat=205%2C206%2C208%2C212
+2025-02-16 04:22:42.4|Debug|Cardigann|Downloading Feed https://apibay.org/q.php?q=severance.s01%7C%22season.01%22&cat=205%2C206%2C208%2C212
+2025-02-16 04:22:42.7|Debug|ReleaseSearchService|Total of 13 reports were found for Term: [Severance] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-02-16 04:22:52.7|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [Separacion] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2025-02-16 04:22:52.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:52.7|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [Scissione] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:22:52.7|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/Scissione%20S01/?sortby=time&sort=desc
+2025-02-16 04:22:52.7|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/Scissione%20S01/?sortby=time&sort=desc
+2025-02-16 04:22:58.7|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [Scissione] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2025-02-16 04:22:58.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:58.7|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [Severance] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:22:58.7|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/Severance%20S01/?sortby=time&sort=desc
+2025-02-16 04:22:58.7|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/Severance%20S01/?sortby=time&sort=desc
+2025-02-16 04:23:00.3|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050]
+2025-02-16 04:23:00.4|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:23:00.4|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:23:00.4|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050] from 1 indexer(s)
+2025-02-16 04:23:05.1|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/usearch/Severance%20S01/2/?sortby=time&sort=desc
+2025-02-16 04:23:05.1|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/usearch/Severance%20S01/2/?sortby=time&sort=desc
+2025-02-16 04:23:10.1|Debug|ReleaseSearchService|Total of 11 reports were found for Term: [Severance] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2025-02-16 04:23:10.9|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:16.3|Debug|Cardigann|CardigannIndexer (kickasstorrents-to): Download selector NzbDrone.Core.Indexers.Definitions.Cardigann.SelectorField matched:
+<a class="kaGiantButton " data-nop="" title="Magnet link" href="magnet:?xt=urn:btih:2FCC2C404CA104ADA71C174D6703D54869F2B929&amp;dn=Severance+%282022%29+S01+REPACK+%281080p+BluRay+x265+10bit+EAC3+5.1+Silence%29+%5BQxR%5D&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce">
+	<i class="ka ka-magnet"></i>
+</a>
+2025-02-16 04:24:03.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:03.1|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:03.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:24:03.2|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:24:03.2|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-02-16 04:24:03.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-16 04:24:03.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:24:03.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/?sortby=time&sort=desc
+2025-02-16 04:24:03.3|Debug|ReleaseSearchService|Total of 11 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-02-16 04:24:09.6|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:24:09.6|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/2/?sortby=time&sort=desc
+2025-02-16 04:24:15.2|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:24:15.2|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/3/?sortby=time&sort=desc
+2025-02-16 04:24:21.9|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:24:21.9|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/4/?sortby=time&sort=desc
+2025-02-16 04:24:28.7|Debug|Cardigann|Adding request for kickasstorrents.to: https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:24:28.7|Debug|Cardigann|Downloading Feed https://kickasstorrents.to/new/5/?sortby=time&sort=desc
+2025-02-16 04:24:34.4|Debug|ReleaseSearchService|Total of 15 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-02-16 04:24:54.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:54.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:29:29.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:29:29.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:29:29.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:29:29.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:29:29.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:29:29.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:29:29.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 04:29:29.5|Debug|Api|[GET] /api/v1/indexer: 200.OK (12 ms)
+2025-02-16 04:30:24.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:24.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:32:05.5|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:32:05.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.7|Debug|Api|[GET] /api/v1/health: 200.OK (30 ms)
+2025-02-16 04:32:05.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.7|Debug|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.7|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 04:32:05.7|Debug|Api|[GET] /api/v1/indexer: 200.OK (15 ms)

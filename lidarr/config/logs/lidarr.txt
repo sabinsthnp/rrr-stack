@@ -2866,3 +2866,172 @@
 2025-02-16 01:37:56.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2025-02-16 01:37:56.1|Info|DownloadDecisionMaker|No results found
 2025-02-16 01:37:56.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 01:52:56.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 01:52:56.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 01:52:56.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 01:52:56.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:07:56.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:07:56.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:07:56.9|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:07:56.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:08:50.4|Info|Auth|Auth-Success ip 192.168.18.2 username 'admin'
+2025-02-16 02:22:57.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:22:57.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:22:57.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:22:57.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:37:57.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:37:57.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:37:57.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:37:57.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:52:58.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:52:58.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:52:58.0|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:52:58.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:07:58.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:07:58.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:07:58.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:07:58.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:22:58.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:22:58.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:22:58.8|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:22:58.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:37:59.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:37:59.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:37:59.2|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:37:59.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:52:59.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:52:59.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:52:59.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:52:59.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:02:43.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:02:43.7|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:02:45.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:02:45.6|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:07:59.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:07:59.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 04:07:59.8|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:07:59.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:08:15.3|Warn|Torznab|Unable to connect to indexer.
+2025-02-16 04:08:15.3|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. Http request timed out
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. Http request timed out
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:08:15.3|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. Http request timed out
+2025-02-16 04:23:00.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:23:00.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 04:23:00.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:23:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

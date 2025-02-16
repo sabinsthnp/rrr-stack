@@ -911,3 +911,1174 @@
 2025-02-16 01:37:56.1|Debug|PendingReleaseService|Removing failed releases from pending
 2025-02-16 01:37:56.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2025-02-16 01:37:56.2|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:38:26.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:38:26.2|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:38:26.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:38:26.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (16 ms)
+2025-02-16 01:38:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:38:26.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:38:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:38:26.3|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:38:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:38:26.3|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:39:56.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:39:56.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:39:56.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.3|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:39:56.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:39:56.3|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:41:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:41:26.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 01:41:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:41:26.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:41:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:41:26.3|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:41:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:41:26.3|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:42:56.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 01:42:56.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:42:56.3|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:42:56.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:42:56.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:42:56.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:42:56.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:42:56.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:42:56.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:42:56.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:42:56.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:43:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:43:26.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:44:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:44:26.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 01:44:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:44:26.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:44:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:44:26.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:44:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:44:26.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:45:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:45:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:45:56.5|Debug|Api|[GET] /api/v1/command: 200.OK (5 ms)
+2025-02-16 01:45:56.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (10 ms)
+2025-02-16 01:45:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:45:56.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:45:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:45:56.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:47:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:47:26.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:47:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:47:26.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:47:26.4|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:47:26.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 01:47:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:47:26.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:47:56.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 01:47:56.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:47:56.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:48:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:26.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:48:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:56.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:48:56.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 01:48:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:56.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:48:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:56.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:50:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:50:26.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:50:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:50:26.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:50:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:50:26.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:50:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:50:26.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:51:56.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:51:56.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 01:51:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:51:56.6|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:51:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:51:56.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:51:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:51:56.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:52:56.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 01:52:56.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 01:52:56.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 01:52:56.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 01:52:56.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 01:52:56.6|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 01:52:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:52:56.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:52:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:52:56.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:53:26.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:53:26.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:53:26.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:53:26.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:53:26.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:53:26.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 01:53:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:53:26.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:53:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:53:26.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:54:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:54:56.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 01:54:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:54:56.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:54:56.6|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:54:56.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 01:54:56.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:54:56.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:56:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:56:26.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:56:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:56:26.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:56:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:56:26.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:56:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:56:26.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:57:56.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 01:57:56.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:57:56.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:57:56.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:57:56.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:57:56.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:57:56.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:57:56.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:57:56.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:57:56.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:57:56.8|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 01:58:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:58:26.7|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 01:59:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:59:26.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 01:59:26.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:59:26.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 01:59:26.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:59:26.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 01:59:26.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:59:26.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:00:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:00:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:00:56.9|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:00:56.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 02:00:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:00:56.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:00:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:00:56.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:02:26.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:02:26.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:02:26.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:02:26.8|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 02:02:26.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:02:26.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:02:26.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:02:26.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:02:56.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:02:56.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:02:56.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:03:26.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:03:26.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:03:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:03:56.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:03:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:03:56.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:03:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:03:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:03:57.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:03:57.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:05:26.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:05:26.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:05:26.9|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 02:05:26.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 02:05:26.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:05:26.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:05:26.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:05:26.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:06:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:06:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:06:57.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:06:57.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:06:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:06:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:06:57.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:06:57.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 02:07:56.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:07:56.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:07:56.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:07:56.9|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:07:56.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:07:56.9|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 02:07:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:07:56.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:07:56.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:07:56.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:08:27.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:27.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:08:27.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:27.0|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 02:08:27.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:27.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 02:08:27.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:27.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:08:27.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:27.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:08:50.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/customFilter: 200.OK (4 ms)
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/language: 200.OK (3 ms)
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/tag: 200.OK (5 ms)
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/artist: 200.OK (13 ms)
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/importlist: 200.OK (6 ms)
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/qualityprofile: 200.OK (6 ms)
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/metadataprofile: 200.OK (10 ms)
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/indexerFlag: 200.OK (2 ms)
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/config/ui: 200.OK (4 ms)
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/system/status: 200.OK (2 ms)
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.5|Debug|Api|[GET] /api/v1/localization: 200.OK (4 ms)
+2025-02-16 02:08:50.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:08:50.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:08:50.6|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 02:08:50.6|Debug|Api|[GET] /api/v1/queue/status: 200.OK (3 ms)
+2025-02-16 02:08:50.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:08:50.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:09:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:57.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:09:57.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:09:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:57.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 02:09:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:57.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:11:27.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:11:27.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:11:27.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:11:27.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:11:27.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:11:27.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:11:27.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:11:27.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:12:33.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:12:33.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/artist: 200.OK (5 ms)
+2025-02-16 02:12:33.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:12:33.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/queue/status: 200.OK (2 ms)
+2025-02-16 02:12:33.1|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 02:12:57.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:12:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:57.0|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:12:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:57.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 02:12:57.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:57.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:12:57.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:57.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 02:12:57.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:12:57.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:13:40.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:13:40.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:13:40.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:40.3|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:13:40.3|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 02:13:40.3|Debug|Api|[GET] /api/v1/queue/status: 200.OK (5 ms)
+2025-02-16 02:13:40.3|Debug|Api|[GET] /api/v1/artist: 200.OK (8 ms)
+2025-02-16 02:13:57.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:13:57.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:17:57.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:22:57.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:22:57.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:22:57.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:22:57.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:22:57.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:22:57.3|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 02:27:57.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:32:57.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:37:57.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:37:57.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:37:57.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:37:57.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:37:57.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:37:57.6|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 02:38:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/artist: 200.OK (7 ms)
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/queue/status: 200.OK (4 ms)
+2025-02-16 02:38:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:38:30.2|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 02:42:57.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:47:57.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:52:58.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:52:58.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:52:58.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:52:58.0|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:52:58.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:52:58.0|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 02:57:58.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 02:59:05.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:59:05.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.4|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:59:05.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (5 ms)
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 02:59:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (4 ms)
+2025-02-16 02:59:05.5|Debug|Api|[GET] /api/v1/artist: 200.OK (11 ms)
+2025-02-16 03:02:58.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:04:15.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:04:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:04:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:07:58.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:07:58.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:07:58.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:07:58.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:07:58.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:07:58.4|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 03:09:25.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:09:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/artist: 200.OK (12 ms)
+2025-02-16 03:09:25.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (5 ms)
+2025-02-16 03:09:28.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:28.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 03:09:28.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:28.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:09:28.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:28.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:09:28.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:09:28.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:12:58.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (5 ms)
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:14:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:14:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:17:58.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:19:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/artist: 200.OK (9 ms)
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/command: 200.OK (6 ms)
+2025-02-16 03:19:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 03:19:45.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (2 ms)
+2025-02-16 03:22:58.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:22:58.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:22:58.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:22:58.8|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:22:58.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:22:58.8|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:24:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:24:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:27:58.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:30:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/artist: 200.OK (11 ms)
+2025-02-16 03:30:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/command: 200.OK (7 ms)
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (3 ms)
+2025-02-16 03:30:05.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:32:59.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:35:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:35:15.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:35:15.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:35:15.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:37:59.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:37:59.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:37:59.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:37:59.2|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:37:59.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:37:59.2|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 03:40:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/artist: 200.OK (5 ms)
+2025-02-16 03:40:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 03:40:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (3 ms)
+2025-02-16 03:40:25.5|Debug|Api|[GET] /api/v1/health: 200.OK (4 ms)
+2025-02-16 03:42:59.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:45:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:45:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:45:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:47:59.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:50:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/artist: 200.OK (10 ms)
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (3 ms)
+2025-02-16 03:50:45.5|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 03:52:59.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:52:59.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:52:59.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:52:59.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:52:59.4|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 03:52:59.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (5 ms)
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:55:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:55:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:55:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:55:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:55:59.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:59.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 03:55:59.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:59.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 03:55:59.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:59.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 03:55:59.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:55:59.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 03:58:29.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/customFilter: 200.OK (2 ms)
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/tag: 200.OK (4 ms)
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/language: 200.OK (2 ms)
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/qualityprofile: 200.OK (3 ms)
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/artist: 200.OK (8 ms)
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/metadataprofile: 200.OK (2 ms)
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/importlist: 200.OK (1 ms)
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/indexerFlag: 200.OK (0 ms)
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/config/ui: 200.OK (1 ms)
+2025-02-16 03:59:51.4|Debug|Api|[GET] /api/v1/system/status: 200.OK (1 ms)
+2025-02-16 03:59:51.5|Debug|Api|[GET] /api/v1/localization: 200.OK (2 ms)
+2025-02-16 03:59:51.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 03:59:51.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.5|Debug|Api|[GET] /api/v1/queue/status: 200.OK (1 ms)
+2025-02-16 03:59:51.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 03:59:51.5|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 03:59:51.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 03:59:51.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:00:01.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:01.2|Debug|Api|[GET] /api/v1/config/ui: 200.OK (1 ms)
+2025-02-16 04:00:03.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:03.9|Debug|Api|[GET] /api/v1/config/host: 200.OK (3 ms)
+2025-02-16 04:00:12.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:12.6|Debug|Api|[GET] /api/v1/indexer/schema: 200.OK (176 ms)
+2025-02-16 04:00:12.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:12.8|Debug|Newznab|Downloading Feed http://192.168.18.32:9696/0/api?t=music&cat=3000,3010,3030,3040,3050,3060&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:00:12.8|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (192 ms)
+2025-02-16 04:00:14.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:14.3|Debug|Newznab|Downloading Feed http://192.168.18.32:9696/0/api?t=music&cat=3000,3010,3030,3040,3050,3060&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:00:14.8|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (509 ms)
+2025-02-16 04:00:14.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:14.8|Debug|Api|[GET] /api/v1/indexer: 200.OK (11 ms)
+2025-02-16 04:00:29.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:29.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:00:29.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:29.7|Debug|Api|[GET] /api/v1/command: 200.OK (7 ms)
+2025-02-16 04:00:29.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:29.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:00:29.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:29.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:01:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:01:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:01:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/artist: 200.OK (10 ms)
+2025-02-16 04:01:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/queue/status: 200.OK (10 ms)
+2025-02-16 04:01:05.6|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:01:59.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:01:59.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:01:59.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:01:59.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.7|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:02:41.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:41.8|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/1/api?t=music&cat=3000,3030,3040,3050&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:02:43.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:02:43.7|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:02:43.7|Debug|Api|[POST] /api/v1/indexer: 400.BadRequest (1906 ms)
+2025-02-16 04:02:43.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:43.7|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/1/api?t=music&cat=3000,3030,3040,3050&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:02:45.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:02:45.6|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:02:45.6|Debug|Api|[POST] /api/v1/indexer?forceSave=true: 400.BadRequest (1897 ms)
+2025-02-16 04:03:29.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 04:03:29.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.7|Debug|Api|[GET] /api/v1/command: 200.OK (5 ms)
+2025-02-16 04:03:29.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:03:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:03:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:03:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:03:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:59.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:04:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:04:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.8|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:04:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:04:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:06:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:06:15.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:06:15.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:15.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:15.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 04:06:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:06:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.8|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:06:35.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:35.3|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:07:59.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:07:59.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 04:07:59.8|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:07:59.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:07:59.8|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 04:07:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.8|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:07:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:07:59.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.8|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:07:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:07:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:08:15.3|Warn|Torznab|Unable to connect to indexer.
+2025-02-16 04:08:15.3|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. Http request timed out
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. Http request timed out
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:08:15.3|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. Http request timed out
+2025-02-16 04:08:15.3|Debug|Api|[POST] /api/v1/indexer: 400.BadRequest (100080 ms)
+2025-02-16 04:08:29.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 04:08:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:29.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:08:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:59.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:09:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:09:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:09:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:09:30.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:30.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:09:37.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:37.0|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:09:37.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:37.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:37.0|Debug|Api|[GET] /api/v1/system/status: 200.OK (5 ms)
+2025-02-16 04:09:37.1|Debug|DiskProvider|path: /config
+2025-02-16 04:09:37.1|Debug|DiskProvider|path: /downloads
+2025-02-16 04:09:37.1|Debug|DiskProvider|path: /data/musicfolder
+2025-02-16 04:09:37.1|Debug|Api|[GET] /api/v1/diskspace: 200.OK (98 ms)
+2025-02-16 04:10:01.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:01.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:01.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:01.9|Debug|Api|[GET] /api/v1/config/downloadclient: 200.OK (12 ms)
+2025-02-16 04:10:01.9|Debug|Api|[GET] /api/v1/remotepathmapping: 200.OK (17 ms)
+2025-02-16 04:10:01.9|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (17 ms)
+2025-02-16 04:10:03.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:03.1|Debug|Api|[GET] /api/v1/downloadclient/schema: 200.OK (69 ms)
+2025-02-16 04:10:17.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:17.4|Debug|QBittorrentProxyV2|qBittorrent authentication succeeded.
+2025-02-16 04:10:17.7|Debug|Api|[POST] /api/v1/downloadclient/test: 200.OK (421 ms)
+2025-02-16 04:10:18.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:19.0|Debug|Api|[POST] /api/v1/downloadclient: 201.Created (75 ms)
+2025-02-16 04:10:24.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:24.0|Debug|Api|[GET] /api/v1/health: 200.OK (1 ms)
+2025-02-16 04:10:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:10:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:10:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:11:00.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:00.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:11:25.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:25.6|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-02-16 04:11:25.6|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:11:25.6|Debug|Api|[GET] /api/v1/queue/status: 200.OK (3 ms)
+2025-02-16 04:11:25.6|Debug|Api|[GET] /api/v1/artist: 200.OK (14 ms)
+2025-02-16 04:12:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:12:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:12:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:12:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:30.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:13:29.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 04:13:29.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:29.9|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:13:59.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:59.9|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 04:14:00.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:00.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:14:00.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:00.0|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:14:00.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:00.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:14:00.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:00.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:15:30.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:15:30.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:15:30.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:15:30.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:15:30.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:15:30.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:15:30.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:15:30.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (4 ms)
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:16:35.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:35.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:17:00.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:00.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:17:00.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:00.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:17:00.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:00.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:17:00.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:00.1|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:18:30.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 04:18:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:30.2|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:18:30.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:30.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:18:30.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:30.3|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:18:30.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:30.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:18:30.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:30.3|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:19:00.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:19:00.3|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 04:20:00.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:00.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:20:00.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:00.3|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:20:00.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:00.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:20:00.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:00.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:21:30.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:30.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:21:30.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:30.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:21:30.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:30.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:21:30.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:30.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:21:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:21:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:21:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Api|[GET] /api/v1/command: 200.OK (5 ms)
+2025-02-16 04:21:45.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:21:45.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (7 ms)
+2025-02-16 04:21:45.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:21:45.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/queue/status: 200.OK (5 ms)
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/health: 200.OK (4 ms)
+2025-02-16 04:21:45.6|Debug|Api|[GET] /api/v1/artist: 200.OK (11 ms)
+2025-02-16 04:23:00.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:23:00.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 04:23:00.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:23:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:23:00.3|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 04:23:00.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.4|Debug|Api|[GET] /api/v1/command: 200.OK (3 ms)
+2025-02-16 04:23:00.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:23:00.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:23:00.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:23:00.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.5|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:23:30.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 04:23:30.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:30.4|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:24:00.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:00.9|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:24:30.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:30.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:24:30.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:30.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:24:30.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:30.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:24:30.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:24:30.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:26:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (2 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (4 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:26:55.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:26:55.6|Debug|Api|[GET] /api/v1/command: 200.OK (1 ms)
+2025-02-16 04:28:30.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-16 04:30:05.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v1/queue/status: 200.OK (2 ms)
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v1/health: 200.OK (2 ms)
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v1/command: 200.OK (6 ms)
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v1/artist: 200.OK (18 ms)
+2025-02-16 04:32:05.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:32:05.6|Debug|Api|[GET] /api/v1/health: 200.OK (23 ms)
+2025-02-16 04:32:05.6|Debug|Api|[GET] /api/v1/command: 200.OK (29 ms)
+2025-02-16 04:32:05.6|Debug|Api|[GET] /api/v1/queue/status: 200.OK (27 ms)
+2025-02-16 04:32:05.6|Debug|Api|[GET] /api/v1/artist: 200.OK (56 ms)

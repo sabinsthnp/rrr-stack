@@ -1,0 +1,12 @@
+# Ignore data directories for all containers
+*/data/
+data/
+**/data/
+
+*/logs/
+logs/
+**/logs/
+
+*/downloads/
+downloads/
+**/downloads/

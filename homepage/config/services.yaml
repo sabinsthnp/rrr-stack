@@ -1,18 +1,41 @@
 ---
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/services/
+- Media Services:
+    - Radarr:
+        href: http://192.168.18.32:7878
+        description: Radarr is used for managing and automating movies.
+        icon: radarr.png
+    - Sonarr:
+        href: http://192.168.18.32:8989
+        description: Sonarr is used for managing and automating TV shows.
+        icon: sonarr.png
+    - Jellyfin:
+        href: http://192.168.18.32:8096
+        description: Jellyfin is a media server for streaming your media content.
+        icon: jellyfin.png
 
-- My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
+- Download Services:
+    - Prowlarr:
+        href: http://192.168.18.32:9696
+        description: Prowlarr is an indexer manager for all your download clients.
+        icon: prowlarr.png
+    - qBittorrent:
+        href: http://192.168.18.32:8080
+        description: qBittorrent is a popular open-source BitTorrent client.
+        icon: qbittorrent.png
 
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
-
-- My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is 😎
+- Music Services:
+    - Lidarr:
+        href: http://192.168.18.32:8686
+        description: Lidarr is used for managing and automating music.
+        icon: lidarr.png
+    - Readarr:
+        href: http://192.168.18.32:8787
+        description: Readarr is a book collection manager for automating your books.
+        icon: readarr.png
+- Management Services:
+    - Portainer:
+        href: https://192.168.18.32:9443
+        description: Portainer provides a simple management UI for Docker.
+        icon: portainer.png

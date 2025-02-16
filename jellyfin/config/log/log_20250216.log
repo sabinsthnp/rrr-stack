@@ -172,3 +172,59 @@
 [2025-02-16 01:30:06.603 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
 [2025-02-16 01:33:30.604 +00:00] [INF] [19] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
 [2025-02-16 01:36:18.604 +00:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:39:06.603 +00:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:42:30.603 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:45:18.603 +00:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:48:06.604 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:48:42.642 +00:00] [INF] [44] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 01:48:43.458 +00:00] [INF] [44] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 01:51:30.603 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:54:18.603 +00:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 01:57:06.603 +00:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 02:00:00.006 +00:00] [INF] [29] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:00:01.001 +00:00] [INF] [23] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2025-02-17 02:00:00.000 +00:00, which is 23:59:58.9989798 from now.
+[2025-02-16 02:00:30.603 +00:00] [INF] [31] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 02:03:18.602 +00:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 02:06:06.603 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 02:08:54.229 +00:00] [INF] [20] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 02:08:56.511 +00:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 02:09:30.603 +00:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 02:09:56.276 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing subtitles" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.321 +00:00] [INF] [42] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Audio Normalization" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.374 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.375 +00:00] [INF] [30] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2025-02-16 02:09:56.417 +00:00] [INF] [42] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Log Directory" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.417 +00:00] [INF] [17] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Cache Directory" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.417 +00:00] [INF] [11] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing lyrics" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.486 +00:00] [INF] [12] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-02-16 02:09:56.529 +00:00] [WRN] [12] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Movies" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.529 +00:00] [INF] [8] Emby.Server.Implementations.Library.LibraryManager: People validation complete
+[2025-02-16 02:09:56.531 +00:00] [WRN] [12] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/TVShows" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.531 +00:00] [INF] [11] Emby.Server.Implementations.ScheduledTasks.TaskManager: "TasksRefreshChannels" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.532 +00:00] [WRN] [12] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.531 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh People" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.566 +00:00] [WRN] [12] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.600 +00:00] [WRN] [12] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.622 +00:00] [INF] [30] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: jellyfin.db optimized successfully!
+[2025-02-16 02:09:56.622 +00:00] [INF] [30] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:56.660 +00:00] [WRN] [8] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Movies" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.660 +00:00] [WRN] [8] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/TVShows" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.660 +00:00] [WRN] [8] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.661 +00:00] [WRN] [8] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.661 +00:00] [WRN] [8] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 02:09:56.665 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 02:09:59.629 +00:00] [INF] [8] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2025-02-16 02:09:59.638 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2025-02-16 02:12:18.603 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 02:12:33.071 +00:00] [WRN] [23] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.18.2" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 02:12:33.114 +00:00] [INF] [23] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 03:00:00.008 +00:00] [INF] [61] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 03:00:01.003 +00:00] [INF] [62] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2025-02-17 03:00:00.000 +00:00, which is 23:59:58.9969423 from now.
+[2025-02-16 03:10:00.460 +00:00] [INF] [39] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2025-02-16 03:10:00.461 +00:00] [INF] [39] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2025-02-16 04:14:08.023 +00:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 04:17:32.052 +00:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 04:22:32.052 +00:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 04:25:20.052 +00:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 04:25:32.052 +00:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 04:25:44.052 +00:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.

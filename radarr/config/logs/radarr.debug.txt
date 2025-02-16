@@ -1094,3 +1094,1616 @@
 2025-02-16 01:37:53.9|Info|DownloadDecisionMaker|No results found
 2025-02-16 01:37:53.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
 2025-02-16 01:37:53.9|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 01:42:54.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 01:47:54.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 01:48:39.6|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:39.8|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Api|[GET] /api/v3/localization/language: 200.OK (12 ms)
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Api|[GET] /api/v3/customFilter: 200.OK (32 ms)
+2025-02-16 01:48:40.1|Debug|Api|[GET] /api/v3/tag: 200.OK (23 ms)
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.1|Debug|Api|[GET] /api/v3/language: 200.OK (15 ms)
+2025-02-16 01:48:40.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/indexerFlag: 200.OK (13 ms)
+2025-02-16 01:48:40.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/collection: 200.OK (89 ms)
+2025-02-16 01:48:40.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/movie: 200.OK (96 ms)
+2025-02-16 01:48:40.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/qualityprofile: 200.OK (71 ms)
+2025-02-16 01:48:40.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/localization: 200.OK (15 ms)
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/importlist: 200.OK (61 ms)
+2025-02-16 01:48:40.2|Debug|Api|[GET] /api/v3/config/ui: 200.OK (49 ms)
+2025-02-16 01:48:40.3|Debug|Api|[GET] /api/v3/system/status: 200.OK (79 ms)
+2025-02-16 01:48:40.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 01:48:40.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 01:48:40.6|Debug|Api|[GET] /api/v3/queue/status: 200.OK (8 ms)
+2025-02-16 01:48:40.6|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 01:48:40.6|Debug|Api|[GET] /api/v3/health: 200.OK (22 ms)
+2025-02-16 01:48:40.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 01:48:40.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (63 ms)
+2025-02-16 01:48:40.6|Debug|Api|[GET] /api/v3/config/host: 200.OK (102 ms)
+2025-02-16 01:52:54.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 01:57:54.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:02:54.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:07:55.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:07:55.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:07:55.2|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:07:55.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:07:55.2|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 02:07:55.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:09:29.1|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 02:09:29.2|Debug|Radarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-02-16 02:09:29.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.3|Debug|Api|[GET] /api/v3/localization/language: 200.OK (4 ms)
+2025-02-16 02:09:29.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/movie: 200.OK (9 ms)
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/collection: 200.OK (7 ms)
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/tag: 200.OK (7 ms)
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/language: 200.OK (1 ms)
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/customFilter: 200.OK (7 ms)
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/qualityprofile: 200.OK (8 ms)
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/indexerFlag: 200.OK (1 ms)
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/importlist: 200.OK (5 ms)
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/system/status: 200.OK (6 ms)
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/config/ui: 200.OK (9 ms)
+2025-02-16 02:09:29.4|Debug|Api|[GET] /api/v3/localization: 200.OK (9 ms)
+2025-02-16 02:09:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:09:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:29.5|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2025-02-16 02:09:29.5|Debug|Api|[GET] /api/v3/queue/status: 200.OK (5 ms)
+2025-02-16 02:09:29.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-02-16 02:09:29.5|Debug|Api|[GET] /api/v3/config/host: 200.OK (8 ms)
+2025-02-16 02:09:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 02:09:41.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:41.6|Debug|Api|[PUT] /api/v3/config/host: 202.Accepted (316 ms)
+2025-02-16 02:09:42.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 02:09:42.0|Debug|Api|[GET] /api/v3/system/status: 200.OK (3 ms)
+2025-02-16 02:12:55.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:17:55.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:22:55.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:27:55.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:32:55.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:37:56.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:37:56.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:37:56.1|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:37:56.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:37:56.1|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 02:37:56.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:42:56.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:47:56.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:52:56.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 02:57:57.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:02:57.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:07:57.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:07:57.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:07:57.5|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:07:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:07:57.5|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 03:07:57.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:12:57.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:17:57.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:22:58.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:27:58.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:32:58.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:37:58.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:37:58.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:37:58.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:37:58.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:37:58.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:37:58.6|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 03:42:58.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:47:58.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:52:59.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 03:57:59.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:00:42.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/localization/language: 200.OK (1 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/customFilter: 200.OK (2 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/movie: 200.OK (10 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/qualityprofile: 200.OK (4 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/collection: 200.OK (11 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/language: 200.OK (1 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/tag: 200.OK (7 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/indexerFlag: 200.OK (1 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/importlist: 200.OK (2 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/config/ui: 200.OK (2 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/system/status: 200.OK (2 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/localization: 200.OK (11 ms)
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/queue/status: 200.OK (3 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-02-16 04:00:42.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:00:42.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:00:46.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:00:46.4|Debug|Api|[GET] /api/v3/config/host: 200.OK (3 ms)
+2025-02-16 04:01:15.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:15.4|Debug|Api|[GET] /api/v3/indexer/schema: 200.OK (266 ms)
+2025-02-16 04:01:15.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:15.6|Debug|Newznab|Downloading Feed http://192.168.18.32:9696/0/api?t=movie&cat=2000,2010,2020,2030,2040,2045,2050,2060,2070,2080,2090&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:01:15.7|Debug|Api|[POST] /api/v3/indexer/test: 200.OK (211 ms)
+2025-02-16 04:01:16.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:16.2|Debug|Newznab|Downloading Feed http://192.168.18.32:9696/0/api?t=movie&cat=2000,2010,2020,2030,2040,2045,2050,2060,2070,2080,2090&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:01:17.6|Debug|Api|[POST] /api/v3/indexer/test: 200.OK (1447 ms)
+2025-02-16 04:01:17.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:17.7|Debug|Api|[GET] /api/v3/indexer: 200.OK (4 ms)
+2025-02-16 04:01:59.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:01:59.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:01:59.4|Debug|Api|[GET] /api/v3/command: 200.OK (61 ms)
+2025-02-16 04:01:59.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:01:59.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-02-16 04:02:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:45.7|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/1/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:02:47.7|Debug|Api|[POST] /api/v3/indexer: 201.Created (1983 ms)
+2025-02-16 04:02:52.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:52.7|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-02-16 04:02:59.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:02:59.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:02:59.4|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:03:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:03:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.4|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-02-16 04:03:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:03:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:03:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:29.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:03:41.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:41.6|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/2/api?t=movie&cat=2000,2040,2045,2060&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:03:44.2|Debug|Api|[POST] /api/v3/indexer: 201.Created (2549 ms)
+2025-02-16 04:03:49.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:03:49.2|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-02-16 04:04:59.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:04:59.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:04:59.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:04:59.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:04:59.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:06:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:06:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:06:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:06:29.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:29.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:06:36.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:36.6|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/4/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:06:38.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:06:38.5|Debug|Api|[POST] /api/v3/indexer: 400.BadRequest (1920 ms)
+2025-02-16 04:06:38.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:06:38.5|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/4/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:06:40.4|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:06:40.4|Debug|Api|[POST] /api/v3/indexer?forceSave=true: 400.BadRequest (1945 ms)
+2025-02-16 04:07:59.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:07:59.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:07:59.5|Debug|FetchAndParseRssService|Available indexers 2
+2025-02-16 04:07:59.5|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/1/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:07:59.5|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/2/api?t=movie&cat=2000,2040,2045,2060&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:07:59.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.5|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-02-16 04:07:59.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:07:59.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:07:59.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:07:59.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:07:59.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:08:00.8|Debug|FetchAndParseRssService|Found 113 reports
+2025-02-16 04:08:00.8|Info|DownloadDecisionMaker|Processing 113 releases
+2025-02-16 04:08:00.8|Debug|DownloadDecisionMaker|Processing release 'Igor And The Lunatics (1985) 1080p BluRay-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:00.9|Debug|Parser|Parsing string 'Igor And The Lunatics (1985) 1080p BluRay-LAMA'
+2025-02-16 04:08:01.2|Debug|Parser|Movie Parsed. Igor And The Lunatics - 1985 
+2025-02-16 04:08:01.3|Debug|Parser|Release Group parsed: LAMA
+2025-02-16 04:08:01.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.4|Debug|QualityParser|Trying to parse quality for 'Igor And The Lunatics (1985) 1080p BluRay-LAMA'
+2025-02-16 04:08:01.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:01.8|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.8|Debug|ParsingService|No matching movie for titles 'Igor And The Lunatics (1985)'
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Release 'Igor And The Lunatics (1985) 1080p BluRay-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Processing release 'My Way (2012) 720p BluRay-WORLD' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.8|Debug|Parser|Parsing string 'My Way (2012) 720p BluRay-WORLD'
+2025-02-16 04:08:01.8|Debug|Parser|Movie Parsed. My Way - 2012 
+2025-02-16 04:08:01.8|Debug|Parser|Release Group parsed: WORLD
+2025-02-16 04:08:01.8|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.8|Debug|QualityParser|Trying to parse quality for 'My Way (2012) 720p BluRay-WORLD'
+2025-02-16 04:08:01.8|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:01.8|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.8|Debug|ParsingService|No matching movie for titles 'My Way (2012)'
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Release 'My Way (2012) 720p BluRay-WORLD' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Processing release 'Bigfoot.Encounters.in.the.Pacific.Northwest.2021.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.8|Debug|Parser|Parsing string 'Bigfoot.Encounters.in.the.Pacific.Northwest.2021.1080p.WEB.h264-BAE'
+2025-02-16 04:08:01.8|Debug|Parser|Movie Parsed. Bigfoot Encounters in the Pacific Northwest - 2021 
+2025-02-16 04:08:01.8|Debug|Parser|Release Group parsed: BAE
+2025-02-16 04:08:01.8|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.8|Debug|QualityParser|Trying to parse quality for 'Bigfoot.Encounters.in.the.Pacific.Northwest.2021.1080p.WEB.h264-BAE'
+2025-02-16 04:08:01.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-16 04:08:01.8|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.8|Debug|ParsingService|No matching movie for titles 'Bigfoot Encounters in the Pacific Northwest (2021)'
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Release 'Bigfoot.Encounters.in.the.Pacific.Northwest.2021.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Processing release 'American.Swing.2008.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.8|Debug|Parser|Parsing string 'American.Swing.2008.1080p.WEB.h264-BAE'
+2025-02-16 04:08:01.8|Debug|Parser|Movie Parsed. American Swing - 2008 
+2025-02-16 04:08:01.8|Debug|Parser|Release Group parsed: BAE
+2025-02-16 04:08:01.8|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.8|Debug|QualityParser|Trying to parse quality for 'American.Swing.2008.1080p.WEB.h264-BAE'
+2025-02-16 04:08:01.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-16 04:08:01.8|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.8|Debug|ParsingService|No matching movie for titles 'American Swing (2008)'
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Release 'American.Swing.2008.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.8|Debug|DownloadDecisionMaker|Processing release 'Diamondz n da Ruff [2006 - USA] NYC low budget crime' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.8|Debug|Parser|Parsing string 'Diamondz n da Ruff [2006 - USA] NYC low budget crime'
+2025-02-16 04:08:01.8|Debug|Parser|Movie Parsed. Diamondz n da Ruff [ - 2006 
+2025-02-16 04:08:01.8|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.8|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.8|Debug|QualityParser|Trying to parse quality for 'Diamondz n da Ruff [2006 - USA] NYC low budget crime'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: Unknown v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'Diamondz n da Ruff [ (2006)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'Diamondz n da Ruff [2006 - USA] NYC low budget crime' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'The Pack - La jauria [2022 - Colombia] crime and punishment' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'The Pack - La jauria [2022 - Colombia] crime and punishment'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. The Pack - La jauria [ - 2022 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'The Pack - La jauria [2022 - Colombia] crime and punishment'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: Unknown v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'The Pack - La jauria [ (2022)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'The Pack - La jauria [2022 - Colombia] crime and punishment' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'The Supreme - La Suprema [2023 - Colombia] village drama' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'The Supreme - La Suprema [2023 - Colombia] village drama'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. The Supreme - La Suprema [ - 2023 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'The Supreme - La Suprema [2023 - Colombia] village drama'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: Unknown v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'The Supreme - La Suprema [ (2023)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'The Supreme - La Suprema [2023 - Colombia] village drama' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'Forever Young (2023) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'Forever Young (2023) 1080p WEBRip-LAMA'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. Forever Young - 2023 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: LAMA
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'Forever Young (2023) 1080p WEBRip-LAMA'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'Forever Young (2023)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'Forever Young (2023) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'Gone in 60 Seconds 2000 1080p BluRay HEVC x265 5.1 BONE' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'Gone in 60 Seconds 2000 1080p BluRay HEVC x265 5.1 BONE'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. Gone in 60 Seconds - 2000 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'Gone in 60 Seconds 2000 1080p BluRay HEVC x265 5.1 BONE'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'Gone in 60 Seconds (2000)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'Gone in 60 Seconds 2000 1080p BluRay HEVC x265 5.1 BONE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'From Hilde With Love (2024) 1080p BluRay 5.1-WORLD' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'From Hilde With Love (2024) 1080p BluRay 5.1-WORLD'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. From Hilde With Love - 2024 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: WORLD
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'From Hilde With Love (2024) 1080p BluRay 5.1-WORLD'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'From Hilde With Love (2024)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'From Hilde With Love (2024) 1080p BluRay 5.1-WORLD' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'Vengeance! [1970]x264.DVDrip(ShawBros.KungFu)' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'Vengeance! [1970]x264.DVDrip(ShawBros.KungFu)'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. Vengeance! - 1970 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'Vengeance! [1970]x264.DVDrip(ShawBros.KungFu)'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: DVD v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'Vengeance! (1970)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'Vengeance! [1970]x264.DVDrip(ShawBros.KungFu)' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'Temptress of a Thousand Faces[1969]x264.DVDrip{ShawBros)' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'Temptress of a Thousand Faces[1969]x264.DVDrip{ShawBros)'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. Temptress of a Thousand Faces - 1969 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'Temptress of a Thousand Faces[1969]x264.DVDrip{ShawBros)'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: DVD v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'Temptress of a Thousand Faces (1969)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'Temptress of a Thousand Faces[1969]x264.DVDrip{ShawBros)' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'Mini-Skirt Gang[1974x264.DVDrip(ShawBros)' from 'The Pirate Bay (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'Mini-Skirt Gang[1974x264.DVDrip(ShawBros)'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. Mini-Skirt Gang[ - 1974 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: 
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'Mini-Skirt Gang[1974x264.DVDrip(ShawBros)'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: DVD v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:01.9|Debug|ParsingService|No matching movie for titles 'Mini-Skirt Gang[ (1974)'
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Release 'Mini-Skirt Gang[1974x264.DVDrip(ShawBros)' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:01.9|Debug|DownloadDecisionMaker|Processing release 'Igor and the Lunatics (1985) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:01.9|Debug|Parser|Parsing string 'Igor and the Lunatics (1985) 720p BRRip x264 -YTS'
+2025-02-16 04:08:01.9|Debug|Parser|Movie Parsed. Igor and the Lunatics - 1985 
+2025-02-16 04:08:01.9|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:01.9|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:01.9|Debug|QualityParser|Trying to parse quality for 'Igor and the Lunatics (1985) 720p BRRip x264 -YTS'
+2025-02-16 04:08:01.9|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:01.9|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Igor and the Lunatics (1985)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Igor and the Lunatics (1985) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Igor and the Lunatics (1985) 1080p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Igor and the Lunatics (1985) 1080p BRRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Igor and the Lunatics - 1985 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Igor and the Lunatics (1985) 1080p BRRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Igor and the Lunatics (1985)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Igor and the Lunatics (1985) 1080p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Suits (1999) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Suits (1999) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Suits - 1999 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Suits (1999) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Suits (1999)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Suits (1999) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Suits (1999) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Suits (1999) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Suits - 1999 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Suits (1999) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Suits (1999)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Suits (1999) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Forever Young (2023) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Forever Young (2023) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Forever Young - 2023 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Forever Young (2023) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Forever Young (2023)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Forever Young (2023) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Forever Young (2023) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Forever Young (2023) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Forever Young - 2023 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Forever Young (2023) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Forever Young (2023)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Forever Young (2023) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'My Way (2012) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'My Way (2012) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. My Way - 2012 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'My Way (2012) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'My Way (2012)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'My Way (2012) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'My Way (2012) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'My Way (2012) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. My Way - 2012 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'My Way (2012) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'My Way (2012)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'My Way (2012) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Checkmate (2024) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Checkmate (2024) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Checkmate - 2024 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Checkmate (2024) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Checkmate (2024)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Checkmate (2024) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Checkmate (2024) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Checkmate (2024) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Checkmate - 2024 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Checkmate (2024) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Checkmate (2024)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Checkmate (2024) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'From Hilde, with Love (2024) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'From Hilde, with Love (2024) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. From Hilde, with Love - 2024 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'From Hilde, with Love (2024) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'From Hilde, with Love (2024)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'From Hilde, with Love (2024) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'From Hilde, with Love (2024) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'From Hilde, with Love (2024) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. From Hilde, with Love - 2024 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'From Hilde, with Love (2024) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'From Hilde, with Love (2024)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'From Hilde, with Love (2024) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Our Dream Christmas (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Our Dream Christmas (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Our Dream Christmas - 2017 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Our Dream Christmas (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Our Dream Christmas (2017)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Our Dream Christmas (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Our Dream Christmas (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Our Dream Christmas (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Our Dream Christmas - 2017 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Our Dream Christmas (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Our Dream Christmas (2017)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Our Dream Christmas (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Mr. Chibbs (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Mr. Chibbs (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Mr  Chibbs - 2017 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Mr. Chibbs (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.0|Debug|ParsingService|No matching movie for titles 'Mr  Chibbs (2017)'
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Release 'Mr. Chibbs (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.0|Debug|DownloadDecisionMaker|Processing release 'Mr. Chibbs (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.0|Debug|Parser|Parsing string 'Mr. Chibbs (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Movie Parsed. Mr  Chibbs - 2017 
+2025-02-16 04:08:02.0|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.0|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.0|Debug|QualityParser|Trying to parse quality for 'Mr. Chibbs (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.0|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.0|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Mr  Chibbs (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Mr. Chibbs (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Moss (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Moss (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Moss - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Moss (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Moss (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Moss (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Moss (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Moss (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Moss - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Moss (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Moss (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Moss (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Kissing Candice (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Kissing Candice (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Kissing Candice - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Kissing Candice (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Kissing Candice (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Kissing Candice (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Kissing Candice (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Kissing Candice (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Kissing Candice - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Kissing Candice (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Kissing Candice (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Kissing Candice (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Her Little Secret (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Her Little Secret (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Her Little Secret - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Her Little Secret (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Her Little Secret (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Her Little Secret (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Her Little Secret (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Her Little Secret (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Her Little Secret - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Her Little Secret (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Her Little Secret (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Her Little Secret (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Sunday Morning Rapture (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Sunday Morning Rapture (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Sunday Morning Rapture - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Sunday Morning Rapture (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Sunday Morning Rapture (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Sunday Morning Rapture (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Sunday Morning Rapture (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Sunday Morning Rapture (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Sunday Morning Rapture - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Sunday Morning Rapture (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Sunday Morning Rapture (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Sunday Morning Rapture (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Broken Memories (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Broken Memories (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Broken Memories - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Broken Memories (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Broken Memories (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Broken Memories (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Broken Memories (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Broken Memories (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Broken Memories - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Broken Memories (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Broken Memories (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Broken Memories (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Cardinals (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Cardinals (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Cardinals - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Cardinals (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Cardinals (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Cardinals (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Cardinals (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Cardinals (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Cardinals - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Cardinals (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Cardinals (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Cardinals (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Bobbi Kristina (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Bobbi Kristina (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Bobbi Kristina - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Bobbi Kristina (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Bobbi Kristina (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Bobbi Kristina (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Bobbi Kristina (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Bobbi Kristina (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Bobbi Kristina - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Bobbi Kristina (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Bobbi Kristina (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Bobbi Kristina (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Created Equal (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Created Equal (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Created Equal - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Created Equal (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Created Equal (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Created Equal (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'Created Equal (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.1|Debug|Parser|Parsing string 'Created Equal (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Movie Parsed. Created Equal - 2017 
+2025-02-16 04:08:02.1|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.1|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.1|Debug|QualityParser|Trying to parse quality for 'Created Equal (2017) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.1|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.1|Debug|ParsingService|No matching movie for titles 'Created Equal (2017)'
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Release 'Created Equal (2017) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.1|Debug|DownloadDecisionMaker|Processing release 'A Chance in the World (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'A Chance in the World (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. A Chance in the World - 2017 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'A Chance in the World (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'A Chance in the World (2017)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'A Chance in the World (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'A Chance in the World (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'A Chance in the World (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. A Chance in the World - 2017 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'A Chance in the World (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'A Chance in the World (2017)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'A Chance in the World (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Downsized (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Downsized (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Downsized - 2017 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Downsized (2017) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Downsized (2017)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Downsized (2017) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Downsized (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Downsized (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Downsized - 2017 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Downsized (2017) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Downsized (2017)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Downsized (2017) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Julie Keeps Quiet (2024) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Julie Keeps Quiet (2024) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Julie Keeps Quiet - 2024 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Julie Keeps Quiet (2024) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Julie Keeps Quiet (2024)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Julie Keeps Quiet (2024) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Julie Keeps Quiet (2024) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Julie Keeps Quiet (2024) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Julie Keeps Quiet - 2024 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Julie Keeps Quiet (2024) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Julie Keeps Quiet (2024)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Julie Keeps Quiet (2024) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Marked Men (2025) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Marked Men (2025) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Marked Men - 2025 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Marked Men (2025) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Marked Men (2025)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Marked Men (2025) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Marked Men (2025) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Marked Men (2025) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Marked Men - 2025 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Marked Men (2025) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Marked Men (2025)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Marked Men (2025) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Evilenko (2003) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Evilenko (2003) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Evilenko - 2003 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Evilenko (2003) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Evilenko (2003)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Evilenko (2003) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Evilenko (2003) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Evilenko (2003) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Evilenko - 2003 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Evilenko (2003) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Evilenko (2003)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Evilenko (2003) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Hilde (2009) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Hilde (2009) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Hilde - 2009 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Hilde (2009) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Hilde (2009)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Hilde (2009) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Hilde (2009) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Hilde (2009) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Hilde - 2009 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Hilde (2009) 1080p BRRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Hilde (2009)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Hilde (2009) 1080p BRRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Diga Meu Nome (2020) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Diga Meu Nome (2020) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Diga Meu Nome - 2020 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Diga Meu Nome (2020) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Diga Meu Nome (2020)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Diga Meu Nome (2020) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'Diga Meu Nome (2020) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'Diga Meu Nome (2020) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. Diga Meu Nome - 2020 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'Diga Meu Nome (2020) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'Diga Meu Nome (2020)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'Diga Meu Nome (2020) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'The Perfect Prayer A Faith Based Film (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'The Perfect Prayer A Faith Based Film (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. The Perfect Prayer A Faith Based Film - 2018 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'The Perfect Prayer A Faith Based Film (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'The Perfect Prayer A Faith Based Film (2018)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'The Perfect Prayer A Faith Based Film (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'The Perfect Prayer A Faith Based Film (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'The Perfect Prayer A Faith Based Film (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. The Perfect Prayer A Faith Based Film - 2018 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'The Perfect Prayer A Faith Based Film (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'The Perfect Prayer A Faith Based Film (2018)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'The Perfect Prayer A Faith Based Film (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'You People (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'You People (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. You People - 2018 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'You People (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.2|Debug|ParsingService|No matching movie for titles 'You People (2018)'
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Release 'You People (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.2|Debug|DownloadDecisionMaker|Processing release 'You People (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.2|Debug|Parser|Parsing string 'You People (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Movie Parsed. You People - 2018 
+2025-02-16 04:08:02.2|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.2|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.2|Debug|QualityParser|Trying to parse quality for 'You People (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.2|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'You People (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'You People (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Tom Arnold Past & Present Imperfectly (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Tom Arnold Past & Present Imperfectly (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Tom Arnold Past & Present Imperfectly - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Tom Arnold Past & Present Imperfectly (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Tom Arnold Past & Present Imperfectly (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Tom Arnold Past & Present Imperfectly (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Tom Arnold Past & Present Imperfectly (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Tom Arnold Past & Present Imperfectly (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Tom Arnold Past & Present Imperfectly - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Tom Arnold Past & Present Imperfectly (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Tom Arnold Past & Present Imperfectly (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Tom Arnold Past & Present Imperfectly (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'The Neighborhood Nightmare (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'The Neighborhood Nightmare (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. The Neighborhood Nightmare - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'The Neighborhood Nightmare (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'The Neighborhood Nightmare (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'The Neighborhood Nightmare (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'The Neighborhood Nightmare (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'The Neighborhood Nightmare (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. The Neighborhood Nightmare - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'The Neighborhood Nightmare (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'The Neighborhood Nightmare (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'The Neighborhood Nightmare (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Azzu & Gazzu International Super Detectives (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Azzu & Gazzu International Super Detectives (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Azzu & Gazzu International Super Detectives - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Azzu & Gazzu International Super Detectives (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Azzu & Gazzu International Super Detectives (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Azzu & Gazzu International Super Detectives (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Azzu & Gazzu International Super Detectives (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Azzu & Gazzu International Super Detectives (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Azzu & Gazzu International Super Detectives - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Azzu & Gazzu International Super Detectives (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Azzu & Gazzu International Super Detectives (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Azzu & Gazzu International Super Detectives (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Maternal Secrets (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Maternal Secrets (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Maternal Secrets - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Maternal Secrets (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Maternal Secrets (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Maternal Secrets (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Maternal Secrets (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Maternal Secrets (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Maternal Secrets - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Maternal Secrets (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Maternal Secrets (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Maternal Secrets (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Shifting Gears (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Shifting Gears (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Shifting Gears - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Shifting Gears (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Shifting Gears (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Shifting Gears (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Shifting Gears (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Shifting Gears (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Shifting Gears - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Shifting Gears (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Shifting Gears (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Shifting Gears (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Looking for love (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Looking for love (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Looking for love - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Looking for love (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Looking for love (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Looking for love (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Looking for love (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Looking for love (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Looking for love - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Looking for love (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Looking for love (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Looking for love (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Jackson Bolt (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Jackson Bolt (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Jackson Bolt - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Jackson Bolt (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Jackson Bolt (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Jackson Bolt (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'Jackson Bolt (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'Jackson Bolt (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. Jackson Bolt - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'Jackson Bolt (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'Jackson Bolt (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'Jackson Bolt (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'It's A Party (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'It's A Party (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. It's A Party - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'It's A Party (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'It's A Party (2018)'
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Release 'It's A Party (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.3|Debug|DownloadDecisionMaker|Processing release 'It's A Party (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.3|Debug|Parser|Parsing string 'It's A Party (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Movie Parsed. It's A Party - 2018 
+2025-02-16 04:08:02.3|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.3|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.3|Debug|QualityParser|Trying to parse quality for 'It's A Party (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.3|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.3|Debug|ParsingService|No matching movie for titles 'It's A Party (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'It's A Party (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'In Emma's Footsteps (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'In Emma's Footsteps (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. In Emma's Footsteps - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'In Emma's Footsteps (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'In Emma's Footsteps (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'In Emma's Footsteps (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'In Emma's Footsteps (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'In Emma's Footsteps (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. In Emma's Footsteps - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'In Emma's Footsteps (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'In Emma's Footsteps (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'In Emma's Footsteps (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'I, Dolours (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'I, Dolours (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. I, Dolours - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'I, Dolours (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'I, Dolours (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'I, Dolours (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'I, Dolours (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'I, Dolours (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. I, Dolours - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'I, Dolours (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'I, Dolours (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'I, Dolours (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'It's a Date (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'It's a Date (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. It's a Date - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'It's a Date (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'It's a Date (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'It's a Date (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'It's a Date (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'It's a Date (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. It's a Date - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'It's a Date (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'It's a Date (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'It's a Date (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Falling in Love Again (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Falling in Love Again (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Falling in Love Again - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Falling in Love Again (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'Falling in Love Again (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'Falling in Love Again (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Falling in Love Again (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Falling in Love Again (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Falling in Love Again - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Falling in Love Again (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'Falling in Love Again (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'Falling in Love Again (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Holly Near Singing For Our Lives (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Holly Near Singing For Our Lives (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Holly Near Singing For Our Lives - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Holly Near Singing For Our Lives (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'Holly Near Singing For Our Lives (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'Holly Near Singing For Our Lives (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Holly Near Singing For Our Lives (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Holly Near Singing For Our Lives (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Holly Near Singing For Our Lives - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Holly Near Singing For Our Lives (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'Holly Near Singing For Our Lives (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'Holly Near Singing For Our Lives (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Cassandro, The Exotico! (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Cassandro, The Exotico! (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Cassandro, The Exotico! - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Cassandro, The Exotico! (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'Cassandro, The Exotico! (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'Cassandro, The Exotico! (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Cassandro, The Exotico! (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Cassandro, The Exotico! (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Cassandro, The Exotico! - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Cassandro, The Exotico! (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'Cassandro, The Exotico! (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'Cassandro, The Exotico! (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'A Lot Like Christmas (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'A Lot Like Christmas (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. A Lot Like Christmas - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'A Lot Like Christmas (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'A Lot Like Christmas (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'A Lot Like Christmas (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'A Lot Like Christmas (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'A Lot Like Christmas (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. A Lot Like Christmas - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'A Lot Like Christmas (2018) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'A Lot Like Christmas (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'A Lot Like Christmas (2018) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'The Baby Stealer (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'The Baby Stealer (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. The Baby Stealer - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'The Baby Stealer (2018) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'The Baby Stealer (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'The Baby Stealer (2018) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'The Baby Stealer (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'The Baby Stealer (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. The Baby Stealer - 2018 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'The Baby Stealer (2018) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.4|Debug|ParsingService|No matching movie for titles 'The Baby Stealer (2018)'
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Release 'The Baby Stealer (2018) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.4|Debug|DownloadDecisionMaker|Processing release 'Love Forever (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.4|Debug|Parser|Parsing string 'Love Forever (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Movie Parsed. Love Forever - 2025 
+2025-02-16 04:08:02.4|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.4|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.4|Debug|QualityParser|Trying to parse quality for 'Love Forever (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.4|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Love Forever (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Love Forever (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Love Forever (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Love Forever (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Love Forever - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Love Forever (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Love Forever (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Love Forever (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'The Most Beautiful Girl in the World (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'The Most Beautiful Girl in the World (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. The Most Beautiful Girl in the World - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'The Most Beautiful Girl in the World (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'The Most Beautiful Girl in the World (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'The Most Beautiful Girl in the World (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'The Most Beautiful Girl in the World (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'The Most Beautiful Girl in the World (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. The Most Beautiful Girl in the World - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'The Most Beautiful Girl in the World (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'The Most Beautiful Girl in the World (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'The Most Beautiful Girl in the World (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Dhoom Dhaam (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Dhoom Dhaam (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Dhoom Dhaam - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Dhoom Dhaam (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Dhoom Dhaam (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Dhoom Dhaam (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Dhoom Dhaam (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Dhoom Dhaam (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Dhoom Dhaam - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Dhoom Dhaam (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Dhoom Dhaam (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Dhoom Dhaam (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Umjolo There Is No Cure (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Umjolo There Is No Cure (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Umjolo There Is No Cure - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Umjolo There Is No Cure (2025) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Umjolo There Is No Cure (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Umjolo There Is No Cure (2025) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Umjolo There Is No Cure (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Umjolo There Is No Cure (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Umjolo There Is No Cure - 2025 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Umjolo There Is No Cure (2025) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Umjolo There Is No Cure (2025)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Umjolo There Is No Cure (2025) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'The Dead Thing (2024) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'The Dead Thing (2024) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. The Dead Thing - 2024 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'The Dead Thing (2024) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'The Dead Thing (2024)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'The Dead Thing (2024) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'The Dead Thing (2024) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'The Dead Thing (2024) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. The Dead Thing - 2024 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'The Dead Thing (2024) 1080p WEBRip 5.1 x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'The Dead Thing (2024)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'The Dead Thing (2024) 1080p WEBRip 5.1 x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Pete Correale For Pete's Sake (2019) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Pete Correale For Pete's Sake (2019) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Pete Correale For Pete's Sake - 2019 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Pete Correale For Pete's Sake (2019) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Pete Correale For Pete's Sake (2019)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Pete Correale For Pete's Sake (2019) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Pete Correale For Pete's Sake (2019) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Pete Correale For Pete's Sake (2019) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Pete Correale For Pete's Sake - 2019 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Pete Correale For Pete's Sake (2019) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Pete Correale For Pete's Sake (2019)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Pete Correale For Pete's Sake (2019) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Sons of Steel (1988) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Sons of Steel (1988) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Sons of Steel - 1988 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Sons of Steel (1988) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Sons of Steel (1988)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Sons of Steel (1988) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'Sons of Steel (1988) 1080p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'Sons of Steel (1988) 1080p BRRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. Sons of Steel - 1988 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'Sons of Steel (1988) 1080p BRRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.5|Debug|ParsingService|No matching movie for titles 'Sons of Steel (1988)'
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Release 'Sons of Steel (1988) 1080p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.5|Debug|DownloadDecisionMaker|Processing release 'The Sheriff and the Satellite Kid (1979) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.5|Debug|Parser|Parsing string 'The Sheriff and the Satellite Kid (1979) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Movie Parsed. The Sheriff and the Satellite Kid - 1979 
+2025-02-16 04:08:02.5|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.5|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.5|Debug|QualityParser|Trying to parse quality for 'The Sheriff and the Satellite Kid (1979) 720p BRRip x264 -YTS'
+2025-02-16 04:08:02.5|Debug|Parser|Quality parsed: Bluray-720p v1
+2025-02-16 04:08:02.5|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.6|Debug|ParsingService|No matching movie for titles 'The Sheriff and the Satellite Kid (1979)'
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Release 'The Sheriff and the Satellite Kid (1979) 720p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Processing release 'The Sheriff and the Satellite Kid (1979) 1080p BRRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.6|Debug|Parser|Parsing string 'The Sheriff and the Satellite Kid (1979) 1080p BRRip x264 -YTS'
+2025-02-16 04:08:02.6|Debug|Parser|Movie Parsed. The Sheriff and the Satellite Kid - 1979 
+2025-02-16 04:08:02.6|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.6|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.6|Debug|QualityParser|Trying to parse quality for 'The Sheriff and the Satellite Kid (1979) 1080p BRRip x264 -YTS'
+2025-02-16 04:08:02.6|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-16 04:08:02.6|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.6|Debug|ParsingService|No matching movie for titles 'The Sheriff and the Satellite Kid (1979)'
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Release 'The Sheriff and the Satellite Kid (1979) 1080p BRRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Processing release 'LEGO Hidden Side Night of the Harbinger (2020) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.6|Debug|Parser|Parsing string 'LEGO Hidden Side Night of the Harbinger (2020) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.6|Debug|Parser|Movie Parsed. LEGO Hidden Side Night of the Harbinger - 2020 
+2025-02-16 04:08:02.6|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.6|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.6|Debug|QualityParser|Trying to parse quality for 'LEGO Hidden Side Night of the Harbinger (2020) 720p WEBRip x264 -YTS'
+2025-02-16 04:08:02.6|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-02-16 04:08:02.6|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.6|Debug|ParsingService|No matching movie for titles 'LEGO Hidden Side Night of the Harbinger (2020)'
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Release 'LEGO Hidden Side Night of the Harbinger (2020) 720p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Processing release 'LEGO Hidden Side Night of the Harbinger (2020) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)'
+2025-02-16 04:08:02.6|Debug|Parser|Parsing string 'LEGO Hidden Side Night of the Harbinger (2020) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.6|Debug|Parser|Movie Parsed. LEGO Hidden Side Night of the Harbinger - 2020 
+2025-02-16 04:08:02.6|Debug|Parser|Release Group parsed: YTS
+2025-02-16 04:08:02.6|Debug|Parser|Languages parsed: Unknown
+2025-02-16 04:08:02.6|Debug|QualityParser|Trying to parse quality for 'LEGO Hidden Side Night of the Harbinger (2020) 1080p WEBRip x264 -YTS'
+2025-02-16 04:08:02.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-16 04:08:02.6|Debug|Parser|Edition parsed: 
+2025-02-16 04:08:02.6|Debug|ParsingService|No matching movie for titles 'LEGO Hidden Side Night of the Harbinger (2020)'
+2025-02-16 04:08:02.6|Debug|DownloadDecisionMaker|Release 'LEGO Hidden Side Night of the Harbinger (2020) 1080p WEBRip x264 -YTS' from 'YTS (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2025-02-16 04:08:02.6|Info|RssSyncService|RSS Sync Completed. Reports found: 113, Reports grabbed: 0
+2025-02-16 04:08:02.6|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-16 04:08:02.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:02.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:08:15.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:15.5|Debug|Torznab|Downloading Feed http://192.168.18.32:9696/3/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-16 04:08:29.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:29.6|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-02-16 04:08:52.1|Debug|Api|[POST] /api/v3/indexer: 201.Created (36614 ms)
+2025-02-16 04:08:57.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:08:57.1|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-02-16 04:09:29.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:09:29.6|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-02-16 04:09:29.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:09:29.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:09:29.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:10:25.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:25.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:25.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:25.5|Debug|Api|[GET] /api/v3/config/downloadclient: 200.OK (11 ms)
+2025-02-16 04:10:25.5|Debug|Api|[GET] /api/v3/remotepathmapping: 200.OK (19 ms)
+2025-02-16 04:10:25.5|Debug|Api|[GET] /api/v3/downloadclient: 200.OK (21 ms)
+2025-02-16 04:10:26.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:26.1|Debug|Api|[GET] /api/v3/downloadclient/schema: 200.OK (61 ms)
+2025-02-16 04:10:32.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:33.1|Debug|QBittorrentProxyV2|qBittorrent authentication succeeded.
+2025-02-16 04:10:33.4|Debug|Api|[POST] /api/v3/downloadclient/test: 200.OK (472 ms)
+2025-02-16 04:10:33.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:34.0|Debug|Api|[POST] /api/v3/downloadclient: 201.Created (109 ms)
+2025-02-16 04:10:39.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:39.0|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-02-16 04:10:59.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:10:59.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:10:59.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.7|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:10:59.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:10:59.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:11:37.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:37.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:11:42.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:42.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:42.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:11:42.6|Debug|Api|[GET] /api/v3/rootFolder: 200.OK (55 ms)
+2025-02-16 04:11:42.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:42.8|Debug|Parser|Parsing string 'kung fu panda'
+2025-02-16 04:11:42.9|Debug|Parser|Unable to parse kung fu panda
+2025-02-16 04:11:43.9|Debug|Api|[GET] /api/v3/movie/lookup?term=kung%20fu%20panda: 200.OK (1075 ms)
+2025-02-16 04:11:49.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:49.1|Debug|Api|[GET] /api/v3/filesystem?path=&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (31 ms)
+2025-02-16 04:11:57.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:57.3|Debug|Api|[GET] /api/v3/filesystem?path=%2Fmedia%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (3 ms)
+2025-02-16 04:11:59.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:11:59.1|Debug|Api|[GET] /api/v3/filesystem?path=%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (6 ms)
+2025-02-16 04:12:12.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:12.6|Debug|Api|[GET] /api/v3/filesystem?path=%2Fmnt%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (2 ms)
+2025-02-16 04:12:18.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:18.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:18.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:18.2|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-02-16 04:12:18.3|Debug|Api|[GET] /api/v3/system/status: 200.OK (6 ms)
+2025-02-16 04:12:18.4|Debug|Api|[GET] /api/v3/diskspace: 200.OK (114 ms)
+2025-02-16 04:12:21.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:21.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (6 ms)
+2025-02-16 04:12:26.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:26.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:26.8|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:12:26.8|Debug|Api|[GET] /api/v3/rootFolder: 200.OK (4 ms)
+2025-02-16 04:12:27.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:27.1|Debug|Parser|Parsing string 'kung fu pands'
+2025-02-16 04:12:27.1|Debug|Parser|Unable to parse kung fu pands
+2025-02-16 04:12:27.5|Debug|Api|[GET] /api/v3/movie/lookup?term=kung%20fu%20pands: 200.OK (432 ms)
+2025-02-16 04:12:28.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:28.6|Debug|Parser|Parsing string 'kung fu pandsa'
+2025-02-16 04:12:28.6|Debug|Parser|Unable to parse kung fu pandsa
+2025-02-16 04:12:29.0|Debug|Api|[GET] /api/v3/movie/lookup?term=kung%20fu%20pandsa: 200.OK (406 ms)
+2025-02-16 04:12:29.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.4|Debug|Parser|Parsing string 'kung fu panda'
+2025-02-16 04:12:29.4|Debug|Parser|Unable to parse kung fu panda
+2025-02-16 04:12:29.5|Debug|Api|[GET] /api/v3/movie/lookup?term=kung%20fu%20panda: 200.OK (82 ms)
+2025-02-16 04:12:29.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.7|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:12:29.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:12:29.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.7|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:12:29.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:29.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:12:33.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:33.1|Debug|Api|[GET] /api/v3/filesystem?path=&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (2 ms)
+2025-02-16 04:12:34.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:34.9|Debug|Api|[GET] /api/v3/filesystem?path=%2Fdata%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (4 ms)
+2025-02-16 04:12:36.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:36.0|Debug|Api|[GET] /api/v3/filesystem?path=%2Fdata%2Fmovies%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (1 ms)
+2025-02-16 04:12:37.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:37.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Path: Folder '/data/movies/' is not writable by user 'abc'
+2025-02-16 04:12:37.5|Debug|Api|[POST] /api/v3/rootFolder: 400.BadRequest (26 ms)
+2025-02-16 04:12:39.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:40.0|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Path: 'Path' must not be empty.
+ -- RootFolderPath: 'Root Folder Path' must not be empty.
+2025-02-16 04:12:40.0|Debug|Api|[POST] /api/v3/movie: 400.BadRequest (81 ms)
+2025-02-16 04:12:44.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:44.0|Debug|Api|[GET] /api/v3/filesystem?path=&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (2 ms)
+2025-02-16 04:12:45.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:45.8|Debug|Api|[GET] /api/v3/filesystem?path=%2Fdata%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (1 ms)
+2025-02-16 04:12:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:46.7|Debug|Api|[GET] /api/v3/filesystem?path=%2Fdata%2Fmovies%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (1 ms)
+2025-02-16 04:12:48.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:48.4|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Path: Folder '/data/movies/' is not writable by user 'abc'
+2025-02-16 04:12:48.4|Debug|Api|[POST] /api/v3/rootFolder: 400.BadRequest (7 ms)
+2025-02-16 04:12:56.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:56.4|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Path: 'Path' must not be empty.
+ -- RootFolderPath: 'Root Folder Path' must not be empty.
+2025-02-16 04:12:56.4|Debug|Api|[POST] /api/v3/movie: 400.BadRequest (39 ms)
+2025-02-16 04:12:59.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:12:59.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:12:59.7|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-02-16 04:13:00.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:00.3|Debug|Api|[GET] /api/v3/filesystem?path=&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (2 ms)
+2025-02-16 04:13:02.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:02.0|Debug|Api|[GET] /api/v3/filesystem?path=%2Fdata%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (1 ms)
+2025-02-16 04:13:02.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:02.9|Debug|Api|[GET] /api/v3/filesystem?path=%2Fdata%2Fmovies%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=true: 200.OK (1 ms)
+2025-02-16 04:13:04.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:04.2|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Path: Folder '/data/movies/' is not writable by user 'abc'
+2025-02-16 04:13:04.2|Debug|Api|[POST] /api/v3/rootFolder: 400.BadRequest (9 ms)
+2025-02-16 04:13:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:29.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:13:29.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:13:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:29.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:13:29.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:13:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:13:29.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:14:59.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:59.8|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:14:59.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:59.8|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:14:59.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:59.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:14:59.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:14:59.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:16:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:29.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:16:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:29.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:16:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:29.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:16:29.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:16:29.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:17:59.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:17:59.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:59.9|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:17:59.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:59.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:17:59.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:17:59.9|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:18:00.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:00.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:18:00.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:00.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:18:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:18:30.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:19:00.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:19:00.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:19:00.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:19:00.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:19:00.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:19:00.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:19:00.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:19:00.1|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:20:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:30.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-02-16 04:20:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:30.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:20:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:30.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:20:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:20:30.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:22:00.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:22:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:22:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:22:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:22:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:23:00.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:23:00.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:00.1|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-02-16 04:23:30.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:30.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:23:30.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:30.1|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:23:30.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:30.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:23:30.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:30.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:23:30.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:23:30.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:25:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:25:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-02-16 04:25:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:25:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-02-16 04:25:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:25:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-02-16 04:25:00.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:25:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-02-16 04:28:00.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-02-16 04:30:05.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v3/health: 200.OK (14 ms)
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v3/queue/status: 200.OK (22 ms)
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2025-02-16 04:30:05.3|Debug|Api|[GET] /api/v3/movie: 200.OK (28 ms)

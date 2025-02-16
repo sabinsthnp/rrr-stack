@@ -1247,3 +1247,628 @@
 2025-02-16 01:09:56.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2025-02-16 01:09:56.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
 2025-02-16 01:09:56.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-16 02:08:17.1|Warn|Auth|Auth-Failure ip 192.168.18.2 username 'admin'
+2025-02-16 02:08:21.9|Info|Auth|Auth-Success ip 192.168.18.2 username 'admin'
+2025-02-16 03:58:29.6|Warn|Sonarr|Unable to complete application test
+
+[v1.30.2.4939] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-02-16 03:58:29.8|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-02-16 03:58:30.5|Warn|Sonarr|Unable to complete application test
+
+[v1.30.2.4939] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-02-16 03:58:30.6|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-02-16 03:58:54.0|Warn|Sonarr|Unable to complete application test
+
+[v1.30.2.4939] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 230
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-02-16 03:58:54.1|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-02-16 03:59:27.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8989/api/v3/indexer/test: 400.BadRequest (249 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).",
+    "severity": "error"
+  }
+]
+2025-02-16 03:59:27.1|Warn|Sonarr|Prowlarr URL is invalid
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer/test]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Post(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 423
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.TestConnection(SonarrIndexer indexer, SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 131
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 03:59:27.1|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- ProwlarrUrl: Prowlarr URL is invalid, Sonarr cannot connect to Prowlarr
+2025-02-16 04:02:39.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:02:41.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [3000, 3030, 3040, 3050]
+2025-02-16 04:02:43.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8686/api/v1/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:02:43.7|Warn|LidarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:02:43.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [3000, 3030, 3040, 3050]
+2025-02-16 04:02:45.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8686/api/v1/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:02:45.6|Warn|LidarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:02:45.7|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8686/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.AddIndexer(LidarrIndexer indexer, LidarrSettings settings) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 99
+   at NzbDrone.Core.Applications.Lidarr.Lidarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Lidarr/Lidarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:02:45.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-16 04:02:47.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050]
+2025-02-16 04:02:53.3|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to access 1337x.to, blocked by CloudFlare Protection.
+2025-02-16 04:03:41.6|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2025-02-16 04:04:02.6|Warn|Cardigann|Unable to connect to indexer
+
+[v1.30.2.4939] System.FormatException: The format of value '' is invalid.
+   at System.Net.Http.Headers.HttpHeaderParser.ParseValue(String value, Object storeValue, Int32& index)
+   at System.Net.Http.Headers.HttpHeaders.ParseAndAddValue(HeaderDescriptor descriptor, HeaderStoreItemInfo info, String value)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.AddRequestHeaders(HttpRequestMessage webRequest, HttpHeader headers) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 218
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 109
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./Prowlarr.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 661
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 660
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 583
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 760
+
+
+2025-02-16 04:04:02.6|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. The format of value '' is invalid.
+2025-02-16 04:06:02.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-16 04:06:28.9|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:06:35.3|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [3000]
+2025-02-16 04:06:36.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8989/api/v3/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:36.0|Warn|SonarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:36.0|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:06:36.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8989/api/v3/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:36.5|Warn|SonarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 150
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:36.5|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8989/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 150
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.AddIndexer(SonarrIndexer indexer, SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 99
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 140
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:36.6|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-02-16 04:06:38.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:7878/api/v3/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:38.5|Warn|RadarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 228
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 163
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:38.6|Info|ReleaseSearchService|Searching indexer(s): [Torrentz2nz] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-02-16 04:06:40.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:7878/api/v3/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:06:40.5|Warn|RadarrV3Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 228
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 163
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:06:40.5|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:7878/api/v3/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 228
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 163
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.AddIndexer(RadarrIndexer indexer, RadarrSettings settings) in ./Prowlarr.Core/Applications/Radarr/RadarrV3Proxy.cs:line 100
+   at NzbDrone.Core.Applications.Radarr.Radarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Radarr/Radarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:07:29.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050]
+2025-02-16 04:07:59.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-16 04:07:59.6|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2025-02-16 04:08:02.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:08:02.6|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-16 04:08:15.3|Error|LidarrV1Proxy|Unable to add or update indexer
+
+[v1.30.2.4939] System.Net.WebException: Http request timed out
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+
+
+2025-02-16 04:08:15.4|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService server is currently unavailable. Http request timed out
+
+[v1.30.2.4939] System.Net.WebException: Http request timed out
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 150
+   at NzbDrone.Core.Applications.Lidarr.LidarrV1Proxy.AddIndexer(LidarrIndexer indexer, LidarrSettings settings) in ./Prowlarr.Core/Applications/Lidarr/LidarrV1Proxy.cs:line 91
+   at NzbDrone.Core.Applications.Lidarr.Lidarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Lidarr/Lidarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+
+
+2025-02-16 04:08:15.5|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-02-16 04:08:17.2|Warn|Cardigann|Request for kickasstorrents.to failed with status BadGateway. Retrying in 2.0006284s.
+2025-02-16 04:08:52.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [7000]
+2025-02-16 04:09:30.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8787/api/v1/indexer: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:09:30.2|Warn|ReadarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 202
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 137
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:09:30.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [], Offset: 0, Limit: 100, Categories: [7000]
+2025-02-16 04:09:59.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://192.168.18.32:8787/api/v1/indexer?forceSave=true: 400.BadRequest (274 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+2025-02-16 04:09:59.6|Warn|ReadarrV1Proxy|No Results in configured categories. See FAQ Entry: Prowlarr will not sync X Indexer to App
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 202
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 137
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:09:59.6|Warn|ApplicationService|NzbDrone.Core.Applications.ApplicationService HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer?forceSave=true]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://192.168.18.32:8787/api/v1/indexer?forceSave=true]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 202
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.ExecuteIndexerRequest(HttpRequest request) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 137
+   at NzbDrone.Core.Applications.Readarr.ReadarrV1Proxy.AddIndexer(ReadarrIndexer indexer, ReadarrSettings settings) in ./Prowlarr.Core/Applications/Readarr/ReadarrV1Proxy.cs:line 96
+   at NzbDrone.Core.Applications.Readarr.Readarr.AddIndexer(IndexerDefinition indexer) in ./Prowlarr.Core/Applications/Readarr/Readarr.cs:line 135
+   at NzbDrone.Core.Applications.ApplicationService.<>c__DisplayClass8_0.<HandleAsync>b__0(IApplication a) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 76
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction(Action`1 applicationAction, IApplication application) in ./Prowlarr.Core/Applications/ApplicationService.cs:line 239
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.",
+    "severity": "error"
+  }
+]
+
+
+2025-02-16 04:14:41.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay, YTS, kickasstorrents.to, Torrentz2nz] for Term: [kung fu panda], Offset: 0, Limit: 100, Categories: []
+2025-02-16 04:15:42.6|Warn|Cardigann|Request for Torrentz2nz failed with status GatewayTimeout. Retrying in 2.6118985s.
+2025-02-16 04:16:45.6|Warn|Cardigann|Request for Torrentz2nz failed with status GatewayTimeout. Retrying in 1.6111846s.
+2025-02-16 04:17:28.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay, YTS, kickasstorrents.to, Torrentz2nz] for Term: [kung fu panda], Offset: 0, Limit: 100, Categories: []
+2025-02-16 04:17:28.8|Warn|Cardigann|Request for Torrentz2nz failed with status BadGateway. Retrying in 1.1854949s.
+2025-02-16 04:17:30.5|Warn|Cardigann|Request for Torrentz2nz failed with status BadGateway. Retrying in 3.1376987s.
+2025-02-16 04:17:34.3|Warn|Cardigann|HTTP Error - Res: HTTP/2.0 [GET] https://torrentz2.nz/search?q=kung+fu+panda: 502.BadGateway (15 bytes)
+error code: 502
+2025-02-16 04:17:34.3|Warn|Cardigann|Unable to connect to Torrentz2nz at [https://torrentz2.nz/search?q=kung+fu+panda]. Indexer's server is unavailable. Try again later. HTTP request failed: [502:BadGateway] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [502:BadGateway] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 697
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 606
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 424
+error code: 502
+
+
+2025-02-16 04:17:47.5|Warn|Cardigann|HTTP Error - Res: HTTP/2.0 [GET] https://torrentz2.nz/search?q=kung+fu+panda: 504.GatewayTimeout (15 bytes)
+error code: 504
+2025-02-16 04:17:47.5|Warn|Cardigann|Unable to connect to Torrentz2nz at [https://torrentz2.nz/search?q=kung+fu+panda]. Indexer's server is unavailable. Try again later. HTTP request failed: [504:GatewayTimeout] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+
+[v1.30.2.4939] NzbDrone.Common.Http.HttpException: HTTP request failed: [504:GatewayTimeout] [GET] at [https://torrentz2.nz/search?q=kung+fu+panda]
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 697
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 606
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 424
+error code: 504
+
+
+2025-02-16 04:20:19.4|Fatal|ProwlarrErrorPipeline|Request Failed. POST /api/v1/search
+
+[v1.30.2.4939] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Torrent Download client isn't configured yet
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, IDownloadClient downloadClient) in ./Prowlarr.Core/Download/DownloadService.cs:line 61
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, Nullable`1 downloadClientId) in ./Prowlarr.Core/Download/DownloadService.cs:line 52
+   at Prowlarr.Api.V1.Search.SearchController.GrabRelease(ReleaseResource release) in ./Prowlarr.Api.V1/Search/SearchController.cs:line 77
+   at lambda_method472(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:20:21.4|Fatal|ProwlarrErrorPipeline|Request Failed. POST /api/v1/search
+
+[v1.30.2.4939] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Torrent Download client isn't configured yet
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, IDownloadClient downloadClient) in ./Prowlarr.Core/Download/DownloadService.cs:line 61
+   at NzbDrone.Core.Download.DownloadService.SendReportToClient(ReleaseInfo release, String source, String host, Boolean redirect, Nullable`1 downloadClientId) in ./Prowlarr.Core/Download/DownloadService.cs:line 52
+   at Prowlarr.Api.V1.Search.SearchController.GrabRelease(ReleaseResource release) in ./Prowlarr.Api.V1/Search/SearchController.cs:line 77
+   at lambda_method472(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 04:22:38.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [Separacion] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:22:38.4|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [Separacion] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:22:40.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [Scissione] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:22:42.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [Severance] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:22:52.7|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [Scissione] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:22:58.7|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [Severance] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2025-02-16 04:23:00.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [7000, 3030, 7020, 7030, 7050]
+2025-02-16 04:24:03.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-16 04:24:03.2|Info|ReleaseSearchService|Searching indexer(s): [kickasstorrents.to] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]

@@ -5254,3 +5254,101 @@
 2025-02-16 01:37:57.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2025-02-16 01:37:57.5|Info|DownloadDecisionMaker|No results found
 2025-02-16 01:37:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 01:52:58.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 01:52:58.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 01:52:58.0|Info|DownloadDecisionMaker|No results found
+2025-02-16 01:52:58.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:07:58.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:07:58.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:07:58.5|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:07:58.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:22:59.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:22:59.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:22:59.1|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:22:59.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:37:59.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:37:59.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:37:59.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:37:59.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 02:53:00.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 02:53:00.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 02:53:00.1|Info|DownloadDecisionMaker|No results found
+2025-02-16 02:53:00.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:08:00.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:08:00.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:08:00.5|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:08:00.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:23:01.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:23:01.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:23:01.0|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:23:01.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:38:01.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:38:01.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:38:01.6|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:38:01.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:53:02.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 03:53:02.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 03:53:02.1|Info|DownloadDecisionMaker|No results found
+2025-02-16 03:53:02.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 03:57:41.6|Info|Auth|Auth-Success ip 192.168.18.2 username 'admin'
+2025-02-16 03:59:27.0|Warn|Newznab|Unable to connect to indexer
+
+[v4.0.13.2932] System.Net.Http.HttpRequestException: Connection refused (localhost:9696)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 327
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 313
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 199
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 376
+
+2025-02-16 03:59:27.1|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).
+2025-02-16 04:06:36.0|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:06:36.5|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 04:08:02.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:08:02.5|Info|SceneMappingService|Updating Scene mappings
+2025-02-16 04:08:33.4|Info|DownloadDecisionMaker|Processing 33 releases
+2025-02-16 04:08:36.2|Info|RssSyncService|RSS Sync Completed. Reports found: 33, Reports grabbed: 0
+2025-02-16 04:22:07.6|Info|AddSeriesService|Adding Series [371980][Severance] Path: [/data/tvshows/Severance]
+2025-02-16 04:22:07.7|Info|RefreshSeriesService|Updating Severance
+2025-02-16 04:22:07.8|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2025-02-16 04:22:07.8|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2025-02-16 04:22:08.6|Info|MediaCoverService|Downloading Banner for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/banners/61bb729db0947.jpg
+2025-02-16 04:22:08.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-16 04:22:08.6|Info|SeriesScannedHandler|[Severance] was recently added, performing post-add actions
+2025-02-16 04:22:08.6|Info|MediaCoverService|Downloading Poster for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/posters/61bc6bbbea3f4.jpg
+2025-02-16 04:22:08.7|Info|MediaCoverService|Downloading Fanart for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/backgrounds/61bdee7c62d99.jpg
+2025-02-16 04:22:08.8|Info|MediaCoverService|Downloading Clearlogo for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/clearlogo/621094f90a4e4.png
+2025-02-16 04:22:09.4|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2025-02-16 04:22:38.4|Info|ReleaseSearchService|Searching indexers for [Severance : S01]. 2 active indexers
+2025-02-16 04:23:10.2|Info|DownloadDecisionMaker|Processing 24 releases
+2025-02-16 04:23:16.4|Info|DownloadService|Report sent to qBittorrent. Indexer kickasstorrents.to (Prowlarr). Severance (2022) S01 REPACK (1080p BluRay x265 10bit EAC3 5 1 Silence)  QxR
+2025-02-16 04:23:16.7|Info|SeasonSearchService|Season search completed. 1 reports downloaded.
+2025-02-16 04:24:03.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:24:34.5|Info|DownloadDecisionMaker|Processing 26 releases
+2025-02-16 04:24:34.6|Info|RssSyncService|RSS Sync Completed. Reports found: 26, Reports grabbed: 0
