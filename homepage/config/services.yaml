@@ -1,5 +1,6 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/service
+
 - Media:
     - Radarr:
         icon: radarr.png
@@ -63,17 +64,18 @@
           fields: ["wanted", "queued", "missing"]
           url: https://sonarr.sabinsth.com.np
           key: c0cf2daf1e5c403e9aa602315a5810d5
-    - Maintainerr:
-        icon: https://i.imgur.com/Nj0a82k.png
-        ping: http://maintainerr.sabinsth.com.np/
-        href: http://maintainerr.sabinsth.com.np/
-        description: Media Management
-        server: my-docker
-        container: maintainerr
-        showStats: true
 
 
-- Various:
+- Files:
+    - TrueNas:
+       widget:
+        type: truenas
+        url: http://192.168.18.9
+        username: truenas_admin # not required if using api key
+        password: nepal123 # not required if using api key
+        #key: yourtruenasapikey # not required if using username / password
+        enablePools: true # optional, defaults to false
+        nasType: scale # defaults to scale, must be set to 'core' if using enablePools with TrueNAS Core
     - Nextcloud:
         icon: nextcloud.png
         ping: https://files.photopasal.com.np
@@ -87,14 +89,19 @@
         #  url: https://files.photopasal.com.np
         #  username: admin
         #  password: nepal123
-    - Caddy:
-        icon: caddy.png
-        ping: http://192.168.18.32:2020/
-        href: 'http://192.168.18.32:2020/'
-        description: Reverse Proxy
+    - Immich:
+        icon: immich.png
+        ping: https://photos.photopasal.com.np/
+        href: https://photos.photopasal.com.np/
+        description: Photos Management
+        #server: my-docker
+        #container: immich_server
+        showStats: true
         widget:
-          type: caddy
-          url: http://192.168.18.32:2020
+          type: immich
+          url: https://photos.photopasal.com.np
+          key: HaqaxOOA4EHVLPLIOD4yMnFAYoYT0HHAG8T3Qx18gOg
+          version: 2
     - Prowlarr:
         icon: prowlarr.png
         ping: https://prowlarr.sabinsth.com.np/
@@ -109,54 +116,38 @@
           key: cff20da7a96b402aaf9736944f87756a
     - qBittorrent:
         icon: qbittorrent.png
-        ping: http://192.168.50.6:8084/
-        href: 'http://192.168.50.6:8084/'
+        ping: http://192.168.18.32:8080
+        href: 'http://192.168.18.32:8080/'
         description: Torrent Downloader
-        siteMonitor: http://192.168.50.6:8084/
+        siteMonitor: http://192.168.18.32:8080/
         widget:
           type: qbittorrent
-          url: http://192.168.50.6:8084
-          username: xxxxxxxx
-          password: xxxxxxxx
-    - ChangeDetection:
-        icon: https://i.imgur.com/gjT40t6.png
-        ping: http://change.sabinsth.com.np/
-        href: http://change.sabinsth.com.np/
-        description: Website Change Monitoring
+          url: http://192.168.18.32:8080
+          username: admin
+          password: nepal123
+    - Portainer:
+        icon: portainer.png
+        ping: https://192.168.18.32:9443/
+        href: https://192.168.18.32:9443/
+        description: Container Management
         server: my-docker
-        container: stack3-changedetection-1
+        container: portainer
         showStats: true
         widget:
-          type: changedetectionio
-          url: http://192.168.18.32:5000
-          key: xxxxxxxxxxxxx
-    - Audiobookshelf:
-        icon: audiobookshelf
-        ping: http://audio.sabinsth.com.np/
-        href: http://audio.sabinsth.com.np/
-        description: Audiobook Library
+          type: portainer
+          url: https://192.168.18.32:9443
+          env: 2
+          key: ptr_dsoVRxKsG7oC2lQFOYLrBZrn1wIU6S7oaD7g6JZioM8=
+    - Maintainerr:
+        icon: https://i.imgur.com/Nj0a82k.png
+        ping: http://maintainerr.sabinsth.com.np/
+        href: http://maintainerr.sabinsth.com.np/
+        description: Media Management
         server: my-docker
-        container: audiobookshelf
+        container: maintainerr
         showStats: true
-        widget:
-          type: audiobookshelf
-          url: http://192.168.18.32:13378
-          key: xxxxxxxxxxx
-    - FreshRSS:
-        icon: freshrss.png
-        ping: http://freshrss.sabinsth.com.np/
-        href: http://freshrss.sabinsth.com.np/
-        description: RSS Feed
-        server: my-docker
-        container: freshrss
-        showStats: true
-        widget:
-          type: freshrss
-          url: http://192.168.18.32:8282
-          username: xxxxxxxxx
-          password: xxxxxxxxx       
 
-- Others:
+- Network - Others:
     - Uptime-Kuma:
         icon: uptime-kuma.png
         ping: https://status.sabinsth.com.np/
@@ -180,19 +171,6 @@
           type: watchtower
           url: http://192.168.18.32:8087
           key: xxxxxxxx
-    - Portainer:
-        icon: portainer.png
-        ping: https://192.168.18.32:9443/
-        href: https://192.168.18.32:9443/
-        description: Container Management
-        server: my-docker
-        container: portainer
-        showStats: true
-        widget:
-          type: portainer
-          url: https://192.168.18.32:9443
-          env: 2
-          key: ptr_dsoVRxKsG7oC2lQFOYLrBZrn1wIU6S7oaD7g6JZioM8=
     - Speedtest Tracker:
         icon: speedtest-tracker.png
         ping: https://192.168.18.32:5443/
@@ -213,18 +191,6 @@
           type: pihole
           url: 'http://192.168.50.114/'
           key: xxxxxxxxxxxxx
-    - Immich:
-        icon: immich.png
-        ping: https://photos.photopasal.com.np/
-        href: https://photos.photopasal.com.np/
-        description: Photos Management
-        server: my-docker
-        container: immich_server
-        showStats: true
-        widget:
-          type: immich
-          url: http://192.168.18.9:2283
-          key: HaqaxOOA4EHVLPLIOD4yMnFAYoYT0HHAG8T3Qx18gOg
     - Calibre-Web:
         icon: calibre.png
         ping: https://impressive-mink.pikapod.net/
@@ -324,6 +290,58 @@
         refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
         pointsLimit: 15 # optional, defaults to 15
 
+- Glances:
+    - Disk - ROOT:
+      widget:
+        type: glances
+        url: http://192.168.18.13:61208
+        username: user # optional if auth enabled in Glances
+        password: pass # optional if auth enabled in Glances
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: cpu
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Disk - ROOT:
+      widget:
+        type: glances
+        url: http://192.168.18.13:61208
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: disk:sda
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Ram:
+      widget:
+        type: glances
+        url: http://192.168.18.13:61208
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: memory
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Network:
+      widget:
+        type: glances
+        url: http://192.168.18.13:61208
+        username: user # optional if auth enabled in Glances
+        password: pass # optional if auth enabled in Glances
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: network:eth0
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Process:
+      widget:
+        type: glances
+        url: http://192.168.18.13:61208
+        username: user # optional if auth enabled in Glances
+        password: pass # optional if auth enabled in Glances
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: process
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
 - TrueNas:
   - TrueNas:
      widget:
@@ -334,3 +352,17 @@
       #key: yourtruenasapikey # not required if using username / password
       enablePools: true # optional, defaults to false
       nasType: scale # defaults to scale, must be set to 'core' if using enablePools with TrueNAS Core
+#    - ChangeDetection:
+#       icon: https://i.imgur.com/gjT40t6.png
+#        ping: http://change.sabinsth.com.np/
+#        href: http://change.sabinsth.com.np/
+#        description: Website Change Monitoring
+#        server: my-docker
+#        container: stack3-changedetection-1
+#        showStats: true
+#        widget:
+#          type: changedetectionio
+#          url: http://192.168.18.32:5000
+
+#          key: xxxxxxxxxxxxx
+#    - Audiobookshelf:

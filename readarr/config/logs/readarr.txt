@@ -2802,3 +2802,23 @@
 2025-02-17 05:42:37.5|Info|DownloadDecisionMaker|Processing 19 releases
 2025-02-17 05:42:54.1|Info|DownloadService|Report sent to qBittorrent from indexer The Pirate Bay (Prowlarr). Slaughterhouse-Five by Kurt Vonnegut EPUB
 2025-02-17 05:42:54.7|Info|BookSearchService|Book search completed. 1 reports downloaded.
+2025-02-17 05:57:25.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:57:33.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 05:42:03 and 02/17/2025 05:57:26 UTC. Search may be required.
+2025-02-17 05:57:33.8|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 05:57:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 06:12:55.6|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:13:04.4|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 05:57:33 and 02/17/2025 06:12:56 UTC. Search may be required.
+2025-02-17 06:13:04.4|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 06:13:04.5|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 06:28:26.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:28:34.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 06:13:04 and 02/17/2025 06:28:27 UTC. Search may be required.
+2025-02-17 06:28:34.8|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 06:28:35.0|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 06:43:56.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:44:05.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 06:28:34 and 02/17/2025 06:43:57 UTC. Search may be required.
+2025-02-17 06:44:05.3|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 06:44:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 06:59:27.9|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:59:38.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 06:44:05 and 02/17/2025 06:59:31 UTC. Search may be required.
+2025-02-17 06:59:38.3|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 06:59:38.6|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0

@@ -6253,3 +6253,20 @@
 2025-02-17 05:50:10.2|Warn|Torznab|API Request Limit reached for 1337x (Prowlarr). Disabled for 00:01:00
 2025-02-17 05:50:10.2|Info|DownloadDecisionMaker|No results found
 2025-02-17 05:50:10.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-17 06:05:30.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:05:30.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:55:01 and 02/17/2025 01:55:01 UTC. Search may be required.
+2025-02-17 06:05:39.1|Info|DownloadDecisionMaker|Processing 91 releases
+2025-02-17 06:05:39.4|Info|RssSyncService|RSS Sync Completed. Reports found: 91, Reports grabbed: 0
+2025-02-17 06:21:01.2|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:21:10.0|Info|DownloadDecisionMaker|Processing 91 releases
+2025-02-17 06:21:10.3|Info|RssSyncService|RSS Sync Completed. Reports found: 91, Reports grabbed: 0
+2025-02-17 06:36:32.2|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:36:47.6|Info|DownloadDecisionMaker|Processing 91 releases
+2025-02-17 06:36:47.9|Info|RssSyncService|RSS Sync Completed. Reports found: 91, Reports grabbed: 0
+2025-02-17 06:52:02.8|Info|RssSyncService|Starting RSS Sync
+2025-02-17 06:52:13.6|Info|DownloadDecisionMaker|Processing 91 releases
+2025-02-17 06:52:13.9|Info|RssSyncService|RSS Sync Completed. Reports found: 91, Reports grabbed: 0
+2025-02-17 07:07:33.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 07:07:42.9|Info|DownloadDecisionMaker|Processing 91 releases
+2025-02-17 07:07:43.2|Info|RssSyncService|RSS Sync Completed. Reports found: 91, Reports grabbed: 0
+2025-02-17 07:09:33.6|Info|SceneMappingService|Updating Scene mappings
