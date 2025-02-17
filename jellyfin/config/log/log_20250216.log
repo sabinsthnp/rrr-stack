@@ -228,3 +228,431 @@
 [2025-02-16 04:25:20.052 +00:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
 [2025-02-16 04:25:32.052 +00:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
 [2025-02-16 04:25:44.052 +00:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.
+[2025-02-16 04:35:19.140 +00:00] [INF] [27] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 04:35:23.766 +00:00] [INF] [36] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 05:00:57.410 +00:00] [INF] [43] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 05:00:57.587 +00:00] [INF] [12] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 05:01:07.477 +00:00] [INF] [21] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-02-16 05:01:07.665 +00:00] [WRN] [21] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Movies" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.671 +00:00] [WRN] [21] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.671 +00:00] [WRN] [21] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.673 +00:00] [WRN] [21] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.813 +00:00] [WRN] [58] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Movies" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.813 +00:00] [WRN] [58] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.813 +00:00] [WRN] [58] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 05:01:07.814 +00:00] [WRN] [58] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 05:01:19.275 +00:00] [INF] [56] MediaBrowser.Providers.TV.SeriesMetadataService: Creating Season "Season Unknown" entry for "Severance"
+[2025-02-16 05:01:20.739 +00:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E03 - In Perpetuity (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:23.462 +00:00] [INF] [28] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E08 - What’s for Dinner (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:25.095 +00:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E05 - The Grim Barbarity of Optics and Design (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:26.327 +00:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E09 - The We We Are (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:27.388 +00:00] [INF] [28] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E07 - Defiant Jazz (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:28.360 +00:00] [INF] [58] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E01 - Good News About Hell (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:29.337 +00:00] [INF] [28] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E06 - Hide and Seek (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:30.426 +00:00] [INF] [28] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E02 - Half Loop (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:31.371 +00:00] [INF] [58] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/TVShows/Severance/Season 1/Severance (2022) - S01E04 - The You You Are (1080p BluRay x265 Silence).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 05:01:32.343 +00:00] [INF] [58] MediaBrowser.Providers.TV.SeriesMetadataService: Removing virtual season null in series "Severance"
+[2025-02-16 05:01:32.346 +00:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Season", Name: "Season Unknown", Path: "", Id: f32df2c3-aa73-8626-86cd-6c13957c9fca
+[2025-02-16 05:01:32.382 +00:00] [INF] [56] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/14d72a93f51a41879859f35e63f730a7.png"
+[2025-02-16 05:01:33.140 +00:00] [INF] [56] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/14d72a93f51a41879859f35e63f730a7.png"
+[2025-02-16 05:01:33.239 +00:00] [INF] [21] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/37a4289f84e84bd7854e509ec9623fcc.png"
+[2025-02-16 05:01:33.889 +00:00] [INF] [21] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/37a4289f84e84bd7854e509ec9623fcc.png"
+[2025-02-16 05:01:33.978 +00:00] [INF] [56] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/6360010309094be38da55843c951f9c9.png"
+[2025-02-16 05:01:34.684 +00:00] [INF] [56] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/6360010309094be38da55843c951f9c9.png"
+[2025-02-16 05:01:35.184 +00:00] [INF] [58] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 27 seconds
+[2025-02-16 05:01:35.251 +00:00] [INF] [56] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/TVShows"
+[2025-02-16 05:05:38.096 +00:00] [INF] [20] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 05:05:38.827 +00:00] [INF] [10] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 05:07:21.731 +00:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:10:09.731 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:13:33.731 +00:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:16:10.427 +00:00] [INF] [26] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 05:16:10.547 +00:00] [INF] [47] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 05:17:12.905 +00:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 05:17:15.818 +00:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 05:17:16.048 +00:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 05:19:34.590 +00:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:20:10.590 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:22:22.590 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:23:34.590 +00:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:25:10.590 +00:00] [INF] [3] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:26:22.590 +00:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:28:34.590 +00:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:29:10.590 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:31:22.590 +00:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:32:34.590 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 05:33:58.192 +00:00] [WRN] [35] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.18.2" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 05:33:58.218 +00:00] [WRN] [34] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.18.2" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 05:33:58.947 +00:00] [INF] [34] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 05:33:59.053 +00:00] [INF] [35] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 06:22:29.321 +00:00] [INF] [51] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 06:22:29.993 +00:00] [INF] [51] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 06:22:30.242 +00:00] [INF] [51] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 06:22:35.028 +00:00] [INF] [64] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/TVShows"
+[2025-02-16 06:22:35.038 +00:00] [INF] [64] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-02-16 06:22:35.505 +00:00] [WRN] [63] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 06:22:35.507 +00:00] [WRN] [63] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 06:22:35.508 +00:00] [WRN] [63] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 06:22:35.556 +00:00] [INF] [34] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/14bc50f485374711a97a6df49cf43cc9.png"
+[2025-02-16 06:22:36.263 +00:00] [INF] [34] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/14bc50f485374711a97a6df49cf43cc9.png"
+[2025-02-16 06:22:36.503 +00:00] [WRN] [34] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 06:22:36.504 +00:00] [WRN] [34] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 06:22:36.504 +00:00] [WRN] [34] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 06:22:36.711 +00:00] [INF] [62] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda 4 (2024)/Kung Fu.Panda.4.2024.2160p.Blu-ray.x265.10bit.SDR.[Org.Hindi.DDP5.1-English.DDP7.1.Atmos]-NmCT.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 06:22:36.711 +00:00] [INF] [61] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda 2 (2011)/Kung Fu Panda 2 (2011) UpScaled 2160p H265 BluRay Rip 10 bit DV HDR10+ ita eng AC3 5.1 sub ita eng Licdom.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 06:22:44.957 +00:00] [ERR] [66] MediaBrowser.Providers.Manager.ProviderManager: IOException saving to "/config/data/metadata/People/J/Jack Black/folder.jpg". Will retry saving to "/config/data/metadata/library/c3/c377f28e906de63caaffaa29e400e93b/folder.jpg"
+System.IO.IOException: The process cannot access the file '/config/data/metadata/People/J/Jack Black/folder.jpg' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Init(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Int64& fileLength, UnixFileMode& filePermissions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileStreamOptions options)
+   at MediaBrowser.Providers.Manager.ImageSaver.SaveImageToLocation(Stream source, String path, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Manager.ImageSaver.SaveImageToLocation(Stream source, String path, String retryPath, CancellationToken cancellationToken)
+[2025-02-16 06:23:02.191 +00:00] [INF] [62] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/e1a9c8caca534273a1ae1f9ddb6e3bd2.png"
+[2025-02-16 06:23:02.903 +00:00] [INF] [62] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/e1a9c8caca534273a1ae1f9ddb6e3bd2.png"
+[2025-02-16 06:23:03.039 +00:00] [INF] [66] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/2d1490210d994995899d05273a4ee9fe.png"
+[2025-02-16 06:23:03.627 +00:00] [INF] [66] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/2d1490210d994995899d05273a4ee9fe.png"
+[2025-02-16 06:23:03.763 +00:00] [INF] [66] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/9d674ec440544bdcbb79ece9f981b05a.png"
+[2025-02-16 06:23:04.345 +00:00] [INF] [66] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/9d674ec440544bdcbb79ece9f981b05a.png"
+[2025-02-16 06:23:04.466 +00:00] [INF] [66] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/fcf29f7a521c43b49062c58e6e0a30f8.png"
+[2025-02-16 06:23:05.068 +00:00] [INF] [66] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/fcf29f7a521c43b49062c58e6e0a30f8.png"
+[2025-02-16 06:23:05.783 +00:00] [INF] [66] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 30 seconds
+[2025-02-16 06:23:05.828 +00:00] [INF] [62] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/Movies"
+[2025-02-16 06:23:05.828 +00:00] [INF] [61] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/TVShows"
+[2025-02-16 06:25:18.248 +00:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:28:06.247 +00:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:31:30.247 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:34:18.247 +00:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:36:48.094 +00:00] [INF] [22] Emby.Server.Implementations.IO.LibraryMonitor: "Movies" ("/data/Movies") will be refreshed.
+[2025-02-16 06:36:48.758 +00:00] [INF] [31] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda (2008)/Kung Fu Panda (2008) [2160p] [4K] [BluRay] [5.1] [YTS.MX].mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 06:37:06.247 +00:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:38:07.284 +00:00] [INF] [22] Emby.Server.Implementations.IO.LibraryMonitor: "Kung Fu Panda" ("/data/Movies/Kung Fu Panda (2008)/Kung Fu Panda (2008) [2160p] [4K] [BluRay] [5.1] [YTS.MX].mkv") will be refreshed.
+[2025-02-16 06:38:07.288 +00:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda (2008)/Kung Fu Panda (2008) [2160p] [4K] [BluRay] [5.1] [YTS.MX].mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 06:40:30.247 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:43:18.247 +00:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:46:06.247 +00:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 06:47:18.177 +00:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 08:07:32.543 +00:00] [INF] [52] Emby.Server.Implementations.IO.LibraryMonitor: "Movies" ("/data/Movies") will be refreshed.
+[2025-02-16 08:07:33.311 +00:00] [INF] [53] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda 3 (2016)/Kung Fu Panda 3 (2016) UpScaled 2160p H265 BluRay Rip 10 bit DV HDR10+ ita eng AC3 5.1 sub ita eng Licdom.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 08:08:57.829 +00:00] [INF] [52] Emby.Server.Implementations.IO.LibraryMonitor: "Kung Fu Panda 3" ("/data/Movies/Kung Fu Panda 3 (2016)/Kung Fu Panda 3 (2016) UpScaled 2160p H265 BluRay Rip 10 bit DV HDR10+ ita eng AC3 5.1 sub ita eng Licdom.mkv") will be refreshed.
+[2025-02-16 08:08:57.831 +00:00] [INF] [52] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda 3 (2016)/Kung Fu Panda 3 (2016) UpScaled 2160p H265 BluRay Rip 10 bit DV HDR10+ ita eng AC3 5.1 sub ita eng Licdom.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 08:10:20.057 +00:00] [INF] [1] Main: Jellyfin version: "10.10.5"
+[2025-02-16 08:10:20.325 +00:00] [INF] [1] Main: Environment Variables: ["[JELLYFIN_DATA_DIR, /config/data]", "[JELLYFIN_LOG_DIR, /config/log]", "[JELLYFIN_WEB_DIR, /usr/share/jellyfin/web]", "[JELLYFIN_CONFIG_DIR, /config]", "[JELLYFIN_CACHE_DIR, /config/cache]"]
+[2025-02-16 08:10:20.344 +00:00] [INF] [1] Main: Arguments: ["/usr/lib/jellyfin/bin/jellyfin.dll", "--ffmpeg=/usr/lib/jellyfin-ffmpeg/ffmpeg"]
+[2025-02-16 08:10:20.350 +00:00] [INF] [1] Main: Operating system: "Ubuntu 24.04.1 LTS"
+[2025-02-16 08:10:20.351 +00:00] [INF] [1] Main: Architecture: X64
+[2025-02-16 08:10:20.352 +00:00] [INF] [1] Main: 64-Bit Process: True
+[2025-02-16 08:10:20.352 +00:00] [INF] [1] Main: User Interactive: True
+[2025-02-16 08:10:20.353 +00:00] [INF] [1] Main: Processor count: 4
+[2025-02-16 08:10:20.353 +00:00] [INF] [1] Main: Program data path: "/config/data"
+[2025-02-16 08:10:20.353 +00:00] [INF] [1] Main: Log directory path: "/config/log"
+[2025-02-16 08:10:20.353 +00:00] [INF] [1] Main: Config directory path: "/config"
+[2025-02-16 08:10:20.353 +00:00] [INF] [1] Main: Cache path: "/config/cache"
+[2025-02-16 08:10:20.354 +00:00] [INF] [1] Main: Temp directory path: "/tmp/jellyfin"
+[2025-02-16 08:10:20.354 +00:00] [INF] [1] Main: Web resources path: "/usr/share/jellyfin/web"
+[2025-02-16 08:10:20.354 +00:00] [INF] [1] Main: Application directory: "/usr/lib/jellyfin/bin/"
+[2025-02-16 08:10:21.797 +00:00] [INF] [1] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2025-02-16 08:10:22.365 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Loading assemblies
+[2025-02-16 08:10:22.741 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2025-02-16 08:10:22.741 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions: []
+[2025-02-16 08:10:22.743 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Used LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2025-02-16 08:10:22.747 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered interface addresses: ["127.0.0.1", "172.19.0.8"]
+[2025-02-16 08:10:22.749 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Bind Addresses ["0.0.0.0"]
+[2025-02-16 08:10:22.749 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Remote IP filter is "Allowlist"
+[2025-02-16 08:10:22.750 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered subnets: []
+[2025-02-16 08:10:33.503 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "TMDb" "10.10.5.0"
+[2025-02-16 08:10:33.506 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Studio Images" "10.10.5.0"
+[2025-02-16 08:10:33.509 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "OMDb" "10.10.5.0"
+[2025-02-16 08:10:33.723 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "MusicBrainz" "10.10.5.0"
+[2025-02-16 08:10:33.726 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "AudioDB" "10.10.5.0"
+[2025-02-16 08:10:34.563 +00:00] [INF] [1] Main: Kestrel is listening on "0.0.0.0"
+[2025-02-16 08:10:36.320 +00:00] [INF] [1] Jellyfin.Networking.PortForwardingHost: Starting NAT discovery
+[2025-02-16 08:10:38.867 +00:00] [WRN] [1] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: The WebRootPath was not found: "/run/s6-rc:s6-rc-init:IDFKMC/servicedirs/svc-jellyfin/wwwroot". Static files may be unavailable.
+[2025-02-16 08:10:39.176 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Running startup tasks
+[2025-02-16 08:10:39.216 +00:00] [INF] [8] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/TVShows"
+[2025-02-16 08:10:39.217 +00:00] [INF] [11] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/Movies"
+[2025-02-16 08:10:39.303 +00:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2025-02-17 03:00:00.000 +00:00, which is 18:49:20.6968861 from now.
+[2025-02-16 08:10:39.541 +00:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2025-02-17 02:00:00.000 +00:00, which is 17:49:20.4586560 from now.
+[2025-02-16 08:10:40.479 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Found ffmpeg version "7.0.2"
+[2025-02-16 08:10:41.180 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "decoders": ["libdav1d", "av1", "av1_cuvid", "av1_qsv", "h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "mpeg2_cuvid", "mpeg4", "mpeg4_cuvid", "msmpeg4", "vc1_qsv", "vc1_cuvid", "vp8", "libvpx", "vp8_cuvid", "vp8_qsv", "vp9", "libvpx-vp9", "vp9_cuvid", "vp9_qsv", "aac", "ac3", "ac4", "dca", "flac", "mp3", "truehd"]
+[2025-02-16 08:10:41.225 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "encoders": ["libsvtav1", "av1_nvenc", "av1_qsv", "av1_amf", "av1_vaapi", "libx264", "h264_amf", "h264_nvenc", "h264_qsv", "h264_v4l2m2m", "h264_vaapi", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "hevc_vaapi", "mjpeg_qsv", "mjpeg_vaapi", "aac", "libfdk_aac", "ac3", "alac", "dca", "flac", "libmp3lame", "libopus", "truehd", "libvorbis", "srt"]
+[2025-02-16 08:10:41.310 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available filters: ["bwdif_cuda", "deinterlace_qsv", "deinterlace_vaapi", "flip_vulkan", "hwupload_cuda", "hwupload_vaapi", "libplacebo", "overlay_opencl", "overlay_qsv", "overlay_vaapi", "overlay_vulkan", "overlay_cuda", "procamp_vaapi", "scale_cuda", "scale_opencl", "scale_qsv", "scale_vaapi", "scale_vulkan", "tonemapx", "tonemap_cuda", "tonemap_opencl", "tonemap_vaapi", "transpose_cuda", "transpose_opencl", "transpose_vaapi", "transpose_vulkan", "vpp_qsv", "yadif_cuda", "zscale", "alphasrc"]
+[2025-02-16 08:10:42.217 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available hwaccel types: ["cuda", "vaapi", "qsv", "drm", "opencl", "vulkan"]
+[2025-02-16 08:10:43.003 +00:00] [INF] [11] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Transcode Directory" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 08:10:43.034 +00:00] [INF] [10] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean up collections and playlists" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 08:10:46.384 +00:00] [INF] [10] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 3 seconds
+[2025-02-16 08:10:53.825 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: FFmpeg: "/usr/lib/jellyfin-ffmpeg/ffmpeg"
+[2025-02-16 08:10:53.826 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: ServerId: "30de92cfbde64f3d85f3af661e97b589"
+[2025-02-16 08:10:53.826 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Core startup complete
+[2025-02-16 08:10:53.827 +00:00] [INF] [1] Main: Startup complete 0:00:34.9827597
+[2025-02-16 08:18:34.156 +00:00] [INF] [27] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 08:18:34.162 +00:00] [INF] [27] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 0/0
+[2025-02-16 08:18:34.168 +00:00] [INF] [27] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 08:25:16.594 +00:00] [INF] [41] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 08:28:04.665 +00:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:31:28.665 +00:00] [INF] [45] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:34:16.665 +00:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:37:04.665 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:40:28.665 +00:00] [INF] [45] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:43:16.665 +00:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:46:04.665 +00:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:49:28.665 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:52:16.665 +00:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:55:04.669 +00:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:55:10.859 +00:00] [INF] [52] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 08:55:10.870 +00:00] [INF] [52] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 2/0
+[2025-02-16 08:55:10.871 +00:00] [INF] [52] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 08:58:28.666 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:58:40.665 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 08:58:52.666 +00:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.
+[2025-02-16 09:00:10.733 +00:00] [INF] [43] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "Surendra" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:00:10.743 +00:00] [ERR] [43] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:00:22.797 +00:00] [INF] [43] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 09:00:22.797 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 3/0
+[2025-02-16 09:00:22.803 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Logging out access token "c08d656d6a30429e92e0f1bdde410a26"
+[2025-02-16 09:00:22.869 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 09:06:04.738 +00:00] [INF] [45] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:06:04.739 +00:00] [ERR] [45] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:06:07.215 +00:00] [INF] [45] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:06:07.219 +00:00] [ERR] [45] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:06:42.174 +00:00] [INF] [45] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:06:42.175 +00:00] [ERR] [45] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:06:46.296 +00:00] [INF] [34] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "192.168.18.2").
+[2025-02-16 09:06:46.297 +00:00] [ERR] [34] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:06:52.145 +00:00] [INF] [34] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "192.168.18.2").
+[2025-02-16 09:06:52.147 +00:00] [ERR] [34] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:06:53.251 +00:00] [INF] [34] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "Alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:06:53.252 +00:00] [ERR] [34] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:07:03.417 +00:00] [INF] [44] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "Alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:07:03.418 +00:00] [ERR] [44] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:07:05.148 +00:00] [INF] [48] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "Alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:07:05.161 +00:00] [ERR] [48] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:07:30.686 +00:00] [INF] [44] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "192.168.18.2").
+[2025-02-16 09:07:30.687 +00:00] [ERR] [44] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:07:36.082 +00:00] [INF] [34] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "192.168.18.2").
+[2025-02-16 09:07:36.083 +00:00] [ERR] [34] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:07:45.737 +00:00] [INF] [50] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alismaashrestha@gmail.com" has been denied (IP: "192.168.18.2").
+[2025-02-16 09:07:45.738 +00:00] [ERR] [50] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:08:55.874 +00:00] [INF] [47] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alismaashrestha@gmail.com" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:08:55.876 +00:00] [ERR] [47] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:08:59.856 +00:00] [INF] [39] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has been denied (IP: "172.19.0.1").
+[2025-02-16 09:08:59.857 +00:00] [ERR] [39] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/AuthenticateByName".
+[2025-02-16 09:21:15.753 +00:00] [INF] [49] Emby.Server.Implementations.IO.LibraryMonitor: "Movies" ("/data/Movies") will be refreshed.
+[2025-02-16 09:21:16.989 +00:00] [INF] [43] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/Kung Fu Panda 3 (2016)/Kung Fu Panda 3 (2016) UpScaled 2160p H265 BluRay Rip 10 bit DV HDR10+ ita eng AC3 5.1 sub ita eng Licdom.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 09:21:16.990 +00:00] [INF] [49] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/The Witcher - Sirens of the Deep (2025)/The Witcher Sirens Of The Deep (2025) [1080p] [BluRay] [5.1] [YTS.MX].mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 09:27:25.566 +00:00] [WRN] [68] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:27:45.335 +00:00] [WRN] [70] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:27:45.544 +00:00] [WRN] [69] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:27:48.300 +00:00] [WRN] [67] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:27:52.051 +00:00] [WRN] [67] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:27:57.211 +00:00] [WRN] [67] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:28:07.705 +00:00] [WRN] [69] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:28:13.769 +00:00] [INF] [69] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 09:28:13.769 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 3/0
+[2025-02-16 09:28:13.769 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 09:28:13.910 +00:00] [INF] [66] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" request
+[2025-02-16 09:28:14.058 +00:00] [WRN] [69] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:28:14.084 +00:00] [WRN] [71] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:28:17.882 +00:00] [WRN] [71] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:28:29.814 +00:00] [WRN] [69] Microsoft.EntityFrameworkCore.Query: Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-02-16 09:28:43.423 +00:00] [ERR] [60] Microsoft.EntityFrameworkCore.Database.Connection: An error occurred using the connection to database '"main"' on server '"/config/data/data/jellyfin.db"'.
+[2025-02-16 09:28:43.490 +00:00] [ERR] [60] Microsoft.EntityFrameworkCore.Query: An exception occurred while iterating over the results of a query for context type '"Jellyfin.Server.Implementations.JellyfinDbContext"'."
+""System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.Data.Sqlite.SqliteConnection.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.Return(SqliteConnectionInternal connection)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.ReclaimLeakedConnections()
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.Data.Sqlite.SqliteConnection.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.Return(SqliteConnectionInternal connection)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.ReclaimLeakedConnections()
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[2025-02-16 09:28:43.499 +00:00] [ERR] [60] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request. URL "GET" "/System/ActivityLog/Entries".
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.Data.Sqlite.SqliteConnection.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.Return(SqliteConnectionInternal connection)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.ReclaimLeakedConnections()
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Jellyfin.Server.Implementations.Activity.ActivityManager.GetPagedResultAsync(ActivityLogQuery query)
+   at Jellyfin.Server.Implementations.Activity.ActivityManager.GetPagedResultAsync(ActivityLogQuery query)
+   at Jellyfin.Api.Controllers.ActivityLogController.GetLogEntries(Nullable`1 startIndex, Nullable`1 limit, Nullable`1 minDate, Nullable`1 hasUserId)
+   at lambda_method1439(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Jellyfin.Api.Middleware.ServerStartupMessageMiddleware.Invoke(HttpContext httpContext, IServerApplicationHost serverApplicationHost, ILocalizationManager localizationManager)
+   at Jellyfin.Api.Middleware.WebSocketHandlerMiddleware.Invoke(HttpContext httpContext, IWebSocketManager webSocketManager)
+   at Jellyfin.Api.Middleware.IPBasedAccessValidationMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager)
+   at Jellyfin.Api.Middleware.LanFilteringMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager, IServerConfigurationManager serverConfigurationManager)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Api.Middleware.QueryStringDecodingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.ReDoc.ReDocMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Api.Middleware.RobotsRedirectionMiddleware.Invoke(HttpContext httpContext)
+   at Jellyfin.Api.Middleware.LegacyEmbyRouteRewriteMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Jellyfin.Api.Middleware.ResponseTimeMiddleware.Invoke(HttpContext context, IServerConfigurationManager serverConfigurationManager)
+   at Jellyfin.Api.Middleware.ExceptionMiddleware.Invoke(HttpContext context)
+[2025-02-16 09:29:53.838 +00:00] [INF] [65] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" closed
+[2025-02-16 09:29:53.870 +00:00] [WRN] [66] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:29:54.119 +00:00] [WRN] [65] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:29:54.222 +00:00] [WRN] [65] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:29:54.354 +00:00] [INF] [66] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" request
+[2025-02-16 09:29:54.482 +00:00] [WRN] [65] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 09:33:18.355 +00:00] [INF] [67] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:36:06.355 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:39:30.356 +00:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:42:18.356 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:45:06.355 +00:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:48:30.355 +00:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:51:18.355 +00:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:54:06.355 +00:00] [INF] [68] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:57:30.355 +00:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 09:58:23.673 +00:00] [INF] [60] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 10:00:18.355 +00:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:03:06.355 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:05:10.728 +00:00] [INF] [36] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "alishma" has succeeded.
+[2025-02-16 10:05:10.729 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "alishma": 0/0
+[2025-02-16 10:05:10.729 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user eb8c659f-963e-4be2-b88a-a5f80d0cafe8
+[2025-02-16 10:05:26.829 +00:00] [WRN] [45] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:27.149 +00:00] [WRN] [30] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:33.732 +00:00] [WRN] [45] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:36.719 +00:00] [WRN] [64] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:45.076 +00:00] [WRN] [45] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:46.830 +00:00] [INF] [29] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has been denied (IP: "2405:acc0:1306:528:2939:fe81:fe4e:bfb4").
+[2025-02-16 10:05:46.867 +00:00] [ERR] [29] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/authenticatebyname".
+[2025-02-16 10:05:51.041 +00:00] [INF] [36] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 10:05:51.041 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 3/0
+[2025-02-16 10:05:51.041 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 10:05:51.233 +00:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" request
+[2025-02-16 10:05:51.438 +00:00] [WRN] [36] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:51.543 +00:00] [WRN] [64] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:05:59.819 +00:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" closed
+[2025-02-16 10:06:06.735 +00:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 10:06:13.024 +00:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" request
+[2025-02-16 10:06:30.355 +00:00] [INF] [45] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:09:06.356 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:09:18.355 +00:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:09:30.355 +00:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:12:06.355 +00:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:12:18.355 +00:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:12:30.356 +00:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:15:06.355 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:15:18.355 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:15:30.355 +00:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:15:31.929 +00:00] [INF] [42] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "admin". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2025-02-16 10:15:32.567 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Swiftfin iOS" "1.2" playing "The Witcher: Sirens of the Deep". Stopped at "0" ms
+[2025-02-16 10:16:49.599 +00:00] [WRN] [68] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.18.2" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 10:16:49.599 +00:00] [WRN] [55] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 10:16:49.599 +00:00] [WRN] [49] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.18.2" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 10:16:49.644 +00:00] [INF] [55] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" closed
+[2025-02-16 10:16:49.783 +00:00] [INF] [68] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 10:16:50.239 +00:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.18.2" closed
+[2025-02-16 10:35:34.258 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Swiftfin iOS" "1.2" playing "The Witcher: Sirens of the Deep". Stopped at "598000" ms
+[2025-02-16 10:42:19.740 +00:00] [WRN] [30] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:42:19.814 +00:00] [WRN] [41] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 10:42:19.879 +00:00] [INF] [41] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" request
+[2025-02-16 10:45:07.906 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 10:46:09.770 +00:00] [WRN] [64] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 10:46:09.782 +00:00] [INF] [64] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" closed
+[2025-02-16 11:34:48.818 +00:00] [INF] [51] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 11:34:48.818 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 2/0
+[2025-02-16 11:34:48.818 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 11:34:49.448 +00:00] [INF] [57] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "45.139.189.214" request
+[2025-02-16 11:35:11.072 +00:00] [WRN] [54] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "45.139.189.214" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 11:35:11.109 +00:00] [INF] [54] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "45.139.189.214" closed
+[2025-02-16 12:18:06.954 +00:00] [INF] [36] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:3d11:14a8:4080:cb9d" request
+[2025-02-16 12:18:10.058 +00:00] [INF] [36] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:3d11:14a8:4080:cb9d" closed
+[2025-02-16 12:18:10.245 +00:00] [WRN] [51] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 12:18:10.424 +00:00] [WRN] [49] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 12:18:10.448 +00:00] [WRN] [51] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 12:18:10.511 +00:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:3d11:14a8:4080:cb9d" request
+[2025-02-16 12:18:17.939 +00:00] [WRN] [49] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 12:18:17.981 +00:00] [WRN] [49] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 12:18:18.029 +00:00] [INF] [51] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" request
+[2025-02-16 12:18:49.291 +00:00] [WRN] [49] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 12:18:49.304 +00:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" closed
+[2025-02-16 12:18:49.698 +00:00] [WRN] [49] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "2405:acc0:1306:528:3d11:14a8:4080:cb9d" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-02-16 12:18:49.708 +00:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:3d11:14a8:4080:cb9d" closed
+[2025-02-16 12:19:15.695 +00:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" request
+[2025-02-16 12:23:03.733 +00:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 12:23:57.468 +00:00] [INF] [61] Emby.Server.Implementations.IO.LibraryMonitor: "Movies" ("/data/Movies") will be refreshed.
+[2025-02-16 12:23:57.911 +00:00] [INF] [66] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/The BFG (2016)/The.BFG.2016.1080p.BluRay.DDP.7.1.H.265-EDGE2020.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2025-02-16 12:24:51.734 +00:00] [INF] [17] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 12:25:03.734 +00:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-02-16 12:25:15.734 +00:00] [INF] [17] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.
+[2025-02-16 13:59:33.926 +00:00] [INF] [60] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "2405:acc0:1306:528:2939:fe81:fe4e:bfb4" closed
+[2025-02-16 14:58:03.628 +00:00] [WRN] [54] Jellyfin.Networking.Manager.NetworkManager: IPv6 is disabled in Jellyfin, but enabled in the OS. This may affect how the interface is selected.
+[2025-02-16 15:38:44.588 +00:00] [INF] [39] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "admin" has succeeded.
+[2025-02-16 15:38:44.588 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "admin": 2/0
+[2025-02-16 15:38:44.588 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionManager: Logging out access token "18be0838219f4f3bbc9adaeedf63ba1f"
+[2025-02-16 15:38:44.610 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 57010ea7-049e-42a7-b904-a8aaf524175c
+[2025-02-16 16:46:57.972 +00:00] [INF] [14] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "subin" has succeeded.
+[2025-02-16 16:46:57.972 +00:00] [INF] [14] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "subin": 0/0
+[2025-02-16 16:46:57.972 +00:00] [INF] [14] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 842f3dff-a8de-4fb7-96d5-b212633e00da
+[2025-02-16 20:11:40.055 +00:00] [INF] [79] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2025-02-16 20:11:40.137 +00:00] [INF] [39] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/TVShows"
+[2025-02-16 20:11:40.163 +00:00] [INF] [39] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/Movies"
+[2025-02-16 20:11:40.170 +00:00] [INF] [39] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-02-16 20:11:40.232 +00:00] [WRN] [39] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 20:11:40.232 +00:00] [WRN] [39] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 20:11:40.233 +00:00] [WRN] [39] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 20:11:40.949 +00:00] [INF] [55] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/1f7ac2717a3b4b409520ee280fcdf04c.png"
+[2025-02-16 20:11:41.734 +00:00] [INF] [55] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/1f7ac2717a3b4b409520ee280fcdf04c.png"
+[2025-02-16 20:11:42.067 +00:00] [WRN] [55] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Music" is inaccessible or empty, skipping
+[2025-02-16 20:11:42.067 +00:00] [WRN] [55] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Books" is inaccessible or empty, skipping
+[2025-02-16 20:11:42.068 +00:00] [WRN] [55] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-16 20:11:51.073 +00:00] [INF] [39] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/4247468dbc2f423f9340bb2c064dfc28.png"
+[2025-02-16 20:11:51.559 +00:00] [INF] [39] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/4247468dbc2f423f9340bb2c064dfc28.png"
+[2025-02-16 20:11:51.834 +00:00] [INF] [29] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/da66de7c0b324754a5322c16fabee862.png"
+[2025-02-16 20:11:52.311 +00:00] [INF] [29] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/da66de7c0b324754a5322c16fabee862.png"
+[2025-02-16 20:11:55.244 +00:00] [INF] [29] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 15 seconds
+[2025-02-16 20:11:55.244 +00:00] [INF] [55] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/TVShows"
+[2025-02-16 20:11:55.244 +00:00] [INF] [39] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/Movies"
+[2025-02-16 20:55:00.790 +00:00] [INF] [32] Emby.Server.Implementations.IO.LibraryMonitor: "Movies" ("/data/Movies") will be refreshed.
+[2025-02-16 20:55:00.880 +00:00] [INF] [46] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/data/Movies/The Good Dinosaur (2015)/The Good Dinosaur (2015) [2160p] [4K] [BluRay] [5.1] [YTS.MX].mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"

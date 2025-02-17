@@ -1,7 +1,16 @@
 # Ignore data directories for all containers
-*/data/
-data/
-**/data/
+*/tvshows/
+tvshows/
+**/tvshows/
+
+
+*/movies/
+movies/
+**/movies/
+
+*/movies/
+movies/
+**/movies/
 
 */logs/
 logs/

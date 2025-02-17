@@ -1,0 +1,264 @@
+{
+    "name": "Severance",
+    "thetvdb_id": "371980",
+    "tvthumb": [
+        {
+            "id": "147765",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvthumb/severance-625081203f8b5.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "172289",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvthumb/severance-64898d1d2bd3f.jpg",
+            "lang": "es",
+            "likes": "1"
+        },
+        {
+            "id": "162310",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvthumb/severance-63a98f8599c95.jpg",
+            "lang": "ru",
+            "likes": "1"
+        },
+        {
+            "id": "146092",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvthumb/severance-6228ead490205.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "184295",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvthumb/severance-656f14b12bc47.jpg",
+            "lang": "pl",
+            "likes": "0"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "147766",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvposter/severance-6250816dc4374.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "197412",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvposter/severance-678bc7c692456.jpg",
+            "lang": "00",
+            "likes": "2"
+        },
+        {
+            "id": "162308",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvposter/severance-63a98f66298bb.jpg",
+            "lang": "ru",
+            "likes": "1"
+        },
+        {
+            "id": "184296",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvposter/severance-656f1512c7fde.jpg",
+            "lang": "pl",
+            "likes": "0"
+        },
+        {
+            "id": "147992",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvposter/severance-62548e5033bec.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdclearart": [
+        {
+            "id": "162309",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdclearart/severance-63a98f752aa8b.png",
+            "lang": "ru",
+            "likes": "2"
+        },
+        {
+            "id": "197672",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdclearart/severance-6792002d84492.png",
+            "lang": "pl",
+            "likes": "0"
+        },
+        {
+            "id": "145951",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdclearart/severance-6224c393ceb93.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdtvlogo": [
+        {
+            "id": "197590",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdtvlogo/severance-678ef884f1bd2.png",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "172287",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdtvlogo/severance-64898cd7ee791.png",
+            "lang": "es",
+            "likes": "1"
+        },
+        {
+            "id": "162307",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdtvlogo/severance-63a98f5655b05.png",
+            "lang": "ru",
+            "likes": "1"
+        },
+        {
+            "id": "197410",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdtvlogo/severance-678bc64c5c169.png",
+            "lang": "it",
+            "likes": "1"
+        },
+        {
+            "id": "145952",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdtvlogo/severance-6224c3a3cf618.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "184297",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/hdtvlogo/severance-656f15ceac99d.png",
+            "lang": "pl",
+            "likes": "0"
+        }
+    ],
+    "showbackground": [
+        {
+            "id": "197411",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/showbackground/severance-678bc71b9762f.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        },
+        {
+            "id": "197376",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/showbackground/severance-678a95bf8ed1e.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        },
+        {
+            "id": "147768",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/showbackground/severance-62508194a4755.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        },
+        {
+            "id": "147767",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/showbackground/severance-6250818dc6cb7.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        },
+        {
+            "id": "197375",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/showbackground/severance-678a95bdae96d.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        }
+    ],
+    "tvbanner": [
+        {
+            "id": "162311",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvbanner/severance-63a98f9501f71.jpg",
+            "lang": "ru",
+            "likes": "1"
+        },
+        {
+            "id": "147764",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvbanner/severance-625080fa18b4a.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "197362",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvbanner/severance-678a355121048.jpg",
+            "lang": "pl",
+            "likes": "0"
+        },
+        {
+            "id": "197363",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvbanner/severance-678a356a54352.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "145949",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/tvbanner/severance-6224bba805705.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "seasonposter": [
+        {
+            "id": "197360",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonposter/severance-678a2ce4b7da1.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "2"
+        },
+        {
+            "id": "197361",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonposter/severance-678a2eeec0bf5.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "2"
+        },
+        {
+            "id": "197359",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonposter/severance-678a2cc567571.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "1"
+        },
+        {
+            "id": "168353",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonposter/severance-6401968f97fe9.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "1"
+        },
+        {
+            "id": "161546",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonposter/severance-639e56209d852.jpg",
+            "lang": "de",
+            "likes": "0",
+            "season": "1"
+        }
+    ],
+    "seasonbanner": [
+        {
+            "id": "168352",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonbanner/severance-6401951cc0e73.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "1"
+        },
+        {
+            "id": "161548",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonbanner/severance-639e564f4da13.jpg",
+            "lang": "de",
+            "likes": "0",
+            "season": "1"
+        }
+    ],
+    "seasonthumb": [
+        {
+            "id": "168351",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonthumb/severance-640194737dcd7.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "1"
+        },
+        {
+            "id": "161547",
+            "url": "https://assets.fanart.tv/fanart/tv/371980/seasonthumb/severance-639e563abb965.jpg",
+            "lang": "de",
+            "likes": "0",
+            "season": "1"
+        }
+    ]
+}

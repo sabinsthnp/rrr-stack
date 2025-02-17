@@ -2050,3 +2050,755 @@
 2025-02-16 04:23:00.3|Info|RssSyncService|Starting RSS Sync
 2025-02-16 04:23:00.4|Info|DownloadDecisionMaker|No results found
 2025-02-16 04:23:00.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:38:01.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:38:02.1|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:38:02.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:53:08.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:53:12.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:53:12.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 05:08:42.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:08:43.0|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:08:43.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 05:23:45.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:23:56.6|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 05:23:57.1|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 05:39:15.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:39:24.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:23:55 and 02/16/2025 05:39:16 UTC. Search may be required.
+2025-02-16 05:39:24.6|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 05:39:24.9|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 05:54:46.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:54:53.6|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:34:04 and 02/16/2025 05:36:12 UTC. Search may be required.
+2025-02-16 05:54:56.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:39:24 and 02/16/2025 05:54:47 UTC. Search may be required.
+2025-02-16 05:54:56.2|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 05:54:56.5|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 06:10:23.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:10:30.3|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:51:34 and 02/16/2025 05:51:47 UTC. Search may be required.
+2025-02-16 06:10:31.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:54:55 and 02/16/2025 06:10:24 UTC. Search may be required.
+2025-02-16 06:10:31.9|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 06:10:32.2|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 06:25:53.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:26:02.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:10:31 and 02/16/2025 06:25:54 UTC. Search may be required.
+2025-02-16 06:26:02.3|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 06:26:02.8|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 06:41:26.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:41:35.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:26:02 and 02/16/2025 06:41:27 UTC. Search may be required.
+2025-02-16 06:41:35.2|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 06:41:35.5|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 06:56:57.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:57:05.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:41:35 and 02/16/2025 06:56:58 UTC. Search may be required.
+2025-02-16 06:57:05.9|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 06:57:06.2|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 07:08:20.2|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 07:08:38.1|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 07:12:28.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:12:36.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:57:05 and 02/16/2025 07:12:28 UTC. Search may be required.
+2025-02-16 07:12:37.0|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 07:12:37.3|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 07:27:58.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:28:07.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:12:36 and 02/16/2025 07:27:59 UTC. Search may be required.
+2025-02-16 07:28:07.5|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 07:28:07.7|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 07:43:29.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:43:38.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:28:07 and 02/16/2025 07:43:30 UTC. Search may be required.
+2025-02-16 07:43:38.4|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 07:43:38.7|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 07:59:00.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:59:08.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:43:38 and 02/16/2025 07:59:01 UTC. Search may be required.
+2025-02-16 07:59:08.9|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 07:59:09.2|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 08:10:21.1|Info|Bootstrap|Starting Readarr - /app/readarr/bin/Readarr - Version 0.4.10.2734
+2025-02-16 08:10:21.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-16 08:10:22.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-16 08:10:24.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-16 08:10:25.2|Info|MigrationController|*** Migrating data source=/config/readarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-16 08:10:25.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-16 08:10:25.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-16 08:10:25.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-16 08:10:26.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-16 08:10:26.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.261134s
+2025-02-16 08:10:26.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-16 08:10:26.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2767279s
+2025-02-16 08:10:27.1|Info|MigrationController|*** Migrating data source=/config/cache.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-16 08:10:27.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-16 08:10:27.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-16 08:10:27.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-16 08:10:27.2|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-16 08:10:27.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0292746s
+2025-02-16 08:10:27.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-16 08:10:27.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0348631s
+2025-02-16 08:10:28.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-16 08:10:28.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-16 08:10:28.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-16 08:10:28.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-16 08:10:28.2|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-16 08:10:28.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0390653s
+2025-02-16 08:10:28.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-16 08:10:28.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0459548s
+2025-02-16 08:10:29.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8787
+2025-02-16 08:10:32.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-16 08:10:32.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-16 08:10:32.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/readarr/bin
+2025-02-16 08:10:33.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-16 08:14:32.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:14:41.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:59:08 and 02/16/2025 08:14:33 UTC. Search may be required.
+2025-02-16 08:14:41.1|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 08:14:41.8|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 08:30:02.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:30:03.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 00:29:03 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 08:30:11.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:14:41 and 02/16/2025 08:30:03 UTC. Search may be required.
+2025-02-16 08:30:11.6|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 08:30:11.8|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 08:45:33.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:45:33.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 08:45:42.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:30:11 and 02/16/2025 08:45:34 UTC. Search may be required.
+2025-02-16 08:45:42.1|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 08:45:42.3|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 09:01:03.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:01:12.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:45:42 and 02/16/2025 09:01:04 UTC. Search may be required.
+2025-02-16 09:01:17.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 09:01:17.2|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 09:01:17.4|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 09:16:34.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:16:34.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 09:16:44.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:01:12 and 02/16/2025 09:16:35 UTC. Search may be required.
+2025-02-16 09:16:44.3|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 09:16:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 09:32:05.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:32:06.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 09:32:14.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:16:43 and 02/16/2025 09:32:07 UTC. Search may be required.
+2025-02-16 09:32:15.5|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 09:32:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 09:47:37.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:47:38.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 09:47:46.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:32:14 and 02/16/2025 09:47:38 UTC. Search may be required.
+2025-02-16 09:48:07.2|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 09:48:07.4|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 10:03:09.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:03:10.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 10:03:18.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:47:46 and 02/16/2025 10:03:10 UTC. Search may be required.
+2025-02-16 10:03:21.3|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 10:03:21.6|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 10:18:39.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:18:40.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 06:08:52 UTC. Search may be required.
+2025-02-16 10:18:48.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:03:18 and 02/16/2025 10:18:40 UTC. Search may be required.
+2025-02-16 10:18:48.5|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 10:18:48.6|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 10:34:10.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:34:10.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:08:52 and 02/16/2025 08:25:09 UTC. Search may be required.
+2025-02-16 10:34:18.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:18:48 and 02/16/2025 10:34:11 UTC. Search may be required.
+2025-02-16 10:34:18.9|Info|DownloadDecisionMaker|Processing 154 releases
+2025-02-16 10:34:19.0|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-02-16 10:49:40.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:49:49.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:34:18 and 02/16/2025 10:49:41 UTC. Search may be required.
+2025-02-16 10:49:49.6|Info|DownloadDecisionMaker|Processing 154 releases
+2025-02-16 10:49:49.8|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-02-16 11:05:11.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:05:20.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:49:49 and 02/16/2025 11:05:12 UTC. Search may be required.
+2025-02-16 11:05:20.5|Info|DownloadDecisionMaker|Processing 154 releases
+2025-02-16 11:05:20.6|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-02-16 11:20:42.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:20:51.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:05:20 and 02/16/2025 11:20:43 UTC. Search may be required.
+2025-02-16 11:20:51.1|Info|DownloadDecisionMaker|Processing 154 releases
+2025-02-16 11:20:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-02-16 11:36:12.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:36:21.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:20:51 and 02/16/2025 11:36:13 UTC. Search may be required.
+2025-02-16 11:36:21.5|Info|DownloadDecisionMaker|Processing 154 releases
+2025-02-16 11:36:21.7|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-02-16 11:51:43.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:51:52.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:36:21 and 02/16/2025 11:51:44 UTC. Search may be required.
+2025-02-16 11:51:52.1|Info|DownloadDecisionMaker|Processing 154 releases
+2025-02-16 11:51:52.3|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-02-16 12:07:13.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:07:22.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:51:52 and 02/16/2025 12:07:14 UTC. Search may be required.
+2025-02-16 12:07:22.5|Info|DownloadDecisionMaker|Processing 155 releases
+2025-02-16 12:07:22.6|Info|RssSyncService|RSS Sync Completed. Reports found: 155, Reports grabbed: 0
+2025-02-16 12:16:19.4|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: 'Name' must not be empty.
+2025-02-16 12:16:28.6|Info|RootFolderWatchingService|Watching directory /data/books/
+2025-02-16 12:16:28.8|Info|DiskScanService|Scanning /data/books/
+2025-02-16 12:16:28.8|Warn|DiskScanService|Scan folder /data/books/ is empty.
+2025-02-16 12:16:28.8|Info|TrackGroupingService|Grouping 0 tracks
+2025-02-16 12:16:28.8|Info|ImportApprovedBooks|Importing 0 files
+2025-02-16 12:16:33.2|Info|AddAuthorService|Adding Author [1538][Stephen R. Covey] Path: [/data/books/Stephen R. Covey]
+2025-02-16 12:16:34.5|Info|RefreshAuthorService|Updating Info for Stephen R. Covey
+2025-02-16 12:16:34.5|Warn|MediaCoverMapper|File /config/MediaCover/Books/1/cover.jpg not found
+2025-02-16 12:16:34.6|Info|RefreshBookService|Updating Info for The 7 Habits of Highly Effective People Personal Workbook
+2025-02-16 12:16:34.7|Info|RefreshBookService|Updating Info for The 7 Habits of Highly Effective Network Marketing Professionals
+2025-02-16 12:16:34.7|Info|RefreshBookService|Updating Info for Primary Greatness: The 12 Levers of Success
+2025-02-16 12:16:34.8|Info|RefreshBookService|Updating Info for How to Develop Your Personal Mission Statement
+2025-02-16 12:16:34.8|Info|RefreshBookService|Updating Info for Living the 7 habits of courage and inspiration
+2025-02-16 12:16:34.9|Info|RefreshBookService|Updating Info for Os 7 hábitos das pessoas altamente eficazes
+2025-02-16 12:16:34.9|Info|RefreshBookService|Updating Info for An Effective Life: Inspirational Philosophy from Dr. Covey’s Life
+2025-02-16 12:16:34.9|Info|RefreshBookService|Updating Info for The Four Disciplines of Execution
+2025-02-16 12:16:35.0|Info|RefreshBookService|Updating Info for Spiritual Roots of Human Relations
+2025-02-16 12:16:35.0|Info|RefreshBookService|Updating Info for Principle-Centered Leadership
+2025-02-16 12:16:35.1|Info|RefreshBookService|Updating Info for Wisdom and Teachings of Stephen R. Covey
+2025-02-16 12:16:35.1|Info|RefreshBookService|Updating Info for How to Develop A Family Mission Statement
+2025-02-16 12:16:35.1|Info|RefreshBookService|Updating Info for Everyday Greatness: Inspiration for a Meaningful Life
+2025-02-16 12:16:35.2|Info|RefreshBookService|Updating Info for The Leader in Me: How Schools and Parents Around the World Are Inspiring Greatness, One Child At a Time
+2025-02-16 12:16:35.2|Info|RefreshBookService|Updating Info for ‎The ‎3‎Rd Alternative: Solving Life's Most Difficult Problems‎
+2025-02-16 12:16:35.3|Info|RefreshBookService|Updating Info for The Divine Center
+2025-02-16 12:16:35.4|Info|RefreshBookService|Updating Info for Six Events: The Restoration Model for Solving Life's Problems
+2025-02-16 12:16:35.4|Info|RefreshBookService|Updating Info for The 8th Habit Personal Workbook: Strategies to Take You from Effectiveness to Greatness
+2025-02-16 12:16:35.4|Info|RefreshBookService|Updating Info for The 7 Habits of Highly Effective Families
+2025-02-16 12:16:35.5|Info|RefreshBookService|Updating Info for The 7 Habits of Highly Effective Marriage
+2025-02-16 12:16:35.5|Info|RefreshBookService|Updating Info for Living the 7 Habits Stories of Courage and Inspiration
+2025-02-16 12:16:35.6|Info|RefreshBookService|Updating Info for First Things First: To Live, to Love, to Learn, to Leave a Legacy
+2025-02-16 12:16:35.6|Info|RefreshBookService|Updating Info for العادات السبع للأسر الأكثر فاعلية
+2025-02-16 12:16:35.6|Info|RefreshBookService|Updating Info for The Seven Habits Of Highly Effective People And The 8th Habit
+2025-02-16 12:16:35.6|Info|RefreshBookService|Updating Info for The 8th Habit: From Effectiveness to Greatness
+2025-02-16 12:16:35.7|Info|RefreshBookService|Updating Info for Predictable Results in Unpredictable Times
+2025-02-16 12:16:35.7|Info|RefreshBookService|Updating Info for Live Life in Crescendo: Your Most Important Work is Always Ahead of You
+2025-02-16 12:16:35.7|Info|RefreshBookService|Updating Info for The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+2025-02-16 12:16:35.8|Info|RefreshBookService|Updating Info for The 7 Habits of Highly Effective People: 15th Anniversary Infographics Edition
+2025-02-16 12:16:35.9|Info|DiskScanService|Scanning /data/books/
+2025-02-16 12:16:35.9|Warn|DiskScanService|Scan folder /data/books/ is empty.
+2025-02-16 12:16:35.9|Info|TrackGroupingService|Grouping 0 tracks
+2025-02-16 12:16:35.9|Info|ImportApprovedBooks|Importing 0 files
+2025-02-16 12:16:35.9|Info|DiskScanService|Completed scanning disk for Stephen R. Covey
+2025-02-16 12:16:35.9|Info|AuthorScannedHandler|[Stephen R. Covey] was recently added, performing post-add actions
+2025-02-16 12:16:36.2|Info|MediaCoverService|Downloading Poster for [1538][Stephen R. Covey] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1321654785i/1538.jpg
+2025-02-16 12:16:36.8|Info|MediaCoverService|Downloading Cover for [6276][The 7 Habits of Highly Effective People Personal Workbook] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394420832i/2250.jpg
+2025-02-16 12:16:37.1|Info|MediaCoverService|Downloading Cover for [6858849][The 7 Habits of Highly Effective Network Marketing Professionals] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388842055i/18927006.jpg
+2025-02-16 12:16:37.4|Info|MediaCoverService|Downloading Cover for [45954948][Primary Greatness: The 12 Levers of Success] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448205583i/26029284.jpg
+2025-02-16 12:16:37.7|Info|MediaCoverService|Downloading Cover for [6909067][How to Develop Your Personal Mission Statement] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385168621i/18800659.jpg
+2025-02-16 12:16:38.0|Info|MediaCoverService|Downloading Cover for [21474580][Living the 7 habits of courage and inspiration] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266923553i/2561402.jpg
+2025-02-16 12:16:38.3|Info|MediaCoverService|Downloading Cover for [65887623][Os 7 hábitos das pessoas altamente eficazes] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539135343i/42267827.jpg
+2025-02-16 12:16:38.6|Info|MediaCoverService|Downloading Cover for [47798695][An Effective Life: Inspirational Philosophy from Dr. Covey’s Life] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447617741i/27818215.jpg
+2025-02-16 12:16:38.8|Info|MediaCoverService|Downloading Cover for [2571859][The Four Disciplines of Execution] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179603837i/935736.jpg
+2025-02-16 12:16:39.1|Info|MediaCoverService|Downloading Cover for [551937][Spiritual Roots of Human Relations] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388552136i/44666.jpg
+2025-02-16 12:16:39.4|Info|MediaCoverService|Downloading Cover for [2170403][Principle-Centered Leadership] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429971401i/44644.jpg
+2025-02-16 12:16:39.7|Info|MediaCoverService|Downloading Cover for [21599002][Wisdom and Teachings of Stephen R. Covey] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348472967i/15851673.jpg
+2025-02-16 12:16:39.9|Info|MediaCoverService|Downloading Cover for [1614836][How to Develop A Family Mission Statement] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385712345i/18800660.jpg
+2025-02-16 12:16:40.2|Info|MediaCoverService|Downloading Cover for [43980][Everyday Greatness: Inspiration for a Meaningful Life] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386299855i/19224431.jpg
+2025-02-16 12:16:40.5|Info|MediaCoverService|Downloading Cover for [5038476][The Leader in Me: How Schools and Parents Around the World Are Inspiring Greatness, One Child At a Time] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442429632i/4972618.jpg
+2025-02-16 12:16:40.8|Info|MediaCoverService|Downloading Cover for [15922174][‎The ‎3‎Rd Alternative: Solving Life's Most Difficult Problems‎] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319958681i/11003312.jpg
+2025-02-16 12:16:41.4|Info|MediaCoverService|Downloading Cover for [44001][The Divine Center] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309271342i/1102908.jpg
+2025-02-16 12:16:41.9|Info|MediaCoverService|Downloading Cover for [44005][Six Events: The Restoration Model for Solving Life's Problems] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389766880i/44673.jpg
+2025-02-16 12:16:42.2|Info|MediaCoverService|Downloading Cover for [44012][The 8th Habit Personal Workbook: Strategies to Take You from Effectiveness to Greatness] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442938907i/44680.jpg
+2025-02-16 12:16:42.3|Info|MediaCoverService|Downloading Cover for [725842][The 7 Habits of Highly Effective Families] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312065155i/783128.jpg
+2025-02-16 12:16:42.6|Info|MediaCoverService|Downloading Cover for [3200308][The 7 Habits of Highly Effective Marriage] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348568024i/3168238.jpg
+2025-02-16 12:16:42.8|Info|MediaCoverService|Downloading Cover for [57354224][Living the 7 Habits Stories of Courage and Inspiration] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1267273012i/2793186.jpg
+2025-02-16 12:16:43.1|Info|MediaCoverService|Downloading Cover for [35982][First Things First: To Live, to Love, to Learn, to Leave a Legacy] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440528321i/36071.jpg
+2025-02-16 12:16:43.4|Info|MediaCoverService|Downloading Cover for [14132953][العادات السبع للأسر الأكثر فاعلية] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1183536000i/1431526.jpg
+2025-02-16 12:16:43.7|Info|MediaCoverService|Downloading Cover for [25647484][The Seven Habits Of Highly Effective People And The 8th Habit] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441884458i/163002.jpg
+2025-02-16 12:16:44.0|Info|MediaCoverService|Downloading Cover for [1673783][The 8th Habit: From Effectiveness to Greatness] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435624014i/1044141.jpg
+2025-02-16 12:16:44.2|Info|MediaCoverService|Downloading Cover for [6888984][Predictable Results in Unpredictable Times] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404960869i/6693484.jpg
+2025-02-16 12:16:44.5|Info|MediaCoverService|Downloading Cover for [94075781][Live Life in Crescendo: Your Most Important Work is Always Ahead of You] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663171106i/59736181.jpg
+2025-02-16 12:16:45.5|Info|MediaCoverService|Downloading Cover for [86599124][The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601604670i/55533315.jpg
+2025-02-16 12:16:45.8|Info|MediaCoverService|Downloading Cover for [93956728][The 7 Habits of Highly Effective People: 15th Anniversary Infographics Edition] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637477968i/59663712.jpg
+2025-02-16 12:16:45.9|Info|MetadataService|Author folder does not exist, skipping metadata creation
+2025-02-16 12:17:19.0|Info|AddAuthorService|Adding Author [2778055][Kurt Vonnegut Jr.] Path: [/data/books/Kurt Vonnegut Jr]
+2025-02-16 12:17:19.6|Info|RefreshAuthorService|Updating Info for Kurt Vonnegut Jr.
+2025-02-16 12:17:20.4|Info|RefreshBookService|Updating Info for The Sirens of Titan
+2025-02-16 12:17:20.5|Info|RefreshBookService|Updating Info for The Big Trip Up Yonder
+2025-02-16 12:17:20.6|Info|RefreshBookService|Updating Info for Harrison Bergeron
+2025-02-16 12:17:20.6|Info|RefreshBookService|Updating Info for Wampeters Foma & Granfalloons
+2025-02-16 12:17:20.6|Info|RefreshBookService|Updating Info for Novels & Stories 1963–1973: Cat’s Cradle / God Bless You, Mr. Rosewater / Slaughterhouse-Five / Breakfast of Champions / Stories
+2025-02-16 12:17:20.7|Info|RefreshBookService|Updating Info for While Mortals Sleep: Unpublished Short Fiction
+2025-02-16 12:17:20.7|Info|RefreshBookService|Updating Info for Essential Vonnegut Interviews
+2025-02-16 12:17:20.7|Info|RefreshBookService|Updating Info for Cat's Cradle
+2025-02-16 12:17:20.8|Info|RefreshBookService|Updating Info for Basic Training
+2025-02-16 12:17:20.8|Info|RefreshBookService|Updating Info for Look at the Birdie: Unpublished Short Fiction
+2025-02-16 12:17:20.9|Info|RefreshBookService|Updating Info for Timequake
+2025-02-16 12:17:20.9|Info|RefreshBookService|Updating Info for God Bless You, Mr. Rosewater, or Pearls before Swine
+2025-02-16 12:17:21.0|Info|RefreshBookService|Updating Info for Palm Sunday
+2025-02-16 12:17:21.0|Info|RefreshBookService|Updating Info for Mother Night
+2025-02-16 12:17:21.1|Info|RefreshBookService|Updating Info for Bluebeard
+2025-02-16 12:17:21.2|Info|RefreshBookService|Updating Info for God Bless You, Dr. Kevorkian
+2025-02-16 12:17:21.2|Info|RefreshBookService|Updating Info for Complete Stories
+2025-02-16 12:17:21.3|Info|RefreshBookService|Updating Info for The Petrified Ants
+2025-02-16 12:17:21.3|Info|RefreshBookService|Updating Info for Jailbird
+2025-02-16 12:17:21.4|Info|RefreshBookService|Updating Info for Slice of Life
+2025-02-16 12:17:21.4|Info|RefreshBookService|Updating Info for Galápagos
+2025-02-16 12:17:21.4|Info|RefreshBookService|Updating Info for Sucker's Portfolio
+2025-02-16 12:17:21.5|Info|RefreshBookService|Updating Info for Welcome to the Monkey House
+2025-02-16 12:17:21.5|Info|RefreshBookService|Updating Info for The Big Trip Up Yonder
+2025-02-16 12:17:21.5|Info|RefreshBookService|Updating Info for FUBAR
+2025-02-16 12:17:21.6|Info|RefreshBookService|Updating Info for We Are What We Pretend To Be
+2025-02-16 12:17:21.6|Info|RefreshBookService|Updating Info for Novels 1976–1985: Slapstick / Jailbird / Deadeye Dick / Galápagos
+2025-02-16 12:17:21.6|Info|RefreshBookService|Updating Info for Unready to Wear
+2025-02-16 12:17:21.7|Info|RefreshBookService|Updating Info for Armageddon in Retrospect
+2025-02-16 12:17:21.7|Info|RefreshBookService|Updating Info for Sun Moon Star
+2025-02-16 12:17:21.8|Info|RefreshBookService|Updating Info for Cat's Cradle/God Bless You Mr. Rosewater/Breakfast of Champions
+2025-02-16 12:17:21.9|Info|RefreshBookService|Updating Info for If This Isn't Nice, What Is?: Advice for the Young
+2025-02-16 12:17:21.9|Info|RefreshBookService|Updating Info for The Kid Nobody Could Handle
+2025-02-16 12:17:22.0|Info|RefreshBookService|Updating Info for Between Time and Timbuktu or Prometheus-5: A space fantasy
+2025-02-16 12:17:22.0|Info|RefreshBookService|Updating Info for Bagombo Snuff Box
+2025-02-16 12:17:22.0|Info|RefreshBookService|Updating Info for Cat's Cradle/God Bless You, Mr. Rosewater/Slaughterhouse-Five
+2025-02-16 12:17:22.1|Info|RefreshBookService|Updating Info for Player Piano
+2025-02-16 12:17:22.1|Info|RefreshBookService|Updating Info for Slapstick
+2025-02-16 12:17:22.2|Info|RefreshBookService|Updating Info for A Man Without a Country
+2025-02-16 12:17:22.2|Info|RefreshBookService|Updating Info for Canary in a Cat House
+2025-02-16 12:17:22.2|Info|RefreshBookService|Updating Info for Deadeye Dick
+2025-02-16 12:17:22.3|Info|RefreshBookService|Updating Info for 2 B R 0 2 B
+2025-02-16 12:17:22.3|Info|RefreshBookService|Updating Info for Breakfast of Champions
+2025-02-16 12:17:22.4|Info|RefreshBookService|Updating Info for Happy Birthday, Wanda June
+2025-02-16 12:17:22.4|Info|RefreshBookService|Updating Info for Who Am I This Time?
+2025-02-16 12:17:22.4|Info|RefreshBookService|Updating Info for Like Shaking Hands with God: A Conversation About Writing
+2025-02-16 12:17:22.5|Info|RefreshBookService|Updating Info for Pity the Reader
+2025-02-16 12:17:22.6|Info|RefreshBookService|Updating Info for Drawings
+2025-02-16 12:17:22.6|Info|RefreshBookService|Updating Info for Hocus Pocus
+2025-02-16 12:17:22.7|Info|RefreshBookService|Updating Info for Confido
+2025-02-16 12:17:22.7|Info|RefreshBookService|Updating Info for Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death 
+2025-02-16 12:17:22.8|Info|RefreshBookService|Updating Info for Fates Worse Than Death
+2025-02-16 12:17:22.9|Info|RefreshBookService|Updating Info for Novels & Stories 1950–1962: Player Piano / The Sirens of Titan / Mother Night / Stories
+2025-02-16 12:17:22.9|Info|RefreshBookService|Updating Info for Letters
+2025-02-16 12:17:22.9|Info|RefreshBookService|Updating Info for Sinbad
+2025-02-16 12:17:23.0|Info|RefreshBookService|Updating Info for Slaughterhouse Five/ The Sirens Of Titan/ Player Piano/ Cat's Cradle/ Breakfast Of Champions/ Mother Night
+2025-02-16 12:17:23.0|Info|RefreshBookService|Updating Info for epicac
+2025-02-16 12:17:23.0|Info|RefreshBookService|Updating Info for D.P.
+2025-02-16 12:17:23.1|Info|RefreshBookService|Updating Info for Miss Temptation
+2025-02-16 12:17:23.2|Info|RefreshBookService|Updating Info for All The King's Horses
+2025-02-16 12:17:23.2|Info|RefreshBookService|Updating Info for Love, Kurt: The Vonnegut Love Letters, 1941-1945
+2025-02-16 12:17:23.3|Info|DiskScanService|Scanning /data/books/
+2025-02-16 12:17:23.3|Warn|DiskScanService|Scan folder /data/books/ is empty.
+2025-02-16 12:17:23.3|Info|TrackGroupingService|Grouping 0 tracks
+2025-02-16 12:17:23.3|Info|ImportApprovedBooks|Importing 0 files
+2025-02-16 12:17:23.3|Info|DiskScanService|Completed scanning disk for Kurt Vonnegut Jr.
+2025-02-16 12:17:23.3|Info|AuthorScannedHandler|[Kurt Vonnegut Jr.] was recently added, performing post-add actions
+2025-02-16 12:17:23.5|Info|MediaCoverService|Downloading Poster for [2778055][Kurt Vonnegut Jr.] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1433582280i/2778055.jpg
+2025-02-16 12:17:23.7|Info|MediaCoverService|Downloading Cover for [905970][The Sirens of Titan] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419363185i/4982.jpg
+2025-02-16 12:17:24.0|Info|MediaCoverService|Downloading Cover for [16085884][The Big Trip Up Yonder] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348280134i/11161887.jpg
+2025-02-16 12:17:24.3|Info|MediaCoverService|Downloading Cover for [15074968][Harrison Bergeron] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451981372l/10176119.jpg
+2025-02-16 12:17:24.5|Info|MediaCoverService|Downloading Cover for [517656][Wampeters Foma & Granfalloons] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924863i/9591.jpg
+2025-02-16 12:17:24.8|Info|MediaCoverService|Downloading Cover for [14367407][Novels & Stories 1963–1973: Cat’s Cradle / God Bless You, Mr. Rosewater / Slaughterhouse-Five / Breakfast of Champions / Stories] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495370393i/9482056.jpg
+2025-02-16 12:17:25.1|Info|MediaCoverService|Downloading Cover for [13205754][While Mortals Sleep: Unpublished Short Fiction] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320543737i/8352512.jpg
+2025-02-16 12:17:25.3|Info|MediaCoverService|Downloading Cover for [12408][Essential Vonnegut Interviews] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392092121i/9596.jpg
+2025-02-16 12:17:25.4|Info|MediaCoverService|Downloading Cover for [1621115][Cat's Cradle] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327867150i/135479.jpg
+2025-02-16 12:17:25.9|Info|MediaCoverService|Downloading Cover for [19129623][Basic Training] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335204809i/13557521.jpg
+2025-02-16 12:17:26.2|Info|MediaCoverService|Downloading Cover for [6558184][Look at the Birdie: Unpublished Short Fiction] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320454945i/6370612.jpg
+2025-02-16 12:17:26.5|Info|MediaCoverService|Downloading Cover for [6835609][Timequake] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405784951i/9594.jpg
+2025-02-16 12:17:26.7|Info|MediaCoverService|Downloading Cover for [4076][God Bless You, Mr. Rosewater, or Pearls before Swine] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388200987i/9590.jpg
+2025-02-16 12:17:27.0|Info|MediaCoverService|Downloading Cover for [1760881][Palm Sunday] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388528016i/9602.jpg
+2025-02-16 12:17:27.3|Info|MediaCoverService|Downloading Cover for [1222244][Mother Night] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344621657i/9592.jpg
+2025-02-16 12:17:27.6|Info|MediaCoverService|Downloading Cover for [6582745][Bluebeard] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516339874i/9601.jpg
+2025-02-16 12:17:27.9|Info|MediaCoverService|Downloading Cover for [1683550][God Bless You, Dr. Kevorkian] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388428899i/4986.jpg
+2025-02-16 12:17:28.1|Info|MediaCoverService|Downloading Cover for [55181826][Complete Stories] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530527475i/34144894.jpg
+2025-02-16 12:17:28.4|Info|MediaCoverService|Downloading Cover for [7081827][The Petrified Ants] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1252936278i/6866561.jpg
+2025-02-16 12:17:28.7|Info|MediaCoverService|Downloading Cover for [1384043][Jailbird] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514676373i/4987.jpg
+2025-02-16 12:17:29.0|Info|MediaCoverService|Downloading Cover for [51816856][Slice of Life] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468965398i/31178582.jpg
+2025-02-16 12:17:29.3|Info|MediaCoverService|Downloading Cover for [517654][Galápagos] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585146350i/9593.jpg
+2025-02-16 12:17:29.6|Info|MediaCoverService|Downloading Cover for [22006302][Sucker's Portfolio] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621065980i/16163426.jpg
+2025-02-16 12:17:29.7|Info|MediaCoverService|Downloading Cover for [438581][Welcome to the Monkey House] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533340572i/4985.jpg
+2025-02-16 12:17:30.3|Info|MediaCoverService|Downloading Cover for [42705413][The Big Trip Up Yonder] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429246988i/25374260.jpg
+2025-02-16 12:17:30.6|Info|MediaCoverService|Downloading Cover for [13020530][FUBAR] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328312427i/8174146.jpg
+2025-02-16 12:17:30.8|Info|MediaCoverService|Downloading Cover for [21386521][We Are What We Pretend To Be] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340327859i/15716409.jpg
+2025-02-16 12:17:31.1|Info|MediaCoverService|Downloading Cover for [26592598][Novels 1976–1985: Slapstick / Jailbird / Deadeye Dick / Galápagos] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393716642i/18723561.jpg
+2025-02-16 12:17:31.4|Info|MediaCoverService|Downloading Cover for [21598264][Unready to Wear] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394257475i/21364335.jpg
+2025-02-16 12:17:31.7|Info|MediaCoverService|Downloading Cover for [2891580][Armageddon in Retrospect] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441375146i/2024223.jpg
+2025-02-16 12:17:32.0|Info|MediaCoverService|Downloading Cover for [1177733][Sun Moon Star] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291694158i/9603.jpg
+2025-02-16 12:17:32.2|Info|MediaCoverService|Downloading Cover for [12416][Cat's Cradle/God Bless You Mr. Rosewater/Breakfast of Champions] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1222331353i/9605.jpg
+2025-02-16 12:17:32.5|Info|MediaCoverService|Downloading Cover for [25064589][If This Isn't Nice, What Is?: Advice for the Young] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371446602i/17894477.jpg
+2025-02-16 12:17:32.8|Info|MediaCoverService|Downloading Cover for [19263713][The Kid Nobody Could Handle] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346286862i/13646200.jpg
+2025-02-16 12:17:33.0|Info|MediaCoverService|Downloading Cover for [6560143][Between Time and Timbuktu or Prometheus-5: A space fantasy] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486679395i/9936.jpg
+2025-02-16 12:17:33.4|Info|MediaCoverService|Downloading Cover for [6558445][Bagombo Snuff Box] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327353727i/4984.jpg
+2025-02-16 12:17:33.6|Info|MediaCoverService|Downloading Cover for [6554809][Cat's Cradle/God Bless You, Mr. Rosewater/Slaughterhouse-Five] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1279255155l/6367371.jpg
+2025-02-16 12:17:33.9|Info|MediaCoverService|Downloading Cover for [1005005][Player Piano] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506301341i/9597.jpg
+2025-02-16 12:17:34.4|Info|MediaCoverService|Downloading Cover for [815535][Slapstick] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514342815i/9595.jpg
+2025-02-16 12:17:34.7|Info|MediaCoverService|Downloading Cover for [1119459][A Man Without a Country] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330997432i/4979.jpg
+2025-02-16 12:17:34.9|Info|MediaCoverService|Downloading Cover for [12411][Canary in a Cat House] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348707540i/9600.jpg
+2025-02-16 12:17:35.0|Info|MediaCoverService|Downloading Cover for [834005][Deadeye Dick] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515193617i/9598.jpg
+2025-02-16 12:17:35.3|Info|MediaCoverService|Downloading Cover for [5114779][2 B R 0 2 B] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328301776i/5048174.jpg
+2025-02-16 12:17:35.6|Info|MediaCoverService|Downloading Cover for [2859378][Breakfast of Champions] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327934446i/4980.jpg
+2025-02-16 12:17:35.9|Info|MediaCoverService|Downloading Cover for [830367][Happy Birthday, Wanda June] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564063796i/1267866.jpg
+2025-02-16 12:17:36.1|Info|MediaCoverService|Downloading Cover for [718094][Who Am I This Time?] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587554670i/731904.jpg
+2025-02-16 12:17:36.4|Info|MediaCoverService|Downloading Cover for [12410][Like Shaking Hands with God: A Conversation About Writing] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391555561i/9599.jpg
+2025-02-16 12:17:36.7|Info|MediaCoverService|Downloading Cover for [69993872][Pity the Reader] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565764033i/45282043.jpg
+2025-02-16 12:17:37.0|Info|MediaCoverService|Downloading Cover for [25684858][Drawings] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386589115i/18240266.jpg
+2025-02-16 12:17:37.3|Info|MediaCoverService|Downloading Cover for [1683551][Hocus Pocus] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391684344i/9589.jpg
+2025-02-16 12:17:37.6|Info|MediaCoverService|Downloading Cover for [21375977][Confido] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328314087i/8182829.jpg
+2025-02-16 12:17:37.7|Info|MediaCoverService|Downloading Cover for [1683562][Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death ] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981.jpg
+2025-02-16 12:17:38.0|Info|MediaCoverService|Downloading Cover for [551733][Fates Worse Than Death] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924712i/4988.jpg
+2025-02-16 12:17:38.2|Info|MediaCoverService|Downloading Cover for [18275651][Novels & Stories 1950–1962: Player Piano / The Sirens of Titan / Mother Night / Stories] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364316511i/13102865.jpg
+2025-02-16 12:17:38.5|Info|MediaCoverService|Downloading Cover for [19093521][Letters] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340324956i/13531846.jpg
+2025-02-16 12:17:38.8|Info|MediaCoverService|Downloading Cover for [51818546][Sinbad] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468977811i/31179339.jpg
+2025-02-16 12:17:39.1|Info|MediaCoverService|Downloading Cover for [87068869][Slaughterhouse Five/ The Sirens Of Titan/ Player Piano/ Cat's Cradle/ Breakfast Of Champions/ Mother Night] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329590823i/5989090.jpg
+2025-02-16 12:17:39.3|Info|MediaCoverService|Downloading Cover for [96158145][D.P.] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678137297i/61021740.jpg
+2025-02-16 12:17:39.6|Info|MediaCoverService|Downloading Cover for [89771689][Miss Temptation] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379530384i/18517612.jpg
+2025-02-16 12:17:39.9|Info|MediaCoverService|Downloading Cover for [80599934][All The King's Horses] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501324855i/22884754.jpg
+2025-02-16 12:17:40.2|Info|MediaCoverService|Downloading Cover for [76704612][Love, Kurt: The Vonnegut Love Letters, 1941-1945] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606758392i/52008117.jpg
+2025-02-16 12:17:40.6|Info|MetadataService|Author folder does not exist, skipping metadata creation
+2025-02-16 12:17:49.1|Info|AddAuthorService|Adding Author [15428422][Khalid Hosseini] Path: [/data/books/Khalid Hosseini]
+2025-02-16 12:17:49.2|Info|RefreshAuthorService|Updating Info for Khalid Hosseini
+2025-02-16 12:17:49.2|Info|RefreshBookService|Updating Info for The Complete Khalid Hosseini
+2025-02-16 12:17:49.3|Info|DiskScanService|Scanning /data/books/
+2025-02-16 12:17:49.3|Warn|DiskScanService|Scan folder /data/books/ is empty.
+2025-02-16 12:17:49.3|Info|TrackGroupingService|Grouping 0 tracks
+2025-02-16 12:17:49.3|Info|ImportApprovedBooks|Importing 0 files
+2025-02-16 12:17:49.3|Info|DiskScanService|Completed scanning disk for Khalid Hosseini
+2025-02-16 12:17:49.3|Info|AuthorScannedHandler|[Khalid Hosseini] was recently added, performing post-add actions
+2025-02-16 12:17:49.3|Info|MediaCoverService|Downloading Cover for [56072248][The Complete Khalid Hosseini] https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491936891i/34840599.jpg
+2025-02-16 12:17:49.4|Info|MetadataService|Author folder does not exist, skipping metadata creation
+2025-02-16 12:22:46.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:22:56.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 12:07:22 and 02/16/2025 12:22:47 UTC. Search may be required.
+2025-02-16 12:22:58.5|Info|DownloadDecisionMaker|Processing 155 releases
+2025-02-16 12:22:58.8|Info|RssSyncService|RSS Sync Completed. Reports found: 155, Reports grabbed: 0
+2025-02-16 12:38:16.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:38:16.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:56:54 and 02/16/2025 10:55:05 UTC. Search may be required.
+2025-02-16 12:38:25.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 12:22:55 and 02/16/2025 12:38:18 UTC. Search may be required.
+2025-02-16 12:38:25.2|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 12:38:25.4|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 12:53:47.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:53:55.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 12:38:25 and 02/16/2025 12:53:48 UTC. Search may be required.
+2025-02-16 12:53:55.9|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 12:53:56.1|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 13:09:17.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:09:35.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 12:53:55 and 02/16/2025 13:09:19 UTC. Search may be required.
+2025-02-16 13:09:35.7|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 13:09:35.9|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 13:11:02.8|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 13:11:29.7|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 13:24:48.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:24:57.0|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:09:35 and 02/16/2025 13:24:49 UTC. Search may be required.
+2025-02-16 13:25:01.9|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 13:25:02.1|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 13:40:18.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:40:27.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:24:56 and 02/16/2025 13:40:19 UTC. Search may be required.
+2025-02-16 13:40:33.8|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 13:40:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 13:55:49.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:55:55.4|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:37:16 and 02/16/2025 13:37:28 UTC. Search may be required.
+2025-02-16 13:55:57.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:40:27 and 02/16/2025 13:55:50 UTC. Search may be required.
+2025-02-16 13:56:05.9|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 13:56:06.1|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 14:11:19.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:11:28.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:55:57 and 02/16/2025 14:11:20 UTC. Search may be required.
+2025-02-16 14:11:37.5|Info|DownloadDecisionMaker|Processing 151 releases
+2025-02-16 14:11:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-02-16 14:26:50.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:26:50.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:46:45 and 02/16/2025 12:19:19 UTC. Search may be required.
+2025-02-16 14:26:51.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 14:27:51 due to recent failures." />
+2025-02-16 14:26:51.3|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 14:26:59.0|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:11:28 and 02/16/2025 14:26:51 UTC. Search may be required.
+2025-02-16 14:27:00.3|Info|DownloadDecisionMaker|Processing 49 releases
+2025-02-16 14:27:00.4|Info|RssSyncService|RSS Sync Completed. Reports found: 49, Reports grabbed: 0
+2025-02-16 14:42:21.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:42:29.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:26:58 and 02/16/2025 14:42:22 UTC. Search may be required.
+2025-02-16 14:42:30.3|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 14:42:30.4|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 14:57:51.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:58:00.4|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:42:29 and 02/16/2025 14:57:52 UTC. Search may be required.
+2025-02-16 14:58:00.8|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 14:58:00.9|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 15:13:22.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 15:13:31.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:58:00 and 02/16/2025 15:13:23 UTC. Search may be required.
+2025-02-16 15:13:41.4|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 15:13:41.6|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 15:28:52.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 15:29:01.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:13:31 and 02/16/2025 15:28:53 UTC. Search may be required.
+2025-02-16 15:29:02.9|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 15:29:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 15:44:23.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 15:44:32.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:29:01 and 02/16/2025 15:44:24 UTC. Search may be required.
+2025-02-16 15:44:33.5|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 15:44:33.6|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 15:59:53.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:00:02.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:44:32 and 02/16/2025 15:59:54 UTC. Search may be required.
+2025-02-16 16:00:03.3|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 16:00:03.5|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 16:15:24.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:15:25.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:00:53 and 02/16/2025 14:00:48 UTC. Search may be required.
+2025-02-16 16:15:33.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:00:02 and 02/16/2025 16:15:25 UTC. Search may be required.
+2025-02-16 16:15:43.9|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 16:15:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 16:30:55.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:31:03.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:15:33 and 02/16/2025 16:30:56 UTC. Search may be required.
+2025-02-16 16:31:06.0|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 16:31:06.2|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 16:46:25.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:46:32.5|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:29:00 and 02/16/2025 16:32:48 UTC. Search may be required.
+2025-02-16 16:46:34.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:31:03 and 02/16/2025 16:46:26 UTC. Search may be required.
+2025-02-16 16:46:35.7|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 16:46:35.9|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 17:01:56.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:02:04.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:46:34 and 02/16/2025 17:01:57 UTC. Search may be required.
+2025-02-16 17:02:06.4|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:44:28 and 02/16/2025 16:47:31 UTC. Search may be required.
+2025-02-16 17:02:06.5|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 17:02:06.6|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 17:17:26.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:17:35.3|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:00:02 and 02/16/2025 17:00:57 UTC. Search may be required.
+2025-02-16 17:17:35.4|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:02:04 and 02/16/2025 17:17:27 UTC. Search may be required.
+2025-02-16 17:17:37.6|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 17:17:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 17:32:57.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:33:05.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:17:35 and 02/16/2025 17:32:58 UTC. Search may be required.
+2025-02-16 17:33:09.5|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:14:57 and 02/16/2025 17:15:07 UTC. Search may be required.
+2025-02-16 17:33:13.5|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 17:33:13.6|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 17:48:27.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:48:28.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 17:53:28 due to recent failures." />
+2025-02-16 17:48:28.8|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:05:00
+2025-02-16 17:48:36.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:33:05 and 02/16/2025 17:48:28 UTC. Search may be required.
+2025-02-16 17:48:37.6|Info|DownloadDecisionMaker|Processing 49 releases
+2025-02-16 17:48:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 49, Reports grabbed: 0
+2025-02-16 18:03:58.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:04:07.0|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:48:36 and 02/16/2025 18:03:59 UTC. Search may be required.
+2025-02-16 18:04:11.9|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:30:07 and 02/16/2025 17:45:01 UTC. Search may be required.
+2025-02-16 18:04:11.9|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 18:04:12.1|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 18:19:28.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:19:37.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:04:06 and 02/16/2025 18:19:29 UTC. Search may be required.
+2025-02-16 18:19:37.3|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 18:19:37.5|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 18:34:59.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:35:00.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 18:40:00 due to recent failures." />
+2025-02-16 18:35:00.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:05:00
+2025-02-16 18:35:07.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:19:37 and 02/16/2025 18:35:00 UTC. Search may be required.
+2025-02-16 18:35:07.8|Info|DownloadDecisionMaker|Processing 49 releases
+2025-02-16 18:35:07.9|Info|RssSyncService|RSS Sync Completed. Reports found: 49, Reports grabbed: 0
+2025-02-16 18:50:29.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:50:36.6|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:16:30 and 02/16/2025 18:32:32 UTC. Search may be required.
+2025-02-16 18:50:38.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:35:07 and 02/16/2025 18:50:30 UTC. Search may be required.
+2025-02-16 18:50:38.2|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 18:50:38.4|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 19:06:00.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:06:08.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:50:38 and 02/16/2025 19:06:01 UTC. Search may be required.
+2025-02-16 19:06:10.1|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:48:01 and 02/16/2025 18:53:14 UTC. Search may be required.
+2025-02-16 19:06:10.2|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 19:06:10.4|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 19:13:00.5|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 19:13:36.7|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 19:21:30.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:21:39.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:06:08 and 02/16/2025 19:21:31 UTC. Search may be required.
+2025-02-16 19:21:39.9|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:04:24 and 02/16/2025 19:05:17 UTC. Search may be required.
+2025-02-16 19:21:39.9|Info|DownloadDecisionMaker|Processing 149 releases
+2025-02-16 19:21:40.1|Info|RssSyncService|RSS Sync Completed. Reports found: 149, Reports grabbed: 0
+2025-02-16 19:37:01.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:37:05.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 19:38:05 due to recent failures." />
+2025-02-16 19:37:05.1|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 19:37:10.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:21:39 and 02/16/2025 19:37:02 UTC. Search may be required.
+2025-02-16 19:37:10.1|Info|DownloadDecisionMaker|Processing 49 releases
+2025-02-16 19:37:10.2|Info|RssSyncService|RSS Sync Completed. Reports found: 49, Reports grabbed: 0
+2025-02-16 19:52:31.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:52:40.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:37:10 and 02/16/2025 19:52:33 UTC. Search may be required.
+2025-02-16 19:52:41.0|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:19:46 and 02/16/2025 19:34:45 UTC. Search may be required.
+2025-02-16 19:52:41.0|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-16 19:52:41.2|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-16 20:08:02.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:08:02.4|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 20:08:04 due to recent failures." />
+2025-02-16 20:08:02.4|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:00:02
+2025-02-16 20:08:11.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:52:40 and 02/16/2025 20:08:03 UTC. Search may be required.
+2025-02-16 20:08:13.3|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 20:08:13.3|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 20:23:33.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:23:39.1|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:48:56 and 02/16/2025 20:05:34 UTC. Search may be required.
+2025-02-16 20:23:41.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:08:11 and 02/16/2025 20:23:33 UTC. Search may be required.
+2025-02-16 20:23:41.7|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-16 20:23:41.9|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-16 20:39:03.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:39:12.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:23:41 and 02/16/2025 20:39:04 UTC. Search may be required.
+2025-02-16 20:39:16.0|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-16 20:39:16.2|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-16 20:54:34.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:54:36.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 20:55:35 due to recent failures." />
+2025-02-16 20:54:36.0|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 20:54:44.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:39:12 and 02/16/2025 20:54:36 UTC. Search may be required.
+2025-02-16 20:54:44.3|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 20:54:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 21:10:05.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:10:14.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:54:43 and 02/16/2025 21:10:06 UTC. Search may be required.
+2025-02-16 21:10:14.8|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:36:51 and 02/16/2025 20:50:19 UTC. Search may be required.
+2025-02-16 21:10:16.4|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-16 21:10:16.6|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-16 21:25:35.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:25:43.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 21:30:43 due to recent failures." />
+2025-02-16 21:25:43.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:05:00
+2025-02-16 21:25:44.4|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:10:14 and 02/16/2025 21:25:36 UTC. Search may be required.
+2025-02-16 21:25:44.4|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 21:25:44.5|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 21:41:06.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:41:06.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 21:52:44 due to recent failures." />
+2025-02-16 21:41:06.5|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:11:38
+2025-02-16 21:41:15.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:25:44 and 02/16/2025 21:41:07 UTC. Search may be required.
+2025-02-16 21:41:15.2|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 21:41:15.2|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 21:56:36.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:56:41.3|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 22:26:40 due to recent failures." />
+2025-02-16 21:56:41.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:30:00
+2025-02-16 21:56:45.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:41:15 and 02/16/2025 21:56:38 UTC. Search may be required.
+2025-02-16 21:56:45.6|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 21:56:45.7|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 22:12:07.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:12:16.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:56:45 and 02/16/2025 22:12:08 UTC. Search may be required.
+2025-02-16 22:12:16.3|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 22:12:16.3|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 22:27:38.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:27:44.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 23:27:44 due to recent failures." />
+2025-02-16 22:27:44.2|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 01:00:00
+2025-02-16 22:27:46.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 22:12:16 and 02/16/2025 22:27:39 UTC. Search may be required.
+2025-02-16 22:27:46.9|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 22:27:47.0|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 22:43:08.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:43:17.4|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 22:27:46 and 02/16/2025 22:43:09 UTC. Search may be required.
+2025-02-16 22:43:17.4|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 22:43:17.5|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 22:58:39.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:58:47.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 22:43:17 and 02/16/2025 22:58:40 UTC. Search may be required.
+2025-02-16 22:58:47.9|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 22:58:47.9|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 23:14:10.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:14:18.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 22:58:47 and 02/16/2025 23:14:10 UTC. Search may be required.
+2025-02-16 23:14:18.9|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 23:14:19.0|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 23:29:40.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:29:41.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=book&cat=7000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/17/2025 02:29:41 due to recent failures." />
+2025-02-16 23:29:41.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 03:00:00
+2025-02-16 23:29:49.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:14:18 and 02/16/2025 23:29:41 UTC. Search may be required.
+2025-02-16 23:29:49.4|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 23:29:49.4|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-16 23:45:10.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:45:19.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:29:49 and 02/16/2025 23:45:12 UTC. Search may be required.
+2025-02-16 23:45:19.7|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-16 23:45:19.8|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 00:00:41.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:00:50.0|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:45:19 and 02/17/2025 00:00:42 UTC. Search may be required.
+2025-02-17 00:00:50.1|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 00:00:50.1|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 00:16:12.1|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:16:20.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:00:50 and 02/17/2025 00:16:13 UTC. Search may be required.
+2025-02-17 00:16:20.8|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 00:16:20.9|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 00:31:42.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:31:51.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:16:20 and 02/17/2025 00:31:43 UTC. Search may be required.
+2025-02-17 00:31:51.3|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 00:31:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 00:47:13.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:47:21.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:31:51 and 02/17/2025 00:47:13 UTC. Search may be required.
+2025-02-17 00:47:21.9|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 00:47:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 01:02:43.6|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:02:52.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:47:21 and 02/17/2025 01:02:44 UTC. Search may be required.
+2025-02-17 01:02:52.3|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 01:02:52.4|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 01:07:44.0|Info|HousekeepingService|Running housecleaning tasks
+2025-02-17 01:07:45.8|Info|Database|Vacuuming Cache database
+2025-02-17 01:07:45.9|Info|Database|Cache database compressed
+2025-02-17 01:07:45.9|Info|Database|Vacuuming Log database
+2025-02-17 01:07:45.9|Info|Database|Log database compressed
+2025-02-17 01:07:45.9|Info|Database|Vacuuming Main database
+2025-02-17 01:07:46.3|Info|Database|Main database compressed
+2025-02-17 01:07:46.5|Info|RefreshAuthorService|Skipping refresh of author: Khalid Hosseini
+2025-02-17 01:07:46.6|Info|RefreshAuthorService|Skipping refresh of author: Kurt Vonnegut Jr.
+2025-02-17 01:07:46.7|Info|RefreshAuthorService|Skipping refresh of author: Stephen R. Covey
+2025-02-17 01:15:41.4|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-17 01:16:14.8|Warn|ReadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-17 01:18:14.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:18:23.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:02:52 and 02/17/2025 01:18:15 UTC. Search may be required.
+2025-02-17 01:18:23.3|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 01:18:23.4|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 01:33:45.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:33:53.8|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:18:23 and 02/17/2025 01:33:45 UTC. Search may be required.
+2025-02-17 01:33:53.9|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 01:33:54.0|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 01:49:15.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:49:24.3|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:33:53 and 02/17/2025 01:49:16 UTC. Search may be required.
+2025-02-17 01:49:24.4|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 01:49:24.5|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 02:04:46.1|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:04:54.9|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:49:24 and 02/17/2025 02:04:47 UTC. Search may be required.
+2025-02-17 02:04:55.0|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 02:04:55.0|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 02:20:16.7|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:20:25.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:04:54 and 02/17/2025 02:20:17 UTC. Search may be required.
+2025-02-17 02:20:25.5|Info|DownloadDecisionMaker|Processing 44 releases
+2025-02-17 02:20:25.6|Info|RssSyncService|RSS Sync Completed. Reports found: 44, Reports grabbed: 0
+2025-02-17 02:35:47.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:35:56.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:20:25 and 02/17/2025 02:35:48 UTC. Search may be required.
+2025-02-17 02:35:59.6|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:08:28 and 02/17/2025 02:19:23 UTC. Search may be required.
+2025-02-17 02:35:59.7|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 02:36:00.0|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 02:51:17.9|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:51:26.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:35:56 and 02/17/2025 02:51:18 UTC. Search may be required.
+2025-02-17 02:51:26.7|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 02:51:27.0|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 03:06:48.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:06:57.1|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:51:26 and 02/17/2025 03:06:49 UTC. Search may be required.
+2025-02-17 03:06:57.6|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:49:23 and 02/17/2025 02:49:25 UTC. Search may be required.
+2025-02-17 03:06:57.7|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 03:06:58.0|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 03:22:18.8|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:22:27.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 03:06:57 and 02/17/2025 03:22:19 UTC. Search may be required.
+2025-02-17 03:22:27.6|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 03:22:27.9|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 03:37:49.6|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:37:58.4|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 03:22:27 and 02/17/2025 03:37:50 UTC. Search may be required.
+2025-02-17 03:37:58.4|Info|DownloadDecisionMaker|Processing 144 releases
+2025-02-17 03:37:58.7|Info|RssSyncService|RSS Sync Completed. Reports found: 144, Reports grabbed: 0
+2025-02-17 03:53:20.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:53:20.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:33:58 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 03:53:25.9|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/17/2025 03:34:15 and 02/17/2025 03:35:02 UTC. Search may be required.
+2025-02-17 03:53:28.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 03:37:58 and 02/17/2025 03:53:21 UTC. Search may be required.
+2025-02-17 03:53:28.8|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 03:53:29.0|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 04:08:50.6|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:08:50.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 04:08:59.5|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 03:53:28 and 02/17/2025 04:08:51 UTC. Search may be required.
+2025-02-17 04:08:59.5|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 04:08:59.8|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 04:24:21.2|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:24:21.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 04:24:27.2|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/17/2025 04:04:47 and 02/17/2025 04:05:16 UTC. Search may be required.
+2025-02-17 04:24:30.0|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 04:08:59 and 02/17/2025 04:24:22 UTC. Search may be required.
+2025-02-17 04:24:30.1|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 04:24:30.4|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 04:39:51.9|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:39:52.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 04:40:00.6|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 04:24:30 and 02/17/2025 04:39:52 UTC. Search may be required.
+2025-02-17 04:40:00.7|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 04:40:01.0|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 04:55:22.4|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:55:22.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 04:55:31.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 04:40:00 and 02/17/2025 04:55:23 UTC. Search may be required.
+2025-02-17 04:55:31.2|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 04:55:31.5|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 05:10:53.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:10:53.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 05:11:02.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 04:55:31 and 02/17/2025 05:10:54 UTC. Search may be required.
+2025-02-17 05:11:02.3|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 05:11:02.5|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 05:26:23.9|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:26:24.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 05:26:32.7|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 05:11:02 and 02/17/2025 05:26:24 UTC. Search may be required.
+2025-02-17 05:26:32.7|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 05:26:32.9|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 05:41:52.5|Info|Auth|Auth-Success ip 2405:acc0:1306:528:f5d3:34f1:d9c2:f5c3 username 'admin'
+2025-02-17 05:41:54.4|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:41:54.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:32:53 and 02/17/2025 00:32:53 UTC. Search may be required.
+2025-02-17 05:42:03.2|Warn|Torznab|Indexer EBookBay (Prowlarr) rss sync didn't cover the period between 02/17/2025 05:26:32 and 02/17/2025 05:41:55 UTC. Search may be required.
+2025-02-17 05:42:03.2|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-17 05:42:03.4|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-17 05:42:30.4|Info|ReleaseSearchService|Searching indexers for [Kurt Vonnegut Jr. - Slaughterhouse-Five]. 4 active indexers
+2025-02-17 05:42:37.5|Info|DownloadDecisionMaker|Processing 19 releases
+2025-02-17 05:42:54.1|Info|DownloadService|Report sent to qBittorrent from indexer The Pirate Bay (Prowlarr). Slaughterhouse-Five by Kurt Vonnegut EPUB
+2025-02-17 05:42:54.7|Info|BookSearchService|Book search completed. 1 reports downloaded.

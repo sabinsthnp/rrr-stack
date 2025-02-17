@@ -1,41 +1,336 @@
----
 # For configuration options and examples, please see:
-# https://gethomepage.dev/configs/services/
-- Media Services:
+# https://gethomepage.dev/latest/configs/service
+- Media:
     - Radarr:
-        href: http://192.168.18.32:7878
-        description: Radarr is used for managing and automating movies.
         icon: radarr.png
-    - Sonarr:
-        href: http://192.168.18.32:8989
-        description: Sonarr is used for managing and automating TV shows.
-        icon: sonarr.png
-    - Jellyfin:
-        href: http://192.168.18.32:8096
-        description: Jellyfin is a media server for streaming your media content.
-        icon: jellyfin.png
-
-- Download Services:
-    - Prowlarr:
-        href: http://192.168.18.32:9696
-        description: Prowlarr is an indexer manager for all your download clients.
-        icon: prowlarr.png
-    - qBittorrent:
-        href: http://192.168.18.32:8080
-        description: qBittorrent is a popular open-source BitTorrent client.
-        icon: qbittorrent.png
-
-- Music Services:
+        ping: http://radarr.sabinsth.com.np/
+        href: http://radarr.sabinsth.com.np/
+        description: Movies Management
+        server: my-docker
+        container: radarr
+        showStats: true 
+        widget:
+          type: radarr
+          url: https://radarr.sabinsth.com.np
+          key: c733023d9c7d4992aa94f5a49583018e
+          enableQueue: true
     - Lidarr:
-        href: http://192.168.18.32:8686
-        description: Lidarr is used for managing and automating music.
         icon: lidarr.png
+        ping: http://lidarr.sabinsth.com.np/
+        href: http://lidarr.sabinsth.com.np/
+        description: Music Management
+        server: my-docker
+        container: lidarr
+        showStats: true
+        widget:
+          type: lidarr
+          url: https://lidarr.sabinsth.com.np
+          key: 264d577b4e41450d86d15f2c22f41a78
+    - Jellyseerr:
+        icon: jellyseerr.png
+        ping: https://req.sabinsth.com.np/
+        href: https://req.sabinsth.com.np/
+        description: Music Management
+        server: my-docker
+        container: lidarr
+        showStats: true
+        widget:
+          type: jellyseerr
+          url: https://req.sabinsth.com.np
+          key: MTczOTY5NjA1NjUwMmZmZGRjZDllLTU2YzMtNDk3ZC05ODBjLWI3Yzk2YzFmNjE3YQ==
     - Readarr:
-        href: http://192.168.18.32:8787
-        description: Readarr is a book collection manager for automating your books.
         icon: readarr.png
-- Management Services:
+        ping: http://readarr.sabinsth.com.np/
+        href: http://readarr.sabinsth.com.np/
+        description: eBook and Audiobook Management
+        server: my-docker
+        container: readarr
+        showStats: true
+        widget:
+          type: readarr
+          url: https://readarr.sabinsth.com.np
+          key: a105669e1cc94b6f833a577064ba163d
+    - Sonarr:
+        icon: sonarr.png
+        ping: http://sonarr.sabinsth.com.np/
+        href: http://sonarr.sabinsth.com.np/
+        description: Series Management
+        server: my-docker
+        container: sonarr
+        showStats: true
+        widget:
+          type: sonarr
+          fields: ["wanted", "queued", "missing"]
+          url: https://sonarr.sabinsth.com.np
+          key: c0cf2daf1e5c403e9aa602315a5810d5
+    - Maintainerr:
+        icon: https://i.imgur.com/Nj0a82k.png
+        ping: http://maintainerr.sabinsth.com.np/
+        href: http://maintainerr.sabinsth.com.np/
+        description: Media Management
+        server: my-docker
+        container: maintainerr
+        showStats: true
+
+
+- Various:
+    - Nextcloud:
+        icon: nextcloud.png
+        ping: https://files.photopasal.com.np
+        href: https://files.photopasal.com.np
+        description: Cloud Storage
+        #server: my-docker
+        #container: nextcloud-aio-nextcloud
+        #showStats: true
+        #widget:
+        #  type: nextcloud
+        #  url: https://files.photopasal.com.np
+        #  username: admin
+        #  password: nepal123
+    - Caddy:
+        icon: caddy.png
+        ping: http://192.168.18.32:2020/
+        href: 'http://192.168.18.32:2020/'
+        description: Reverse Proxy
+        widget:
+          type: caddy
+          url: http://192.168.18.32:2020
+    - Prowlarr:
+        icon: prowlarr.png
+        ping: https://prowlarr.sabinsth.com.np/
+        href: 'https://prowlarr.sabinsth.com.np/'
+        description: Indexer Management
+        server: my-docker
+        container: prowlarr
+        showStats: true
+        widget:
+          type: prowlarr
+          url: https://prowlarr.sabinsth.com.np
+          key: cff20da7a96b402aaf9736944f87756a
+    - qBittorrent:
+        icon: qbittorrent.png
+        ping: http://192.168.50.6:8084/
+        href: 'http://192.168.50.6:8084/'
+        description: Torrent Downloader
+        siteMonitor: http://192.168.50.6:8084/
+        widget:
+          type: qbittorrent
+          url: http://192.168.50.6:8084
+          username: xxxxxxxx
+          password: xxxxxxxx
+    - ChangeDetection:
+        icon: https://i.imgur.com/gjT40t6.png
+        ping: http://change.sabinsth.com.np/
+        href: http://change.sabinsth.com.np/
+        description: Website Change Monitoring
+        server: my-docker
+        container: stack3-changedetection-1
+        showStats: true
+        widget:
+          type: changedetectionio
+          url: http://192.168.18.32:5000
+          key: xxxxxxxxxxxxx
+    - Audiobookshelf:
+        icon: audiobookshelf
+        ping: http://audio.sabinsth.com.np/
+        href: http://audio.sabinsth.com.np/
+        description: Audiobook Library
+        server: my-docker
+        container: audiobookshelf
+        showStats: true
+        widget:
+          type: audiobookshelf
+          url: http://192.168.18.32:13378
+          key: xxxxxxxxxxx
+    - FreshRSS:
+        icon: freshrss.png
+        ping: http://freshrss.sabinsth.com.np/
+        href: http://freshrss.sabinsth.com.np/
+        description: RSS Feed
+        server: my-docker
+        container: freshrss
+        showStats: true
+        widget:
+          type: freshrss
+          url: http://192.168.18.32:8282
+          username: xxxxxxxxx
+          password: xxxxxxxxx       
+
+- Others:
+    - Uptime-Kuma:
+        icon: uptime-kuma.png
+        ping: https://status.sabinsth.com.np/
+        href: https://status.sabinsth.com.np/
+        description: Container Monitoring
+        server: my-docker
+        container: uptime-kuma
+        showStats: true
+        widget:
+          type: uptimekuma
+          url: http://192.168.18.21:3001
+          slug: uk1_htUcx6wZxMexz2qgaTH8Rmn15A9rYBWCVDHoQW1t
+    - Watchtower:
+        icon: watchtower.png
+        description: Container Management
+        ping: http://192.168.18.32:8087/
+        server: my-docker
+        container: watchtower
+        showStats: true
+        widget:
+          type: watchtower
+          url: http://192.168.18.32:8087
+          key: xxxxxxxx
     - Portainer:
-        href: https://192.168.18.32:9443
-        description: Portainer provides a simple management UI for Docker.
         icon: portainer.png
+        ping: https://192.168.18.32:9443/
+        href: https://192.168.18.32:9443/
+        description: Container Management
+        server: my-docker
+        container: portainer
+        showStats: true
+        widget:
+          type: portainer
+          url: https://192.168.18.32:9443
+          env: 2
+          key: ptr_dsoVRxKsG7oC2lQFOYLrBZrn1wIU6S7oaD7g6JZioM8=
+    - Speedtest Tracker:
+        icon: speedtest-tracker.png
+        ping: https://192.168.18.32:5443/
+        href: https://192.168.18.32:5443/
+        server: my-docker
+        container: speedtest-tracker
+        showStats: true
+        widget:
+          type: speedtest
+          url: https://192.168.18.32:5443
+    - Pi-Hole:
+        icon: pi-hole.png
+        ping: http://192.168.50.114/admin/
+        href: 'http://192.168.50.114/admin/'
+        description: AD Blocker
+        siteMonitor: http://192.168.50.114/admin
+        widget:
+          type: pihole
+          url: 'http://192.168.50.114/'
+          key: xxxxxxxxxxxxx
+    - Immich:
+        icon: immich.png
+        ping: https://photos.photopasal.com.np/
+        href: https://photos.photopasal.com.np/
+        description: Photos Management
+        server: my-docker
+        container: immich_server
+        showStats: true
+        widget:
+          type: immich
+          url: http://192.168.18.9:2283
+          key: HaqaxOOA4EHVLPLIOD4yMnFAYoYT0HHAG8T3Qx18gOg
+    - Calibre-Web:
+        icon: calibre.png
+        ping: https://impressive-mink.pikapod.net/
+        href: 'https://impressive-mink.pikapod.net/'
+        description: eBook Management
+        siteMonitor: https://impressive-mink.pikapod.net/
+        widget:
+          type: calibreweb
+          url: https://impressive-mink.pikapod.net:443
+          username: xxxxxxx
+          password: xxxxxxx      
+    - Paperless-ngx:
+        icon: paperless-ngx.png
+        ping: http://192.168.18.32:8003/
+        href: 'https://paperless.sabinsth.com.np/'
+        description: Documents Management
+        server: my-docker
+        container: paperless-webserver-1
+        showStats: true
+        widget:
+          type: paperlessngx
+          url: http://192.168.18.32:8003
+          username: xxxxxxxxx
+          password: xxxxxxxxx
+- Calendar:
+    - Calendar:
+        widget:
+          type: calendar
+          firstDayInWeek: monday # optional - defaults to monday
+          view: monthly # optional - possible values monthly, agenda
+          maxEvents: 10 # optional - defaults to 10
+          showTime: true # optional - show time for event happening today - defaults to false
+          integrations: # optional
+            - type: sonarr # active widget type that is currently enabled on homepage - possible values: radarr, sonarr, lidarr, readarr, ical
+              service_group: Media # group name where widget exists
+              service_name: Sonarr # service name for that widget
+              color: teal # optional - defaults to pre-defined color for the service (teal for sonarr)
+              params: # optional - additional params for the service
+                unmonitored: true # optional - defaults to false, used with *arr stack
+            - type: radarr
+              service_group: Media
+              service_name: Radarr
+              color: amber
+            - type: lidarr
+              service_group: Media
+              service_name: Lidarr
+              color: lime
+    - Glances:
+       widget:
+        type: glances
+        url: http://192.168.18.21:61208
+        username: user # optional if auth enabled in Glances
+        password: pass # optional if auth enabled in Glances
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: cpu
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Disk - ROOT:
+       widget:
+        type: glances
+        url: http://192.168.18.21:61208
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: disk:sda
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Ram:
+       widget:
+        type: glances
+        url: http://192.168.18.21:61208
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: memory
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Network:
+       widget:
+        type: glances
+        url: http://192.168.18.21:61208
+        username: user # optional if auth enabled in Glances
+        password: pass # optional if auth enabled in Glances
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: network:eth0
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+    - Process:
+       widget:
+        type: glances
+        url: http://192.168.18.21:61208
+        username: user # optional if auth enabled in Glances
+        password: pass # optional if auth enabled in Glances
+        version: 4 # required only if running glances v4 or higher, defaults to 3
+        metric: process
+        diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+        refreshInterval: 5000 # optional - in milliseconds, defaults to 1000 or more, depending on the metric
+        pointsLimit: 15 # optional, defaults to 15
+
+- TrueNas:
+  - TrueNas:
+     widget:
+      type: truenas
+      url: http://192.168.18.9
+      username: truenas_admin # not required if using api key
+      password: nepal123 # not required if using api key
+      #key: yourtruenasapikey # not required if using username / password
+      enablePools: true # optional, defaults to false
+      nasType: scale # defaults to scale, must be set to 'core' if using enablePools with TrueNAS Core

@@ -15,6 +15,31 @@ services:
       - '3000:3000'
     env_file:
       - '.env'
+
+  jellyseerr:
+    image: fallenbagel/jellyseerr
+    container_name: jellyseerr
+    ports:
+      - '5055:5055'   # Jellyseerr web interface
+    volumes:
+      - ${ARRPATH}jellyseerr/config:/app/config
+    env_file:
+      - '.env'
+    restart: unless-stopped
+
+  maintainerr:
+    image: ghcr.io/jorenn92/maintainerr:latest
+    container_name: maintainerr
+    user: 1000:1000
+    volumes:
+      - ${ARRPATH}maintainerr/data:/opt/data
+    environment:
+      - TZ=Europe/Brussels
+      # - DEBUG=true # Uncomment to enable debug logs
+    ports:
+      - '6246:6246'
+    restart: unless-stopped
+
 # ██████╗ ██████╗  ██████╗ ██╗    ██╗██╗      █████╗ ██████╗ ██████╗ 
 # ██╔══██╗██╔══██╗██╔═══██╗██║    ██║██║     ██╔══██╗██╔══██╗██╔══██╗
 # ██████╔╝██████╔╝██║   ██║██║ █╗ ██║██║     ███████║██████╔╝██████╔╝
@@ -166,6 +191,23 @@ services:
       - '.env'
     restart: unless-stopped
           
+  emby:
+    image: linuxserver/emby
+    container_name: emby
+    ports:
+      - '8097:8096/tcp'   # Emby web interface
+      - '8920:8920/tcp'   # Secure connection (HTTPS)
+      - '7360:7359/udp'   # Network discovery
+      - '1901:1900/udp'   # DLNA port
+    volumes:
+      - ${ARRPATH}emby/config:/config
+      - ${ARRPATH}radarr/movies:/data/Movies
+      - ${ARRPATH}sonarr/tvshows:/data/TVShows
+      - ${ARRPATH}lidarr/music:/data/Music
+      - ${ARRPATH}readarr/books:/data/Books
+    env_file:
+      - '.env'
+    restart: unless-stopped
 #  ██████╗ ██████╗ ██╗████████╗████████╗ ██████╗ ██████╗ ██████╗ ███████╗███╗   ██╗████████╗
 # ██╔═══██╗██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝
 # ██║   ██║██████╔╝██║   ██║      ██║   ██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║   ██║   

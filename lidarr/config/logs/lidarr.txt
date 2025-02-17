@@ -3035,3 +3035,1039 @@
 2025-02-16 04:23:00.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2025-02-16 04:23:00.3|Info|DownloadDecisionMaker|No results found
 2025-02-16 04:23:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:36:11.8|Info|RootFolderWatchingService|Watching directory /data/musicfolder/
+2025-02-16 04:36:12.0|Info|DiskScanService|Scanning /data/musicfolder/
+2025-02-16 04:36:12.0|Warn|DiskScanService|Scan folder /data/musicfolder/ is empty.
+2025-02-16 04:36:12.0|Info|TrackGroupingService|Grouping 0 tracks
+2025-02-16 04:36:12.1|Info|ImportApprovedTracks|Importing 0 tracks
+2025-02-16 04:36:20.6|Info|AddArtistService|Adding Artist [20244d07-534f-4eff-b4d4-930878889970][Taylor Swift] Path: [/data/musicfolder/Taylor Swift]
+2025-02-16 04:36:20.7|Info|RefreshArtistService|Updating Info for Taylor Swift
+2025-02-16 04:36:21.0|Info|RefreshAlbumService|Updating Info for Fearless
+2025-02-16 04:36:22.7|Info|MediaCoverService|Downloading Cover for [63eba062-847c-3b73-8b0f-6baf27bba6fa][Fearless] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-569c780403689.jpg
+2025-02-16 04:36:26.0|Warn|MediaCoverMapper|File /config/MediaCover/1/poster.jpg not found
+2025-02-16 04:36:27.7|Warn|MediaCoverMapper|File /config/MediaCover/1/fanart.jpg not found
+2025-02-16 04:36:28.1|Info|RefreshAlbumService|Updating Info for evermore
+2025-02-16 04:36:29.0|Info|MediaCoverService|Downloading Cover for [e86d6219-f5a2-4edd-bf2b-3f9eab190ae0][evermore] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/evermore-5fdae2a88cb10.jpg
+2025-02-16 04:36:29.5|Info|ReleaseSearchService|Searching indexers for [Taylor Swift]. 0 active indexers
+2025-02-16 04:36:29.5|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:36:32.4|Info|ReleaseSearchService|Searching indexers for [Taylor Swift]. 0 active indexers
+2025-02-16 04:36:32.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:36:32.4|Info|ArtistSearchService|Artist search completed. 0 reports downloaded.
+2025-02-16 04:36:36.7|Info|RefreshAlbumService|Updating Info for Speak Now
+2025-02-16 04:36:37.8|Info|MediaCoverService|Downloading Cover for [ba1259eb-d41e-41c5-a70c-0e6fa73e6708][Speak Now] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now-522f1cae0478b.jpg
+2025-02-16 04:36:42.1|Info|RefreshAlbumService|Updating Info for reputation
+2025-02-16 04:36:42.9|Info|MediaCoverService|Downloading Cover for [f060c8fd-bec9-426e-800e-8efc040a71e6][reputation] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/reputation-59b3286c31ad2.jpg
+2025-02-16 04:36:48.8|Info|RefreshAlbumService|Updating Info for Lover
+2025-02-16 04:36:49.9|Info|MediaCoverService|Downloading Cover for [30e9785b-7b50-4d29-b3d1-96fb55e3397f][Lover] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/lover-5d02e29a4c58b.jpg
+2025-02-16 04:36:52.7|Info|RefreshAlbumService|Updating Info for Taylor Swift
+2025-02-16 04:36:53.7|Info|MediaCoverService|Downloading Cover for [ba1d0c2a-bb07-38bc-835c-a880f76f1309][Taylor Swift] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/taylor-swift-4de3ec834dbbb.jpg
+2025-02-16 04:36:56.5|Info|RefreshAlbumService|Updating Info for 1989
+2025-02-16 04:36:57.5|Info|MediaCoverService|Downloading Cover for [4d9ec1c2-58ec-48a4-aa0a-916718adead0][1989] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-5402d86e58add.jpg
+2025-02-16 04:37:02.6|Info|RefreshAlbumService|Updating Info for Midnights
+2025-02-16 04:37:04.9|Info|MediaCoverService|Downloading Cover for [0dcc84fb-c592-46e9-ba92-a52bb44dd553][Midnights] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/midnights-645944a8749ff.jpg
+2025-02-16 04:37:12.1|Info|RefreshAlbumService|Updating Info for folklore
+2025-02-16 04:37:14.2|Info|MediaCoverService|Downloading Cover for [f1d08326-c23b-4b43-be3b-20b33ab10bf6][folklore] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-5f19957d62e40.jpg
+2025-02-16 04:37:19.8|Info|RefreshAlbumService|Updating Info for Red
+2025-02-16 04:37:21.0|Info|MediaCoverService|Downloading Cover for [a73cecde-0923-40ad-aad1-e8c24ba6c3d2][Red] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-50876c4be3c43.jpg
+2025-02-16 04:37:27.7|Info|RefreshAlbumService|Updating Info for THE TORTURED POETS DEPARTMENT
+2025-02-16 04:37:28.7|Info|MediaCoverService|Downloading Cover for [71c3eed6-466c-4aef-ad12-65a36d19467a][THE TORTURED POETS DEPARTMENT] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-tortured-poets-department-6623ba03ed088.jpg
+2025-02-16 04:37:34.9|Info|RefreshAlbumService|Updating Info for Speak Now (Taylor’s version)
+2025-02-16 04:37:35.8|Info|MediaCoverService|Downloading Cover for [0441b1b2-de57-4a9a-b007-1f6e159921d5][Speak Now (Taylor’s version)] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now-taylors-version-648868032bb64.jpg
+2025-02-16 04:37:39.2|Info|RefreshAlbumService|Updating Info for Taylor Swift (Taylor’s version)
+2025-02-16 04:37:39.7|Info|RefreshAlbumService|Updating Info for Red (Taylor’s version)
+2025-02-16 04:37:41.6|Info|MediaCoverService|Downloading Cover for [67727253-f1c0-4243-9270-f9f1401c3b8c][Red (Taylor’s version)] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-taylors-version-60d0265173a99.jpg
+2025-02-16 04:37:46.5|Info|RefreshAlbumService|Updating Info for 1989 (Taylor’s version)
+2025-02-16 04:37:47.3|Info|MediaCoverService|Downloading Cover for [1c4770b3-b7a3-4d44-a7a9-8e2dbb74b85a][1989 (Taylor’s version)] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-taylors-version-653d42c209a30.jpg
+2025-02-16 04:37:52.8|Info|RefreshAlbumService|Updating Info for reputation (Taylor’s version)
+2025-02-16 04:37:53.5|Info|RefreshAlbumService|Updating Info for Fearless (Taylor’s version)
+2025-02-16 04:37:55.2|Info|MediaCoverService|Downloading Cover for [d2e4838d-90e1-471c-bda0-fd816dabb2d4][Fearless (Taylor’s version)] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-taylors-version-607432835a24f.jpg
+2025-02-16 04:37:58.4|Warn|DiskScanService|Artists' root folder (/data/musicfolder/) is empty.
+2025-02-16 04:37:58.4|Info|ArtistScannedHandler|[Taylor Swift] was recently added, performing post-add actions
+2025-02-16 04:37:58.7|Info|MediaCoverService|Downloading Banner for [20244d07-534f-4eff-b4d4-930878889970][Taylor Swift] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/musicbanner/swift-taylor-50779aae5d3af.jpg
+2025-02-16 04:37:59.8|Info|MediaCoverService|Downloading Fanart for [20244d07-534f-4eff-b4d4-930878889970][Taylor Swift] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d039358bb4ce.jpg
+2025-02-16 04:38:01.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:38:01.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 04:38:01.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:38:01.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 04:38:01.6|Info|MediaCoverService|Downloading Clearlogo for [20244d07-534f-4eff-b4d4-930878889970][Taylor Swift] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/hdmusiclogo/swift-taylor-50779a9bd40e6.png
+2025-02-16 04:38:02.3|Info|MediaCoverService|Downloading Poster for [20244d07-534f-4eff-b4d4-930878889970][Taylor Swift] http://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2d08f329c8.jpg
+2025-02-16 04:38:09.5|Info|MetadataService|Artist folder does not exist, skipping metadata image creation
+2025-02-16 04:53:05.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 04:53:05.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 04:53:05.4|Info|DownloadDecisionMaker|No results found
+2025-02-16 04:53:05.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 05:08:09.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:08:09.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 05:08:09.2|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:08:09.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 05:17:38.1|Info|ReleaseSearchService|Searching indexers for [Taylor Swift - 1989 (Taylor’s version) (2023)]. 0 active indexers
+2025-02-16 05:17:38.1|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:17:38.1|Info|AlbumSearchService|Album search completed. 0 reports downloaded.
+2025-02-16 05:17:59.5|Info|ReleaseSearchService|Searching indexers for [Taylor Swift - Midnights (2022)]. 0 active indexers
+2025-02-16 05:17:59.5|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:17:59.5|Info|AlbumSearchService|Album search completed. 0 reports downloaded.
+2025-02-16 05:18:11.0|Info|ReleaseSearchService|Searching indexers for [Taylor Swift - THE TORTURED POETS DEPARTMENT (2024)]. 0 active indexers
+2025-02-16 05:18:11.0|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:18:11.0|Info|AlbumSearchService|Album search completed. 0 reports downloaded.
+2025-02-16 05:18:14.2|Info|ReleaseSearchService|Searching indexers for [Taylor Swift - THE TORTURED POETS DEPARTMENT (2024)]. 0 active indexers
+2025-02-16 05:18:14.2|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:18:14.2|Info|AlbumSearchService|Album search completed. 0 reports downloaded.
+2025-02-16 05:18:14.2|Info|ReleaseSearchService|Searching indexers for [Taylor Swift - 1989 (Taylor’s version) (2023)]. 0 active indexers
+2025-02-16 05:18:14.2|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:18:14.2|Info|AlbumSearchService|Album search completed. 0 reports downloaded.
+2025-02-16 05:19:19.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 05:19:19.6|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 05:19:29.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 05:19:29.7|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 05:23:10.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:23:10.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 05:23:10.5|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:23:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 05:38:12.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:38:12.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 05:38:12.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:38:12.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 05:53:13.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 05:53:13.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 05:53:13.8|Info|DownloadDecisionMaker|No results found
+2025-02-16 05:53:13.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 06:08:17.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:08:17.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 06:08:17.3|Info|DownloadDecisionMaker|No results found
+2025-02-16 06:08:17.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 06:23:17.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:23:17.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 06:23:17.7|Info|DownloadDecisionMaker|No results found
+2025-02-16 06:23:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 06:38:18.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:38:18.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 06:38:18.8|Info|DownloadDecisionMaker|No results found
+2025-02-16 06:38:18.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 06:53:19.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 06:53:19.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-02-16 06:53:19.9|Info|DownloadDecisionMaker|No results found
+2025-02-16 06:53:20.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-16 07:07:42.3|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 07:07:42.4|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 07:07:52.2|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method220(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 07:07:52.3|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 07:08:20.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:08:40.3|Info|DownloadDecisionMaker|Processing 183 releases
+2025-02-16 07:08:41.5|Info|RssSyncService|RSS Sync Completed. Reports found: 183, Reports grabbed: 0
+2025-02-16 07:23:51.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:23:52.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:50:50 and 02/16/2025 05:50:50 UTC. Search may be required.
+2025-02-16 07:24:04.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 03:08:40 and 02/16/2025 03:23:55 UTC. Search may be required.
+2025-02-16 07:24:04.8|Info|DownloadDecisionMaker|Processing 183 releases
+2025-02-16 07:24:05.2|Info|RssSyncService|RSS Sync Completed. Reports found: 183, Reports grabbed: 0
+2025-02-16 07:39:22.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:39:23.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:50:50 and 02/16/2025 05:50:50 UTC. Search may be required.
+2025-02-16 07:39:31.9|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 03:24:04 and 02/16/2025 04:39:24 UTC. Search may be required.
+2025-02-16 07:39:31.9|Info|DownloadDecisionMaker|Processing 121 releases
+2025-02-16 07:39:32.2|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2025-02-16 07:54:52.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 07:54:53.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:50:50 and 02/16/2025 05:50:50 UTC. Search may be required.
+2025-02-16 07:55:03.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 04:39:25 and 02/16/2025 04:54:54 UTC. Search may be required.
+2025-02-16 07:55:03.8|Info|DownloadDecisionMaker|Processing 121 releases
+2025-02-16 07:55:03.9|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2025-02-16 08:10:21.1|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 2.9.6.4552
+2025-02-16 08:10:21.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-16 08:10:22.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-16 08:10:25.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-16 08:10:26.8|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-16 08:10:27.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-16 08:10:27.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-16 08:10:27.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-16 08:10:27.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-16 08:10:27.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.360561s
+2025-02-16 08:10:27.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-16 08:10:27.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3798846s
+2025-02-16 08:10:28.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-16 08:10:28.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-16 08:10:28.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-16 08:10:28.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-16 08:10:28.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-16 08:10:28.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0671118s
+2025-02-16 08:10:28.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-16 08:10:28.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0719158s
+2025-02-16 08:10:30.7|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-02-16 08:10:33.5|Info|RootFolderWatchingService|Watching directory /data/musicfolder/
+2025-02-16 08:10:36.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-16 08:10:36.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-16 08:10:36.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-02-16 08:10:36.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-16 08:11:03.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:11:04.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:50:50 and 02/16/2025 05:50:50 UTC. Search may be required.
+2025-02-16 08:11:17.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 04:54:55 and 02/16/2025 05:11:06 UTC. Search may be required.
+2025-02-16 08:11:17.1|Info|DownloadDecisionMaker|Processing 121 releases
+2025-02-16 08:11:18.0|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2025-02-16 08:26:35.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:26:35.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:50:50 and 02/16/2025 05:50:50 UTC. Search may be required.
+2025-02-16 08:26:51.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:11:09 and 02/16/2025 05:26:38 UTC. Search may be required.
+2025-02-16 08:26:51.5|Info|DownloadDecisionMaker|Processing 126 releases
+2025-02-16 08:26:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 126, Reports grabbed: 0
+2025-02-16 08:42:06.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:42:16.3|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:26:42 and 02/16/2025 05:42:09 UTC. Search may be required.
+2025-02-16 08:42:16.3|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 08:42:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 08:57:37.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 08:57:45.0|Warn|Torznab|Indexer 1337x (Prowlarr) rss sync didn't cover the period between 02/16/2025 04:09:00 and 02/16/2025 04:09:00 UTC. Search may be required.
+2025-02-16 08:57:47.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:42:11 and 02/16/2025 05:57:40 UTC. Search may be required.
+2025-02-16 08:57:47.1|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 08:57:47.3|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 09:13:08.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:13:22.4|Warn|Torznab|Indexer 1337x (Prowlarr) rss sync didn't cover the period between 02/16/2025 04:09:00 and 02/16/2025 04:09:00 UTC. Search may be required.
+2025-02-16 09:13:24.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 05:57:41 and 02/16/2025 06:13:11 UTC. Search may be required.
+2025-02-16 09:13:24.8|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 09:13:25.1|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 09:28:39.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:28:49.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:13:14 and 02/16/2025 06:28:41 UTC. Search may be required.
+2025-02-16 09:28:50.8|Warn|Torznab|Indexer 1337x (Prowlarr) rss sync didn't cover the period between 02/16/2025 04:09:00 and 02/16/2025 04:09:00 UTC. Search may be required.
+2025-02-16 09:28:50.8|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 09:28:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 09:44:10.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 09:44:20.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:28:43 and 02/16/2025 06:44:12 UTC. Search may be required.
+2025-02-16 09:44:47.3|Warn|Torznab|Indexer 1337x (Prowlarr) rss sync didn't cover the period between 02/16/2025 04:09:00 and 02/16/2025 04:09:00 UTC. Search may be required.
+2025-02-16 09:44:47.3|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 09:44:47.5|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 10:00:13.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:00:26.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 06:44:14 and 02/16/2025 07:00:15 UTC. Search may be required.
+2025-02-16 10:00:27.5|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 10:00:27.7|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 10:15:44.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:15:59.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:00:19 and 02/16/2025 07:15:45 UTC. Search may be required.
+2025-02-16 10:15:59.4|Info|DownloadDecisionMaker|Processing 146 releases
+2025-02-16 10:15:59.7|Info|RssSyncService|RSS Sync Completed. Reports found: 146, Reports grabbed: 0
+2025-02-16 10:31:14.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:31:25.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:15:50 and 02/16/2025 07:31:17 UTC. Search may be required.
+2025-02-16 10:31:25.5|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 10:31:25.7|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 10:46:45.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 10:47:02.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:31:18 and 02/16/2025 07:46:47 UTC. Search may be required.
+2025-02-16 10:47:02.1|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 10:47:02.3|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 11:02:15.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:02:26.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:46:54 and 02/16/2025 08:02:18 UTC. Search may be required.
+2025-02-16 11:02:26.5|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 11:02:26.6|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 11:17:46.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:17:57.2|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:02:18 and 02/16/2025 08:17:48 UTC. Search may be required.
+2025-02-16 11:17:57.3|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 11:17:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 11:33:16.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:33:28.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:17:49 and 02/16/2025 08:33:19 UTC. Search may be required.
+2025-02-16 11:33:28.6|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 11:33:28.8|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 11:48:47.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 11:48:56.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:33:21 and 02/16/2025 08:48:48 UTC. Search may be required.
+2025-02-16 11:48:56.1|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 11:48:56.3|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 12:04:17.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:04:29.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 08:48:50 and 02/16/2025 09:04:21 UTC. Search may be required.
+2025-02-16 12:04:29.8|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 12:04:30.0|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 12:19:37.1|Info|ReleaseSearchService|Searching indexers for [Taylor Swift]. 4 active indexers
+2025-02-16 12:19:48.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:20:02.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:04:24 and 02/16/2025 09:19:49 UTC. Search may be required.
+2025-02-16 12:20:02.7|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-16 12:20:02.9|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-16 12:20:06.8|Info|AddArtistService|Adding Artist [854a1807-025b-42a8-ba8c-2a39717f1d25][Breaking Benjamin] Path: [/data/musicfolder/Breaking Benjamin]
+2025-02-16 12:20:06.9|Info|RefreshArtistService|Updating Info for Breaking Benjamin
+2025-02-16 12:20:07.0|Info|RefreshAlbumService|Updating Info for Saturate
+2025-02-16 12:20:08.1|Info|MediaCoverService|Downloading Cover for [5a4bfa4c-1baa-39fa-ac93-c0063cc60b7f][Saturate] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/saturate-4ec8ac9a3dee1.jpg
+2025-02-16 12:20:10.1|Info|RefreshAlbumService|Updating Info for Ember
+2025-02-16 12:20:10.8|Info|MediaCoverService|Downloading Cover for [a244bf4a-6f86-4edc-b441-8c5cd396ecf4][Ember] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/ember-5e2b860018d49.jpg
+2025-02-16 12:20:11.6|Info|RefreshAlbumService|Updating Info for Phobia
+2025-02-16 12:20:11.9|Warn|MediaCoverMapper|File /config/MediaCover/2/poster.jpg not found
+2025-02-16 12:20:12.4|Info|MediaCoverService|Downloading Cover for [79f338ee-d67c-3845-945c-1fd2e03e8f1b][Phobia] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/phobia-539dfec457cee.jpg
+2025-02-16 12:20:13.6|Info|RefreshAlbumService|Updating Info for Dark Before Dawn
+2025-02-16 12:20:14.3|Info|MediaCoverService|Downloading Cover for [a6fd8cb6-a2d5-4702-8f12-6bf95a67dcba][Dark Before Dawn] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/dark-before-dawn-61c35929c8a44.jpg
+2025-02-16 12:20:15.5|Info|RefreshAlbumService|Updating Info for Dear Agony
+2025-02-16 12:20:16.1|Info|MediaCoverService|Downloading Cover for [984dc287-6af5-458f-80be-4ae6b47147d7][Dear Agony] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/dear-agony-5e36516ae0897.jpg
+2025-02-16 12:20:17.0|Info|RefreshAlbumService|Updating Info for We Are Not Alone
+2025-02-16 12:20:17.7|Info|MediaCoverService|Downloading Cover for [9a03d313-0580-3f71-ae10-0e0996db3faa][We Are Not Alone] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/we-are-not-alone-4ec8ac9a5cef9.jpg
+2025-02-16 12:20:18.8|Info|RefreshAlbumService|Updating Info for Aurora
+2025-02-16 12:20:19.5|Info|MediaCoverService|Downloading Cover for [1181d5d3-0a7c-477e-8020-089e7004ae16][Aurora] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/albumcover/aurora-5e2b16721578a.jpg
+2025-02-16 12:20:20.8|Warn|DiskScanService|Artists' root folder (/data/musicfolder/) is empty.
+2025-02-16 12:20:20.8|Info|ArtistScannedHandler|[Breaking Benjamin] was recently added, performing post-add actions
+2025-02-16 12:20:21.1|Info|MediaCoverService|Downloading Banner for [854a1807-025b-42a8-ba8c-2a39717f1d25][Breaking Benjamin] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/musicbanner/breaking-benjamin-541de9ea93f26.jpg
+2025-02-16 12:20:21.7|Info|MediaCoverService|Downloading Fanart for [854a1807-025b-42a8-ba8c-2a39717f1d25][Breaking Benjamin] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/artistbackground/breaking-benjamin-4ec98566007dd.jpg
+2025-02-16 12:20:22.4|Info|MediaCoverService|Downloading Clearlogo for [854a1807-025b-42a8-ba8c-2a39717f1d25][Breaking Benjamin] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/hdmusiclogo/breaking-benjamin-53fdd4bceca59.png
+2025-02-16 12:20:23.0|Info|MediaCoverService|Downloading Poster for [854a1807-025b-42a8-ba8c-2a39717f1d25][Breaking Benjamin] http://assets.fanart.tv/fanart/music/854a1807-025b-42a8-ba8c-2a39717f1d25/artistthumb/breaking-benjamin-4fcbd6535b0ad.jpg
+2025-02-16 12:20:26.7|Info|MetadataService|Artist folder does not exist, skipping metadata image creation
+2025-02-16 12:20:33.0|Info|DownloadDecisionMaker|Processing 286 releases
+2025-02-16 12:20:47.4|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - THE TORTURED POETS DEPARTMENT (Deluxe) (2024)  24Bit-48kHz   FLAC  PMEDIA  ⭐️
+2025-02-16 12:20:52.8|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - Midnights (The Til Dawn Edition) (2023)  24Bit-48kHz  FLAC  PMEDIA  ⭐️
+2025-02-16 12:20:55.7|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - 1989 (Taylor's Version) (Deluxe) (2023)  24Bit-48kHz  FLAC  PMEDIA  ⭐️
+2025-02-16 12:21:03.6|Info|DownloadService|Report sent to qBittorrent from indexer 1337x (Prowlarr). Taylor Swift   THE TORTURED POETS DEPARTMENT THE ANTHOLOGY (2024) [24Bit 48kHz] FLAC [PMEDIA] ⭐️
+2025-02-16 12:21:14.1|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - reputation (2017 Pop)  Flac 24-44
+2025-02-16 12:21:23.1|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - Fearless (Platinum Edition) (2009 Pop)  Flac 16-44
+2025-02-16 12:21:25.7|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - Lover (Live from Paris) (2023)  24Bit-48kHz  FLAC  PMEDIA  ⭐️
+2025-02-16 12:21:35.8|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - Taylor Swift (2006 Country)  Flac 16-44
+2025-02-16 12:21:36.3|Info|DownloadService|Report sent to qBittorrent from indexer The Pirate Bay (Prowlarr). Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️
+2025-02-16 12:21:38.2|Info|DownloadService|Report sent to qBittorrent from indexer The Pirate Bay (Prowlarr). Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album
+2025-02-16 12:21:40.9|Info|AddArtistService|Adding Artist [e0bba708-bdd3-478d-84ea-c706413bedab][A. R. Rahman] Path: [/data/musicfolder/A. R. Rahman]
+2025-02-16 12:21:41.0|Info|RefreshArtistService|Updating Info for A. R. Rahman
+2025-02-16 12:21:41.1|Info|RefreshAlbumService|Updating Info for One Love
+2025-02-16 12:21:41.5|Info|RefreshAlbumService|Updating Info for Vande Mātaram
+2025-02-16 12:21:42.3|Info|DownloadService|Report sent to qBittorrent from indexer kickasstorrents.to (Prowlarr). Taylor Swift - Speak Now (Taylor's Version) (2023)  24Bit-44 1kHz  FLAC  PMEDIA  ⭐️
+2025-02-16 12:21:42.6|Info|ArtistSearchService|Artist search completed. 11 reports downloaded.
+2025-02-16 12:21:42.6|Info|MediaCoverService|Downloading Cover for [9f7a57ff-4bd5-3aca-9efd-160f32b60021][Vande Mātaram] http://assets.fanart.tv/fanart/music/e0bba708-bdd3-478d-84ea-c706413bedab/albumcover/vande-mtaram-4e43d3da5cd8a.jpg
+2025-02-16 12:21:44.4|Info|RefreshAlbumService|Updating Info for Set Me Free
+2025-02-16 12:21:45.2|Info|MediaCoverService|Downloading Cover for [73e1249b-641d-4121-bfe1-57d45bfc90dd][Set Me Free] https://imagecache.lidarr.audio/v1/caa/40e28e3b-4d92-4d9a-9e80-127086ba8d37/37275546617-1200.jpg
+2025-02-16 12:21:45.3|Info|RefreshAlbumService|Updating Info for Connections
+2025-02-16 12:21:46.1|Info|MediaCoverService|Downloading Cover for [5d33e92a-5994-4c23-ad1f-13feac0b5112][Connections] https://imagecache.lidarr.audio/v1/caa/da0bf459-0cc1-4784-bd61-f0bc4f36e267/13946372397-1200.jpg
+2025-02-16 12:21:46.3|Info|RefreshAlbumService|Updating Info for Raunaq
+2025-02-16 12:21:47.0|Info|MediaCoverService|Downloading Cover for [20ec1edd-195e-48b4-80bf-dff2cc1e67fc][Raunaq] https://imagecache.lidarr.audio/v1/caa/095bedad-a605-438c-b29f-e7d4a8c5dc08/9964894477-1200.jpg
+2025-02-16 12:21:47.2|Info|RefreshAlbumService|Updating Info for Fantasy (Andhi Malai)
+2025-02-16 12:21:47.7|Warn|DiskScanService|Artists' root folder (/data/musicfolder/) is empty.
+2025-02-16 12:21:47.8|Info|ArtistScannedHandler|[A. R. Rahman] was recently added, performing post-add actions
+2025-02-16 12:21:48.0|Info|MediaCoverService|Downloading Banner for [e0bba708-bdd3-478d-84ea-c706413bedab][A. R. Rahman] http://assets.fanart.tv/fanart/music/e0bba708-bdd3-478d-84ea-c706413bedab/musicbanner/rahman-a-r-505b2b404a4b3.jpg
+2025-02-16 12:21:49.3|Info|MediaCoverService|Downloading Fanart for [e0bba708-bdd3-478d-84ea-c706413bedab][A. R. Rahman] http://assets.fanart.tv/fanart/music/e0bba708-bdd3-478d-84ea-c706413bedab/artistbackground/rahman-a-r-51c1f5d183a5b.jpg
+2025-02-16 12:21:50.8|Info|MediaCoverService|Downloading Clearlogo for [e0bba708-bdd3-478d-84ea-c706413bedab][A. R. Rahman] http://assets.fanart.tv/fanart/music/e0bba708-bdd3-478d-84ea-c706413bedab/hdmusiclogo/rahman-a-r-503e90ca2e33c.png
+2025-02-16 12:21:51.5|Info|MediaCoverService|Downloading Poster for [e0bba708-bdd3-478d-84ea-c706413bedab][A. R. Rahman] http://assets.fanart.tv/fanart/music/e0bba708-bdd3-478d-84ea-c706413bedab/artistthumb/rahman-a-r-5430544ab3d49.jpg
+2025-02-16 12:21:52.5|Info|MetadataService|Artist folder does not exist, skipping metadata image creation
+2025-02-16 12:22:31.9|Info|AddArtistService|Adding Artist [7f77bfe2-ce93-40ca-a72e-21de63ca5d26][Papon] Path: [/data/musicfolder/Papon]
+2025-02-16 12:22:32.0|Info|RefreshArtistService|Updating Info for Papon
+2025-02-16 12:22:32.1|Info|RefreshAlbumService|Updating Info for The Story So Far
+2025-02-16 12:22:32.5|Info|RefreshAlbumService|Updating Info for Jonaki Raati
+2025-02-16 12:22:32.9|Info|RefreshAlbumService|Updating Info for Sinaaki Osinaaki
+2025-02-16 12:22:33.4|Info|RefreshAlbumService|Updating Info for Dhulir Akash
+2025-02-16 12:22:33.9|Info|RefreshAlbumService|Updating Info for Very Best of Coke Studio Vol. 2
+2025-02-16 12:22:34.4|Warn|DiskScanService|Artists' root folder (/data/musicfolder/) is empty.
+2025-02-16 12:22:34.4|Info|ArtistScannedHandler|[Papon] was recently added, performing post-add actions
+2025-02-16 12:35:18.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:35:19.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 07:02:02 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 12:35:36.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:19:53 and 02/16/2025 09:35:22 UTC. Search may be required.
+2025-02-16 12:35:36.8|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 12:35:36.9|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 12:50:49.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 12:50:49.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 12:51:03.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:35:23 and 02/16/2025 09:50:51 UTC. Search may be required.
+2025-02-16 12:51:03.8|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 12:51:04.0|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 13:06:20.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:06:20.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 13:06:45.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 09:50:54 and 02/16/2025 10:06:25 UTC. Search may be required.
+2025-02-16 13:06:45.7|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 13:06:46.0|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 13:09:15.7|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method96(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 13:09:15.9|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 13:09:33.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method96(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 13:09:33.9|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 13:21:50.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:21:50.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 13:22:13.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:06:30 and 02/16/2025 10:21:55 UTC. Search may be required.
+2025-02-16 13:22:13.0|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 13:22:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 13:37:20.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:37:21.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 13:37:53.3|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:21:59 and 02/16/2025 10:37:28 UTC. Search may be required.
+2025-02-16 13:37:53.3|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 13:37:53.4|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 13:53:21.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 13:53:22.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 13:54:10.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:37:33 and 02/16/2025 10:53:26 UTC. Search may be required.
+2025-02-16 13:54:10.5|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 13:54:10.6|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 14:09:22.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:09:22.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 10:55:16 UTC. Search may be required.
+2025-02-16 14:09:48.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:53:47 and 02/16/2025 11:09:27 UTC. Search may be required.
+2025-02-16 14:09:48.4|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 14:09:48.6|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 14:24:52.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:24:53.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 10:55:16 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 14:26:20.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:09:32 and 02/16/2025 11:24:58 UTC. Search may be required.
+2025-02-16 14:26:20.4|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 14:26:20.5|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 14:41:22.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:41:23.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 14:41:58.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:26:00 and 02/16/2025 11:41:32 UTC. Search may be required.
+2025-02-16 14:41:58.9|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 14:41:59.0|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 14:57:23.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 14:57:24.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 14:58:09.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:41:37 and 02/16/2025 11:57:43 UTC. Search may be required.
+2025-02-16 14:58:09.0|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 14:58:09.2|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 15:13:24.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 15:13:24.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 15:14:01.6|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 11:57:50 and 02/16/2025 12:13:32 UTC. Search may be required.
+2025-02-16 15:14:01.6|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 15:14:01.8|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 15:29:24.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 15:29:25.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 15:30:00.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 12:13:38 and 02/16/2025 12:29:31 UTC. Search may be required.
+2025-02-16 15:30:00.8|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 15:30:01.0|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 15:45:25.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 15:45:25.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 15:47:05.2|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 15:47:05.2|Info|DownloadDecisionMaker|Processing 121 releases
+2025-02-16 15:47:05.3|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2025-02-16 16:02:25.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:02:26.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 13:25:24 UTC. Search may be required.
+2025-02-16 16:03:09.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 12:29:37 and 02/16/2025 13:02:46 UTC. Search may be required.
+2025-02-16 16:03:09.2|Info|DownloadDecisionMaker|Processing 141 releases
+2025-02-16 16:03:09.3|Info|RssSyncService|RSS Sync Completed. Reports found: 141, Reports grabbed: 0
+2025-02-16 16:18:26.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:18:27.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:25:24 and 02/16/2025 14:15:17 UTC. Search may be required.
+2025-02-16 16:18:27.3|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 16:19:27 due to recent failures." />
+2025-02-16 16:18:27.4|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 16:20:06.4|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 16:20:06.4|Info|DownloadDecisionMaker|Processing 25 releases
+2025-02-16 16:20:06.4|Info|RssSyncService|RSS Sync Completed. Reports found: 25, Reports grabbed: 0
+2025-02-16 16:35:26.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:37:06.9|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 16:37:06.9|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 16:37:07.0|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 16:52:27.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 16:54:07.4|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 16:54:07.4|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 16:54:07.5|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 17:09:27.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:10:12.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 13:02:50 and 02/16/2025 14:09:35 UTC. Search may be required.
+2025-02-16 17:10:12.7|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 17:10:12.9|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 17:25:28.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:26:03.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:09:55 and 02/16/2025 14:25:39 UTC. Search may be required.
+2025-02-16 17:26:03.1|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 17:26:03.3|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 17:41:28.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:41:30.3|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 17:42:30 due to recent failures." />
+2025-02-16 17:41:30.3|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 17:42:01.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:25:46 and 02/16/2025 14:41:34 UTC. Search may be required.
+2025-02-16 17:42:01.8|Info|DownloadDecisionMaker|Processing 45 releases
+2025-02-16 17:42:01.9|Info|RssSyncService|RSS Sync Completed. Reports found: 45, Reports grabbed: 0
+2025-02-16 17:57:29.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 17:58:01.9|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:41:39 and 02/16/2025 14:57:34 UTC. Search may be required.
+2025-02-16 17:58:01.9|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 17:58:02.1|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 18:13:29.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:13:30.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 18:14:30 due to recent failures." />
+2025-02-16 18:13:30.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 18:14:03.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 14:57:40 and 02/16/2025 15:13:35 UTC. Search may be required.
+2025-02-16 18:14:03.9|Info|DownloadDecisionMaker|Processing 45 releases
+2025-02-16 18:14:04.0|Info|RssSyncService|RSS Sync Completed. Reports found: 45, Reports grabbed: 0
+2025-02-16 18:29:29.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:29:31.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 18:30:31 due to recent failures." />
+2025-02-16 18:29:31.2|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 18:30:01.8|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:13:40 and 02/16/2025 15:29:36 UTC. Search may be required.
+2025-02-16 18:30:01.8|Info|DownloadDecisionMaker|Processing 45 releases
+2025-02-16 18:30:01.9|Info|RssSyncService|RSS Sync Completed. Reports found: 45, Reports grabbed: 0
+2025-02-16 18:45:30.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 18:46:13.6|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:29:44 and 02/16/2025 15:45:36 UTC. Search may be required.
+2025-02-16 18:46:13.7|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 18:46:13.8|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 19:01:30.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:01:31.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 19:02:31 due to recent failures." />
+2025-02-16 19:01:31.7|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 19:02:29.9|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:45:49 and 02/16/2025 16:01:43 UTC. Search may be required.
+2025-02-16 19:02:29.9|Info|DownloadDecisionMaker|Processing 45 releases
+2025-02-16 19:02:30.1|Info|RssSyncService|RSS Sync Completed. Reports found: 45, Reports grabbed: 0
+2025-02-16 19:11:52.4|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method96(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 19:11:52.5|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 19:12:02.4|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method96(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-16 19:12:02.5|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-16 19:17:31.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:18:10.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:01:51 and 02/16/2025 16:17:38 UTC. Search may be required.
+2025-02-16 19:18:10.5|Info|DownloadDecisionMaker|Processing 145 releases
+2025-02-16 19:18:10.7|Info|RssSyncService|RSS Sync Completed. Reports found: 145, Reports grabbed: 0
+2025-02-16 19:33:31.8|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:35:11.8|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 19:35:11.9|Info|DownloadDecisionMaker|Processing 125 releases
+2025-02-16 19:35:12.0|Info|RssSyncService|RSS Sync Completed. Reports found: 125, Reports grabbed: 0
+2025-02-16 19:50:32.2|Info|RssSyncService|Starting RSS Sync
+2025-02-16 19:50:32.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/16/2025 15:52:40 and 02/16/2025 17:42:57 UTC. Search may be required.
+2025-02-16 19:51:36.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:17:51 and 02/16/2025 16:51:09 UTC. Search may be required.
+2025-02-16 19:51:36.1|Info|DownloadDecisionMaker|Processing 142 releases
+2025-02-16 19:51:36.3|Info|RssSyncService|RSS Sync Completed. Reports found: 142, Reports grabbed: 0
+2025-02-16 20:07:02.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:07:04.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 20:08:04 due to recent failures." />
+2025-02-16 20:07:04.2|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-16 20:07:32.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 16:51:17 and 02/16/2025 17:07:08 UTC. Search may be required.
+2025-02-16 20:07:32.0|Info|DownloadDecisionMaker|Processing 42 releases
+2025-02-16 20:07:32.1|Info|RssSyncService|RSS Sync Completed. Reports found: 42, Reports grabbed: 0
+2025-02-16 20:22:33.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:24:13.3|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 20:24:13.3|Info|DownloadDecisionMaker|Processing 122 releases
+2025-02-16 20:24:13.4|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2025-02-16 20:39:33.7|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:40:08.9|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:07:13 and 02/16/2025 17:39:39 UTC. Search may be required.
+2025-02-16 20:40:08.9|Info|DownloadDecisionMaker|Processing 142 releases
+2025-02-16 20:40:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 142, Reports grabbed: 0
+2025-02-16 20:55:34.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 20:55:34.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 20:55:35 due to recent failures." />
+2025-02-16 20:55:34.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:00:01
+2025-02-16 20:57:09.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:39:52 and 02/16/2025 17:55:40 UTC. Search may be required.
+2025-02-16 20:57:09.8|Info|DownloadDecisionMaker|Processing 42 releases
+2025-02-16 20:57:09.9|Info|RssSyncService|RSS Sync Completed. Reports found: 42, Reports grabbed: 0
+2025-02-16 21:12:35.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:13:09.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 17:55:46 and 02/16/2025 18:12:42 UTC. Search may be required.
+2025-02-16 21:13:09.6|Info|DownloadDecisionMaker|Processing 142 releases
+2025-02-16 21:13:09.7|Info|RssSyncService|RSS Sync Completed. Reports found: 142, Reports grabbed: 0
+2025-02-16 21:28:35.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:28:35.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 21:30:43 due to recent failures." />
+2025-02-16 21:28:36.0|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:02:08
+2025-02-16 21:29:23.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:12:48 and 02/16/2025 18:28:42 UTC. Search may be required.
+2025-02-16 21:29:23.4|Info|DownloadDecisionMaker|Processing 42 releases
+2025-02-16 21:29:23.5|Info|RssSyncService|RSS Sync Completed. Reports found: 42, Reports grabbed: 0
+2025-02-16 21:44:36.3|Info|RssSyncService|Starting RSS Sync
+2025-02-16 21:44:36.4|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 21:52:44 due to recent failures." />
+2025-02-16 21:44:36.4|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:08:08
+2025-02-16 21:46:16.4|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 21:46:16.4|Info|DownloadDecisionMaker|Processing 20 releases
+2025-02-16 21:46:16.4|Info|RssSyncService|RSS Sync Completed. Reports found: 20, Reports grabbed: 0
+2025-02-16 22:01:37.0|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:01:37.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 22:26:40 due to recent failures." />
+2025-02-16 22:01:37.1|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:25:04
+2025-02-16 22:02:20.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 18:29:03 and 02/16/2025 19:01:47 UTC. Search may be required.
+2025-02-16 22:02:20.7|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 22:02:20.8|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-16 22:17:37.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:19:17.4|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-16 22:19:17.5|Info|DownloadDecisionMaker|Processing 20 releases
+2025-02-16 22:19:17.5|Info|RssSyncService|RSS Sync Completed. Reports found: 20, Reports grabbed: 0
+2025-02-16 22:34:38.1|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:34:38.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/16/2025 23:27:44 due to recent failures." />
+2025-02-16 22:34:38.1|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:53:06
+2025-02-16 22:35:18.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:01:53 and 02/16/2025 19:34:44 UTC. Search may be required.
+2025-02-16 22:35:18.4|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 22:35:18.5|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-16 22:50:38.5|Info|RssSyncService|Starting RSS Sync
+2025-02-16 22:51:14.3|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:34:52 and 02/16/2025 19:50:52 UTC. Search may be required.
+2025-02-16 22:51:14.3|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 22:51:14.4|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-16 23:06:38.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:07:11.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 19:50:57 and 02/16/2025 20:06:46 UTC. Search may be required.
+2025-02-16 23:07:11.0|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 23:07:11.1|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-16 23:22:39.4|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:23:20.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:06:53 and 02/16/2025 20:22:56 UTC. Search may be required.
+2025-02-16 23:23:20.1|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 23:23:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-16 23:38:39.9|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:38:39.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.18.32:9696/6/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/17/2025 02:29:41 due to recent failures." />
+2025-02-16 23:38:39.9|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 02:51:02
+2025-02-16 23:39:13.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:23:01 and 02/16/2025 20:38:46 UTC. Search may be required.
+2025-02-16 23:39:13.2|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 23:39:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-16 23:54:40.6|Info|RssSyncService|Starting RSS Sync
+2025-02-16 23:55:17.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:38:53 and 02/16/2025 20:54:46 UTC. Search may be required.
+2025-02-16 23:55:17.7|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-16 23:55:17.8|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 00:10:41.1|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:11:16.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 20:55:02 and 02/16/2025 21:10:49 UTC. Search may be required.
+2025-02-17 00:11:16.7|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 00:11:16.8|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 00:26:41.6|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:27:09.0|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:10:54 and 02/16/2025 21:26:47 UTC. Search may be required.
+2025-02-17 00:27:09.0|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 00:27:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 00:42:12.1|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:42:41.7|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:26:52 and 02/16/2025 21:42:18 UTC. Search may be required.
+2025-02-17 00:42:41.7|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 00:42:41.8|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 00:57:42.8|Info|RssSyncService|Starting RSS Sync
+2025-02-17 00:59:07.4|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:42:23 and 02/16/2025 21:58:44 UTC. Search may be required.
+2025-02-17 00:59:07.4|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 00:59:07.5|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 01:07:43.2|Info|HousekeepingService|Running housecleaning tasks
+2025-02-17 01:07:43.5|Info|Database|Vacuuming Log database
+2025-02-17 01:07:43.5|Info|Database|Log database compressed
+2025-02-17 01:07:43.5|Info|Database|Vacuuming Main database
+2025-02-17 01:07:43.9|Info|Database|Main database compressed
+2025-02-17 01:07:44.1|Info|RefreshArtistService|Skipping refresh of artist: A. R. Rahman
+2025-02-17 01:07:44.1|Info|RefreshArtistService|Skipping refresh of artist: Breaking Benjamin
+2025-02-17 01:07:44.1|Info|RefreshArtistService|Skipping refresh of artist: Papon
+2025-02-17 01:07:44.1|Info|RefreshArtistService|Skipping refresh of artist: Taylor Swift
+2025-02-17 01:14:13.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:14:45.2|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:58:49 and 02/16/2025 22:14:19 UTC. Search may be required.
+2025-02-17 01:14:45.2|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 01:14:45.3|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 01:14:50.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 284
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method96(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-17 01:14:50.9|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-17 01:15:00.7|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.Test(TProviderDefinition definition, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 275
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 78
+   at lambda_method96(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-17 01:15:00.8|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-17 01:30:13.9|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:31:54.0|Warn|Torznab|kickasstorrents.to (Prowlarr) server is currently unavailable. http://192.168.18.32:9696/3/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-17 01:31:54.0|Info|DownloadDecisionMaker|Processing 20 releases
+2025-02-17 01:31:54.0|Info|RssSyncService|RSS Sync Completed. Reports found: 20, Reports grabbed: 0
+2025-02-17 01:47:14.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 01:47:46.6|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 22:14:26 and 02/16/2025 22:47:22 UTC. Search may be required.
+2025-02-17 01:47:46.6|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 01:47:46.7|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 02:03:15.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:03:44.3|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 22:47:27 and 02/16/2025 23:03:22 UTC. Search may be required.
+2025-02-17 02:03:44.3|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 02:03:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 02:18:45.8|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:19:14.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:03:28 and 02/16/2025 23:18:51 UTC. Search may be required.
+2025-02-17 02:19:14.5|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 02:19:14.6|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 02:34:16.4|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:34:27.6|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:18:57 and 02/16/2025 23:34:18 UTC. Search may be required.
+2025-02-17 02:34:27.7|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-17 02:34:27.7|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-17 02:49:47.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 02:49:53.7|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 02/16/2025 21:02:15 and 02/17/2025 01:13:29 UTC. Search may be required.
+2025-02-17 02:49:55.9|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:34:19 and 02/16/2025 23:49:48 UTC. Search may be required.
+2025-02-17 02:49:55.9|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 02:49:56.1|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 03:05:18.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:05:40.2|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/16/2025 23:49:49 and 02/17/2025 00:05:23 UTC. Search may be required.
+2025-02-17 03:05:40.2|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 03:05:40.4|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 03:20:48.6|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:21:04.2|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:05:27 and 02/17/2025 00:20:53 UTC. Search may be required.
+2025-02-17 03:21:04.2|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 03:21:04.4|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 03:36:19.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:36:49.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:20:57 and 02/17/2025 00:36:24 UTC. Search may be required.
+2025-02-17 03:36:49.6|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 03:36:49.7|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 03:52:19.8|Info|RssSyncService|Starting RSS Sync
+2025-02-17 03:52:31.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:36:28 and 02/17/2025 00:52:22 UTC. Search may be required.
+2025-02-17 03:52:31.1|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 03:52:31.4|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 04:07:50.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:08:16.3|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 00:52:24 and 02/17/2025 01:07:56 UTC. Search may be required.
+2025-02-17 04:08:16.3|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 04:08:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 04:23:21.0|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:23:34.6|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:08:02 and 02/17/2025 01:23:24 UTC. Search may be required.
+2025-02-17 04:23:34.6|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 04:23:34.8|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 04:38:51.5|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:39:14.9|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:23:27 and 02/17/2025 01:38:57 UTC. Search may be required.
+2025-02-17 04:39:14.9|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 04:39:15.1|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 04:54:22.3|Info|RssSyncService|Starting RSS Sync
+2025-02-17 04:54:34.5|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:39:01 and 02/17/2025 01:54:25 UTC. Search may be required.
+2025-02-17 04:54:34.5|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 04:54:34.7|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 05:09:52.9|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:10:03.6|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 01:54:27 and 02/17/2025 02:09:56 UTC. Search may be required.
+2025-02-17 05:10:03.6|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 05:10:03.8|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 05:25:23.4|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:25:33.1|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:09:58 and 02/17/2025 02:25:26 UTC. Search may be required.
+2025-02-17 05:25:33.1|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 05:25:33.3|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0
+2025-02-17 05:40:54.1|Info|RssSyncService|Starting RSS Sync
+2025-02-17 05:41:03.2|Warn|Torznab|Indexer kickasstorrents.to (Prowlarr) rss sync didn't cover the period between 02/17/2025 02:25:27 and 02/17/2025 02:40:55 UTC. Search may be required.
+2025-02-17 05:41:03.2|Info|DownloadDecisionMaker|Processing 140 releases
+2025-02-17 05:41:03.4|Info|RssSyncService|RSS Sync Completed. Reports found: 140, Reports grabbed: 0

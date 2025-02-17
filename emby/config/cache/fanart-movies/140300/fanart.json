@@ -1,0 +1,375 @@
+{
+    "name": "Kung Fu Panda 3",
+    "tmdb_id": "140300",
+    "imdb_id": "tt2267968",
+    "hdmovielogo": [
+        {
+            "id": "111747",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovielogo/kung-fu-panda-3-557f2fb16bf90.png",
+            "lang": "en",
+            "likes": "13"
+        },
+        {
+            "id": "131021",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovielogo/kung-fu-panda-3-566f420ea9fca.png",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "121993",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovielogo/kung-fu-panda-3-55fe763313154.png",
+            "lang": "ru",
+            "likes": "4"
+        },
+        {
+            "id": "147953",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovielogo/kung-fu-panda-3-570b2aa07928e.png",
+            "lang": "zh",
+            "likes": "3"
+        },
+        {
+            "id": "376915",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovielogo/kung-fu-panda-3-632c3bcda7452.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdmovieclearart": [
+        {
+            "id": "126860",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-563ce24c1bb12.png",
+            "lang": "en",
+            "likes": "12"
+        },
+        {
+            "id": "130283",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-5665288cd16ee.png",
+            "lang": "en",
+            "likes": "10"
+        },
+        {
+            "id": "144450",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-56f1543b780c4.png",
+            "lang": "en",
+            "likes": "10"
+        },
+        {
+            "id": "117358",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-55c4df9c0bd4f.png",
+            "lang": "en",
+            "likes": "8"
+        },
+        {
+            "id": "144451",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-56f1547e39a6a.png",
+            "lang": "en",
+            "likes": "7"
+        },
+        {
+            "id": "126861",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-563ce2639fc37.png",
+            "lang": "ru",
+            "likes": "5"
+        },
+        {
+            "id": "199255",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-595a008ce80c5.png",
+            "lang": "en",
+            "likes": "4"
+        },
+        {
+            "id": "199256",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-595a008cee2a7.png",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "199254",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/hdmovieclearart/kung-fu-panda-3-595a008ce1e2a.png",
+            "lang": "en",
+            "likes": "3"
+        }
+    ],
+    "moviedisc": [
+        {
+            "id": "137935",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-56bfc3e69cb8c.png",
+            "lang": "en",
+            "likes": "10",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "141110",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-56d7100e418ef.png",
+            "lang": "en",
+            "likes": "10",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "133467",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-5690e3241ba35.png",
+            "lang": "ru",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "337241",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-60cbac569b527.png",
+            "lang": "en",
+            "likes": "3",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "337240",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-60cbac4a8981f.png",
+            "lang": "en",
+            "likes": "3",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "158262",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-5781fa86a6d8a.png",
+            "lang": "de",
+            "likes": "3",
+            "disc": "1",
+            "disc_type": "3d"
+        },
+        {
+            "id": "184480",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviedisc/kung-fu-panda-3-58af05ca13c6a.png",
+            "lang": "en",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "bluray"
+        }
+    ],
+    "movieposter": [
+        {
+            "id": "128589",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-564f4f8f1b93f.jpg",
+            "lang": "00",
+            "likes": "9"
+        },
+        {
+            "id": "121665",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-55f8f5dcd5035.jpg",
+            "lang": "00",
+            "likes": "6"
+        },
+        {
+            "id": "128590",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-564f4fa9f2fd4.jpg",
+            "lang": "en",
+            "likes": "6"
+        },
+        {
+            "id": "135865",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-56ab123fcf9b6.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "135863",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-56ab0e09dabc8.jpg",
+            "lang": "00",
+            "likes": "5"
+        },
+        {
+            "id": "120593",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-55ec1f100570b.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "121664",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-55f8f3c21264a.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "260603",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-5cf683764bb73.jpg",
+            "lang": "en",
+            "likes": "4"
+        },
+        {
+            "id": "147954",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-570b2cf263d6a.jpg",
+            "lang": "zh",
+            "likes": "4"
+        },
+        {
+            "id": "122004",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-55fe771952b6f.jpg",
+            "lang": "ru",
+            "likes": "4"
+        },
+        {
+            "id": "191244",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-58f21407ec559.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "181956",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-5895f1285d811.jpg",
+            "lang": "00",
+            "likes": "3"
+        },
+        {
+            "id": "181955",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-5895f11e6f283.jpg",
+            "lang": "00",
+            "likes": "3"
+        },
+        {
+            "id": "181953",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-5895f108ba24a.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "157621",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-5778cd90e9073.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "181954",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-5895f113992a2.jpg",
+            "lang": "00",
+            "likes": "2"
+        },
+        {
+            "id": "419366",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/movieposter/kung-fu-panda-3-65b1054494732.jpg",
+            "lang": "zh",
+            "likes": "0"
+        }
+    ],
+    "moviebanner": [
+        {
+            "id": "135783",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebanner/kung-fu-panda-3-56aa5dc389a5e.jpg",
+            "lang": "en",
+            "likes": "6"
+        }
+    ],
+    "moviethumb": [
+        {
+            "id": "143958",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviethumb/kung-fu-panda-3-56ed98ec91e37.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "181644",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviethumb/kung-fu-panda-3-58928784aafa7.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "204727",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviethumb/kung-fu-panda-3-59b5f40b0abbf.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "349002",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviethumb/kung-fu-panda-3-616c79970cadd.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "moviebackground": [
+        {
+            "id": "156320",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-57667f4da66e5.jpg",
+            "lang": "",
+            "likes": "5"
+        },
+        {
+            "id": "134677",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-569c673f8f078.jpg",
+            "lang": "",
+            "likes": "5"
+        },
+        {
+            "id": "134675",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-569c652ec80f5.jpg",
+            "lang": "",
+            "likes": "5"
+        },
+        {
+            "id": "121667",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-55f8f9e7de90d.jpg",
+            "lang": "",
+            "likes": "5"
+        },
+        {
+            "id": "155156",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-5754de0e96050.jpeg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "156321",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-57667f4da715d.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "155158",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-5754de0e96ebd.jpeg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "155157",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-5754de0e96948.jpeg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "121666",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-55f8f67743115.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "121668",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-55f8fdab952cd.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "129225",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-5657240e8cc87.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "349045",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-616d17c954010.jpg",
+            "lang": "",
+            "likes": "1"
+        },
+        {
+            "id": "349044",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-616d17c933c19.jpg",
+            "lang": "",
+            "likes": "0"
+        },
+        {
+            "id": "349046",
+            "url": "https://assets.fanart.tv/fanart/movies/140300/moviebackground/kung-fu-panda-3-616d17c96d074.jpg",
+            "lang": "",
+            "likes": "0"
+        }
+    ]
+}
