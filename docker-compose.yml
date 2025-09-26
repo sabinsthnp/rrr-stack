@@ -154,18 +154,18 @@ services:
 # ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║
 # ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
         
-  homarr:
-    container_name: homarr
-    image: ghcr.io/ajnart/homarr:latest
-    restart: unless-stopped
-    volumes:
-      - ${ARRPATH}homarr/configs:/app/data/configs
-      - ${ARRPATH}homarr/icons:/app/public/icons
-      - ${ARRPATH}homarr/data:/data
-    ports:
-      - '7575:7575'
-    env_file:
-      - '.env'
+  # homarr:
+  #   container_name: homarr
+  #   image: ghcr.io/ajnart/homarr:latest
+  #   restart: unless-stopped
+  #   volumes:
+  #     - ${ARRPATH}homarr/configs:/app/data/configs
+  #     - ${ARRPATH}homarr/icons:/app/public/icons
+  #     - ${ARRPATH}homarr/data:/data
+  #   ports:
+  #     - '7575:7575'
+  #   env_file:
+  #     - '.env'
 
 #      ██╗███████╗██╗     ██╗  ██╗   ██╗███████╗██╗███╗   ██╗
 #      ██║██╔════╝██║     ██║  ╚██╗ ██╔╝██╔════╝██║████╗  ██║
@@ -191,23 +191,23 @@ services:
       - '.env'
     restart: unless-stopped
           
-  emby:
-    image: linuxserver/emby
-    container_name: emby
-    ports:
-      - '8097:8096/tcp'   # Emby web interface
-      - '8920:8920/tcp'   # Secure connection (HTTPS)
-      - '7360:7359/udp'   # Network discovery
-      - '1901:1900/udp'   # DLNA port
-    volumes:
-      - ${ARRPATH}emby/config:/config
-      - ${ARRPATH}radarr/movies:/data/Movies
-      - ${ARRPATH}sonarr/tvshows:/data/TVShows
-      - ${ARRPATH}lidarr/music:/data/Music
-      - ${ARRPATH}readarr/books:/data/Books
-    env_file:
-      - '.env'
-    restart: unless-stopped
+  # emby:
+  #   image: linuxserver/emby
+  #   container_name: emby
+  #   ports:
+  #     - '8097:8096/tcp'   # Emby web interface
+  #     - '8920:8920/tcp'   # Secure connection (HTTPS)
+  #     - '7360:7359/udp'   # Network discovery
+  #     - '1901:1900/udp'   # DLNA port
+  #   volumes:
+  #     - ${ARRPATH}emby/config:/config
+  #     - ${ARRPATH}radarr/movies:/data/Movies
+  #     - ${ARRPATH}sonarr/tvshows:/data/TVShows
+  #     - ${ARRPATH}lidarr/music:/data/Music
+  #     - ${ARRPATH}readarr/books:/data/Books
+  #   env_file:
+  #     - '.env'
+  #   restart: unless-stopped
 #  ██████╗ ██████╗ ██╗████████╗████████╗ ██████╗ ██████╗ ██████╗ ███████╗███╗   ██╗████████╗
 # ██╔═══██╗██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝
 # ██║   ██║██████╔╝██║   ██║      ██║   ██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║   ██║   
