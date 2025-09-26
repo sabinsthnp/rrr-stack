@@ -133,19 +133,19 @@ services:
 # ██║  ██║███████╗██║  ██║██████╔╝██║  ██║██║  ██║██║  ██║
 # ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
                                                                                                                    
-  readarr:
-    image: linuxserver/readarr:develop
-    container_name: readarr
-    hostname: readarr
-    volumes:
-      - ${ARRPATH}readarr/config:/config
-      - ${ARRPATH}readarr/books:/data/books
-      - ${ARRPATH}downloads:/downloads
-    ports:
-      - 8787:8787
-    restart: unless-stopped
-    env_file:
-      - '.env'
+  # readarr:
+  #   image: linuxserver/readarr:develop
+  #   container_name: readarr
+  #   hostname: readarr
+  #   volumes:
+  #     - ${ARRPATH}readarr/config:/config
+  #     - ${ARRPATH}readarr/books:/data/books
+  #     - ${ARRPATH}downloads:/downloads
+  #   ports:
+  #     - 8787:8787
+  #   restart: unless-stopped
+  #   env_file:
+  #     - '.env'
 
 # ██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ██████╗ ██████╗ 
 # ██║  ██║██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗
